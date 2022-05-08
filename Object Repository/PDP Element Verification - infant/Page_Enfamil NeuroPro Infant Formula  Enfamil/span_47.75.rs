@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_47.75</name>
+   <tag></tag>
+   <elementGuidId>07c95553-25f5-45aa-900e-585b5ce940f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'price--discount']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product__subscribe--price-container.price--savings > div.product__subscribe-price > span.price--discount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class = 'price--discount'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d47520e-e478-4625-b8a7-2b143bf4720c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price--discount</value>
+      <webElementGuid>150e200a-b731-4284-a740-0a1f3d5a2358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$47.75</value>
+      <webElementGuid>3b61a553-cb13-4273-98aa-2fd157fa53ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page--sticky-nav mouse-click ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open modal__overlay formula-calculator modal-slide-info subscribe-save-popup overlay tooltip__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal formula-calculator modal-slide-info subscribe-save-popup overlay tooltip&quot;]/section[@class=&quot;overlay-containter&quot;]/div[@class=&quot;overlay&quot;]/p[@class=&quot;overlay__content&quot;]/p[1]/div[@class=&quot;product__subscribe--price&quot;]/div[@class=&quot;product__subscribe--price-container price--savings&quot;]/div[@class=&quot;product__subscribe-price&quot;]/span[@class=&quot;price--discount&quot;]</value>
+      <webElementGuid>313075f6-0025-4bfc-b96a-e7b4e186ab7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your savings'])[1]/following::span[1]</value>
+      <webElementGuid>c8317f0f-bb29-4f1c-98b1-52aecb05b314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$143.24'])[3]/following::span[2]</value>
+      <webElementGuid>6f61904c-dabb-4e70-8503-411b62d11bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscribe &amp; Save'])[1]/preceding::span[1]</value>
+      <webElementGuid>5ff6c7a5-6b5b-4df6-8ddc-ba6cd9559511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Subscribe to Save?'])[1]/preceding::span[1]</value>
+      <webElementGuid>5273416c-add6-424d-96fe-025ed40782b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$47.75']/parent::*</value>
+      <webElementGuid>206c0b36-2b17-4d55-92cd-876c2a9d6e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/div/div[3]/div[2]/span</value>
+      <webElementGuid>81395a78-b0e1-43a0-ae7b-73de68409483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$47.75' or . = '$47.75')]</value>
+      <webElementGuid>49765b66-bdf5-4d80-bc68-140a38dc18a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

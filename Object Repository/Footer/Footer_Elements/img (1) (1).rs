@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img (1) (1)</name>
+   <tag></tag>
+   <elementGuidId>301374f3-19f5-4e14-a244-c3ab8f553c99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/footer[@class=&quot;main-footer&quot;]/div[@class=&quot;page-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row main-footer__main main-footer__order hide-mobile&quot;]/div[@class=&quot;content-grid__column main-footer__download  content-grid__column--size-4&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte-wrapper__components&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__component rte__component--componentMobileAppIcon&quot;]/a[@class=&quot;space-right link&quot;]/img[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.space-right.link > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@aria-label='Enfamil Family Beginnings� is available on App Store opens in new tab']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8ffa0e4f-7ae2-4d58-a86f-d38be3b23a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d2jiwtuosjkcsj.cloudfront.net/media/cache/0/0/a/4/2/c/00a42ce4ac118af94c43f6c21db22d2160787324.png</value>
+      <webElementGuid>22c79835-c86c-459d-b4b6-63a5ef078ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>47</value>
+      <webElementGuid>804352d7-67b9-40a3-8b53-d98e726cea25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>140</value>
+      <webElementGuid>0446835c-1e3a-49ab-9f3f-0352eb321477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/footer[@class=&quot;main-footer&quot;]/div[@class=&quot;page-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row main-footer__main main-footer__order hide-mobile&quot;]/div[@class=&quot;content-grid__column main-footer__download  content-grid__column--size-4&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte-wrapper__components&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__component rte__component--componentMobileAppIcon&quot;]/a[@class=&quot;space-right link&quot;]/img[1]</value>
+      <webElementGuid>1d2ea84f-f8b3-4306-93a0-36cb33e36ee0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/footer/div/section/div/div/div[2]/div/div/div/div[2]/a/img</value>
+      <webElementGuid>d8c5abde-6b2b-49ed-856e-7a9b252c8263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/0/0/a/4/2/c/00a42ce4ac118af94c43f6c21db22d2160787324.png')]</value>
+      <webElementGuid>ece1fdd8-3216-4001-9fca-75bd74a5c316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/img</value>
+      <webElementGuid>01373c5e-7a1e-41c6-b0f2-1f41ca17967c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/0/0/a/4/2/c/00a42ce4ac118af94c43f6c21db22d2160787324.png']</value>
+      <webElementGuid>19c0c884-5014-42ba-9d69-62d5bb94cddc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

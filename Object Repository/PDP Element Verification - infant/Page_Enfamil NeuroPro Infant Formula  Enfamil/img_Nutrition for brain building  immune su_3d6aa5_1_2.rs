@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Nutrition for brain building  immune su_3d6aa5_1_2</name>
+   <tag></tag>
+   <elementGuidId>b07ec305-a2b8-4306-8ef7-b670a1c3b8ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.product-hero-images__list-item.active > img.product-hero-images__list-item-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@class = 'product-hero-images__list-item-image'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>66237a7a-8d79-4dda-b5a9-15a57c5eb77c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-hero-images__list-item-image</value>
+      <webElementGuid>fab425b8-b784-4fd5-a543-f92956657621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.shopify.com/s/files/1/2235/8243/products/NP__B___icons_100x.png?v=1646753101</value>
+      <webElementGuid>b2bafd1b-85d7-4a8c-aade-0d10b1f61871</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Enfamil NeuroPro Infant Formula</value>
+      <webElementGuid>fb46c159-b920-408c-9def-69488d96782c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__hero content-grid__column--size-6&quot;]/div[@class=&quot;product-hero&quot;]/div[@class=&quot;product-hero__thumbnail&quot;]/button[@class=&quot;product-hero-images__list-item active&quot;]/img[@class=&quot;product-hero-images__list-item-image&quot;]</value>
+      <webElementGuid>dc3d10e1-f343-4a5d-92f4-89dd12e4075b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div/div/div[2]/button[4]/img</value>
+      <webElementGuid>46b261c4-fae9-4cf9-9e1d-cbea6b79e7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Enfamil NeuroPro Infant Formula'])[4]</value>
+      <webElementGuid>9e58f432-a541-49e6-9dad-5aa634e65f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/img</value>
+      <webElementGuid>6edd6db8-6d89-426e-b815-85ee4e07ae56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.shopify.com/s/files/1/2235/8243/products/NP__B___icons_100x.png?v=1646753101' and @alt = 'Enfamil NeuroPro Infant Formula']</value>
+      <webElementGuid>99daeddd-46b7-452a-a63f-4a001eab4cac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

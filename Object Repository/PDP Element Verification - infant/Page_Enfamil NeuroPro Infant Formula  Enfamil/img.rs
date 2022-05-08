@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>f8395c0b-bf1d-4034-94a4-27f72351b9e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[3]/div/div/div[2]/div[2]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-overview__highlight-item__image > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a040aeb4-598a-480f-83c9-470fb28f2ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.shopify.com/s/files/1/2235/8247/files/icon-benefits-_1-brand-recommended-by_pediatricians.svg?v=1603861111%22</value>
+      <webElementGuid>de967f70-64f2-4886-9897-ab553bbaa7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-overview-margin animate-row aos-init aos-animate&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;product-overview&quot;]/div[@class=&quot;product-overview__content&quot;]/div[@class=&quot;product-overview__right column--size-5&quot;]/div[@class=&quot;product-overview__highlight-item&quot;]/div[@class=&quot;product-overview__highlight-item__image&quot;]/img[1]</value>
+      <webElementGuid>87fa362e-5139-4044-b0bf-81217b1a441f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[3]/div/div/div[2]/div[2]/div/div/img</value>
+      <webElementGuid>96c3df2e-24ad-4ead-8290-fcfe9a1a31e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cdn.shopify.com/s/files/1/2235/8247/files/icon-benefits-_1-brand-recommended-by_pediatricians.svg?v=1603861111%22')]</value>
+      <webElementGuid>161d41d4-7b83-49dc-804f-fc94f850f9a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/div/div/img</value>
+      <webElementGuid>bd960b7a-8629-4ce7-a4c7-ed6cb8c200db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.shopify.com/s/files/1/2235/8247/files/icon-benefits-_1-brand-recommended-by_pediatricians.svg?v=1603861111%22']</value>
+      <webElementGuid>658348c1-a6d6-4c0c-b654-921e2efe8ee9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

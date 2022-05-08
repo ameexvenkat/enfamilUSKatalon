@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>FeedingDropdown</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>12f235a6-5060-4ed7-99cc-31261ce89e8d</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>I%27m+not+sure</data>
+   <data>Breast+milk+and+formula</data>
+   <data>Breast+milk+only</data>
+   <data>Formula+only</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Dropdown_Values</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

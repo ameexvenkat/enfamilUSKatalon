@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Prev</name>
+   <tag></tag>
+   <elementGuidId>09122de4-d420-4a7f-b000-336569b5b218</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-hero-images__image-col > div.slider > div.slider-control-centerleft > button[type=&quot;button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[84]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@aria-label = 'previous' and @type = 'button' and (text() = 'Prev' or . = 'Prev')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3e44cdeb-857d-4dae-922e-598efde676c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>previous</value>
+      <webElementGuid>5ba7f89d-907f-41b0-8a75-cbdbc05a02c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>512badd5-f6d9-4718-bebe-f5e7137d9b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prev</value>
+      <webElementGuid>e96708de-ec78-4d87-ba0e-36c76acbc27f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page--sticky-nav mouse-click ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open gallery-modal modal__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open gallery-modal__content&quot;]/div[@class=&quot;product-hero-images&quot;]/div[@class=&quot;row product-hero-images__image-row&quot;]/div[@class=&quot;product-hero-images__image-col&quot;]/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-control-centerleft&quot;]/button[1]</value>
+      <webElementGuid>7b42f09a-9bd2-4e2e-a733-9610c70c150a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[84]</value>
+      <webElementGuid>1740b7de-6654-407c-bfe0-cc833cb34910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slide 6 of 24'])[1]/following::button[3]</value>
+      <webElementGuid>bec6b395-63d1-4ced-a97e-cf9ba283ad23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pinch to zoom images'])[1]/following::button[3]</value>
+      <webElementGuid>3631eb75-e225-4a1a-8cd3-40edd559f96f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[3]/preceding::button[1]</value>
+      <webElementGuid>3b1b3e37-840a-4a8e-8550-3afedef957c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cookie policy.'])[1]/preceding::button[51]</value>
+      <webElementGuid>c9e2b7b0-992e-4f98-882a-ca70f56e9000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div[2]/div/div/div[3]/button</value>
+      <webElementGuid>514092e1-d6b9-4f3a-8b02-971d9ac3fb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Prev' or . = 'Prev')]</value>
+      <webElementGuid>ea0190d7-ddae-4362-8f2f-8322aebcf30f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enspire - Form Field Verification</description>
+   <name>Enspire - UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac67d5a7-af71-4b34-a67d-025d68ccf802</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_For our nutrition closest to breast milk_2fdbc6</name>
+   <tag></tag>
+   <elementGuidId>330cd025-75b1-48ae-b121-6b8b8e2e7725</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[8]/div/div[2]/div/div/div/section/div/div/div/div/div/div/div[2]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider-slide slide-visible</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>For our nutrition closest to breast milkMore formats &amp; sizes availableEnfamil Enspire Infant FormulaTop RatedOne time purchase$41.99Subscribe to Save 25%$31.49Shop NowCompareTest promo</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid content-grid--main&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width  categories-tab categories-tab--center list-child-pages-cards zindex-2 page-border-radius&quot;]/div[@class=&quot;content-grid__column list-child-pages-image-bottom-right margin-bottom-xxlarge hide-filter-pagination content-grid__column--size-12&quot;]/div[@class=&quot;grid-wrapper slideshow-picker slideshow-picker--tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;slideshow-picker__slide slideshow-picker__slide--active&quot;]/section[@class=&quot;content-grid content-grid--main&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column hide-filter-pagination content-grid__column--size-12&quot;]/div[@class=&quot;row product-list product-list--shopify search-results--no-products&quot;]/div[@class=&quot;col product-list__products&quot;]/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-frame&quot;]/ul[@class=&quot;slider-list&quot;]/li[@class=&quot;slider-slide slide-visible&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[8]/div/div[2]/div/div/div/section/div/div/div/div/div/div/div[2]/ul/li[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[2]/following::li[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Now'])[2]/following::li[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/ul/li[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'For our nutrition closest to breast milkMore formats &amp; sizes availableEnfamil Enspire Infant FormulaTop RatedOne time purchase$41.99Subscribe to Save 25%$31.49Shop NowCompareTest promo' or . = 'For our nutrition closest to breast milkMore formats &amp; sizes availableEnfamil Enspire Infant FormulaTop RatedOne time purchase$41.99Subscribe to Save 25%$31.49Shop NowCompareTest promo')]</value>
+   </webElementXpaths>
+</WebElementEntity>

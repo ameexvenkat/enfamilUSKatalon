@@ -1,0 +1,154 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_Sign In",
+      "brokenLocator": "//button[@aria-label \u003d \u0027Sign In\u0027 and @type \u003d \u0027button\u0027]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_Sign In_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/LoggedIn_Page_Validation/h2_My Account",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/main/article/section[2]/div/div/div/div/div/div/div/div/h2",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h2",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/LoggedIn_Page_Validation/h2_My Account_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/LoggedIn_Page_Validation/span_Log out",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/header/div[2]/div/div[2]/ul/li[3]/ul/li[7]/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Español\u0027])[1]/preceding::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/LoggedIn_Page_Validation/span_Log out_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Password_Reset/Reset detail Page/Invalid User error message",
+      "brokenLocator": "//div[@class\u003d\u0027login-register-reset__message login-register-reset__message--error\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/main/article/section[2]/div/div[3]/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Password_Reset/Reset detail Page/Invalid User error message_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Password_Reset/Reset detail Page/div_Please enter a valid email address",
+      "brokenLocator": "//div[@class\u003d\u0027login-register-reset__message login-register-reset__message--error\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/main/article/section[2]/div/div[3]/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Password_Reset/Reset detail Page/div_Please enter a valid email address_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook Sign In/Unregistered/Page_Free Baby Formula Samples  Coupons  Enfamil/First name_registerGivenNameField",
+      "brokenLocator": "//input[@id\u003d\u0027registerGivenNameField_256\u0027 and @placeholder\u003d\u0027First name*\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027enroll-form\u0027]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Facebook Sign In/Unregistered/Page_Free Baby Formula Samples  Coupons  Enfamil/First name_registerGivenNameField_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Apple Sign In/Unregistered/Page_Sign in with AppleID/button_Trust",
+      "brokenLocator": "//button[@id\u003d\u0027trust-browser-1648044871151-2\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Don’t Trust\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Apple Sign In/Unregistered/Page_Sign in with AppleID/button_Trust_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login_Page_functions_check/button_Sign in",
+      "brokenLocator": "//button[@aria-label\u003d\u0027Sign in\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@type\u003d\u0027submit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login_Page_functions_check/button_Sign in_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login Pop Up/Pop Up Elements Validation/button_Close",
+      "brokenLocator": "(//button[@type\u003d\u0027button\u0027])[52]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Join now\u0027])[4]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login Pop Up/Pop Up Elements Validation/button_Close_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login Pop Up/Sign In with Email/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_My Account",
+      "brokenLocator": "//a[@class\u003d\u0027account-nav-main__link account-nav-main__link--lvl1 link link--active\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/header/div[2]/div/div[2]/ul/li[3]/a/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login Pop Up/Sign In with Email/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_My Account_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login Page/Login_Page_functions_check/div_Email field is required",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/main/article/section[2]/div/div[3]/div/div/form/fieldset/div[3]/ul/li/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Email*\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login Page/Login_Page_functions_check/div_Email field is required_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login Page/Apple Sign In/Unregistered/Page_Sign in  Enfamil US/h1_Sign In",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/main/article/section[2]/div/div[2]/div/div/div/div/div[2]/div/h1",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Continue with Facebook\u0027])[1]/preceding::h1[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login Page/Apple Sign In/Unregistered/Page_Sign in  Enfamil US/h1_Sign In_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Login Pop Up/Pop Up Elements Validation/h2_Sign In to Enfamil Family Beginnings",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Agent Offline\u0027])[1]/following::h2[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Email*\u0027])[4]/preceding::h2[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Login Pop Up/Pop Up Elements Validation/h2_Sign In to Enfamil Family Beginnings_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Enrollment Series/Step1/Baby Formula Samples Coupons page/Error_First name field is required",
+      "brokenLocator": "//div[@id\u003d\u0027enroll-form\u0027]/div/div/ul/li/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027First name*\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Enrollment Series/Step1/Baby Formula Samples Coupons page/Error_First name field is required_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Enrollment Series/Step1/Baby Formula Samples Coupons page/Input_First name",
+      "brokenLocator": "//input[@id\u003d\u0027registerGivenNameField_997\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027enroll-form\u0027]/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Enrollment Series/Step1/Baby Formula Samples Coupons page/Input_First name_idRelative.png"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_More Info</name>
+   <tag></tag>
+   <elementGuidId>5d50a48e-635e-462d-8966-f1106a3fb423</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[7]/div/p/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@aria-label = 'Afterpay Information - Opens a dialog']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.afterpay-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d8f88ddc-0b52-429d-bd2b-7a655830414f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>afterpay-link</value>
+      <webElementGuid>41a506b4-6685-4a14-bc3f-e83ebc8851f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4711e177-0c4b-4829-8960-228da77ab50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.afterpay.com/purchase-payment-agreement</value>
+      <webElementGuid>4dc585bb-096a-450f-bcd5-999c9ab1894b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Afterpay Information - Opens a dialog</value>
+      <webElementGuid>06fa5023-227d-4318-97b6-cafed5e9c31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More Info</value>
+      <webElementGuid>6aedc8e9-c37d-4614-91bc-dcd148e75318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;pay-later&quot;]/div[@class=&quot;price&quot;]/p[@class=&quot;afterpay-paragraph&quot;]/a[@class=&quot;afterpay-link&quot;]</value>
+      <webElementGuid>0a2fbfdf-7bd8-4d80-97bd-e987c36badf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[7]/div/p/a</value>
+      <webElementGuid>90f3c839-bfc6-4f3e-9a67-d200472d8f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'More Info')]</value>
+      <webElementGuid>8f561dbc-43ef-46c9-be50-076757fbd7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='available for orders between $1 - $100'])[1]/following::a[1]</value>
+      <webElementGuid>65e41ae1-196e-4ce1-affb-ab7cb82a0608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$190.99'])[6]/following::a[1]</value>
+      <webElementGuid>25ad1e7e-d056-42c9-9de1-3dbf23073989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping'])[1]/preceding::a[1]</value>
+      <webElementGuid>e13290b2-34b5-4e24-8a01-e858cc32d3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Find in store'])[1]/preceding::a[1]</value>
+      <webElementGuid>27f4070a-05a2-43b0-adda-3d672e28a769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.afterpay.com/purchase-payment-agreement')]</value>
+      <webElementGuid>437e1247-8012-4e9e-9381-0b1cb5890b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/p/a</value>
+      <webElementGuid>a046b218-de47-4d59-b337-e8ad40543cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.afterpay.com/purchase-payment-agreement' and (text() = 'More Info' or . = 'More Info')]</value>
+      <webElementGuid>07cab51c-5b88-4a4b-9a1d-3232abab6a12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

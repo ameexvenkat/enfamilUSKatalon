@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Enfamil Partner Discounts</name>
+   <tag></tag>
+   <elementGuidId>473b4dac-5999-40aa-bc94-c7e35a9f00c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Enfamil Partner Discounts' or . = 'Enfamil Partner Discounts')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.title__heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>7ad6b38e-6960-469a-8d7d-89bd2296c3cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title__heading</value>
+      <webElementGuid>586ac2d3-4b63-4b47-8cdd-7ff86c0df48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enfamil Partner Discounts</value>
+      <webElementGuid>ba382603-69fe-49f5-bda6-8012702761b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row promotion__offers promotion__offers-variationtwo&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;title text-center&quot;]/h3[@class=&quot;title__heading&quot;]</value>
+      <webElementGuid>799cc031-259a-4085-9de4-363400fecb13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/h3</value>
+      <webElementGuid>8a15f0d6-c739-4136-aed4-e3088c6315d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partnership Offers'])[2]/following::h3[1]</value>
+      <webElementGuid>237f1405-550b-4fe1-8143-d28144b3aab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partnership Offers'])[1]/following::h3[1]</value>
+      <webElementGuid>34233043-4a90-419e-844b-ed0100fb4a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='offers'])[1]/preceding::h3[1]</value>
+      <webElementGuid>170b8993-8b93-4a4b-a723-cd0a586b76ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layout:'])[1]/preceding::h3[1]</value>
+      <webElementGuid>dfd6a169-6504-4667-9d89-020084cdfa93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enfamil Partner Discounts']/parent::*</value>
+      <webElementGuid>3aad3bf4-121c-47b0-92fc-e2bd8a4cbdc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h3</value>
+      <webElementGuid>0d572ace-00c6-4b42-9c46-d78da1db81b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Enfamil Partner Discounts' or . = 'Enfamil Partner Discounts')]</value>
+      <webElementGuid>887feeef-1c76-41c3-93ef-0596e7b66e55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

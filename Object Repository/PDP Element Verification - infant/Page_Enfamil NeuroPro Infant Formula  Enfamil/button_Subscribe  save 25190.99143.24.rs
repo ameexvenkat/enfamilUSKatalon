@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Subscribe  save 25190.99143.24</name>
+   <tag></tag>
+   <elementGuidId>567f3351-c1c9-4413-b2b6-dd9453c8ae15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[56]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-grid__column.product-main__info.content-grid__column--size-6 > div.product-options.product-cta--wrapper > div.product-options__price > div.add-to-cart > div.subscription > div.row.product-options__row > div.product-options__content-frequency > div.product-options__content-frequency-sns-wrapper > button.product-options__content-frequency-button.product-options__content-frequency-button--sns</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7e37f0e1-894f-4056-83ce-79e9e60e3f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b62f6120-ee89-4bb2-8b7c-1f76a6a8232e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Subscribe</value>
+      <webElementGuid>04d7d78d-9da9-4bac-88ad-7e2f763e8af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-options__content-frequency-button product-options__content-frequency-button--sns</value>
+      <webElementGuid>0f9430ca-41a2-4ee0-ba01-6c02be632844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Subscribe &amp; save 25%$190.99$143.24</value>
+      <webElementGuid>43c2a0a6-3581-4df5-9c5e-c2088a5c5fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;product-options product-cta--wrapper&quot;]/div[@class=&quot;product-options__price&quot;]/div[@class=&quot;add-to-cart&quot;]/div[@class=&quot;subscription&quot;]/div[@class=&quot;row product-options__row&quot;]/div[@class=&quot;product-options__content-frequency&quot;]/div[@class=&quot;product-options__content-frequency-sns-wrapper&quot;]/button[@class=&quot;product-options__content-frequency-button product-options__content-frequency-button--sns&quot;]</value>
+      <webElementGuid>13b64d69-6d85-40ad-bec2-56447ed3e381</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[56]</value>
+      <webElementGuid>dad24530-bcde-4096-9ac7-0d729aeb3597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[6]/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>098caeae-1830-49a4-99cf-f412f51d9266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One-time order'])[2]/following::button[1]</value>
+      <webElementGuid>dffd7899-7ca0-4d15-b6b4-fb67aae5bcec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil NeuroPro Infant Formula'])[5]/following::button[2]</value>
+      <webElementGuid>abbe0740-80ca-4cac-97d5-b92e76788845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div/div[2]/div/button</value>
+      <webElementGuid>4db4e17f-b789-4b23-b219-5e53ee329c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Subscribe &amp; save 25%$190.99$143.24' or . = 'Subscribe &amp; save 25%$190.99$143.24')]</value>
+      <webElementGuid>2c53bb3d-a2ab-4ff4-bb32-f9dc9468515c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

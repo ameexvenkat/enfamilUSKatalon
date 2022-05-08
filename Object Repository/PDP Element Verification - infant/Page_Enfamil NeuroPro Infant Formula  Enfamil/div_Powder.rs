@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Powder</name>
+   <tag></tag>
+   <elementGuidId>8c5a1b11-f0b7-489c-a07d-ec9f4f75cab4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='What is the difference between powder, liquid and concentrate?'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.format-overlay__desc--head</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e117d687-620b-41a3-8c7b-d645a85527c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>format-overlay__desc--head</value>
+      <webElementGuid>9856dd49-4512-49fe-a468-1de48e82eaf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Powder</value>
+      <webElementGuid>1040d906-333a-4f2d-a64e-82d80d24771f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page--sticky-nav mouse-click ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open modal__overlay formula-calculator modal-slide-info overlay tooltip__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal formula-calculator modal-slide-info overlay tooltip&quot;]/section[@class=&quot;overlay-containter&quot;]/div[@class=&quot;overlay&quot;]/p[@class=&quot;overlay__content&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main__info--tooltip&quot;]/div[@class=&quot;content-grid__column rte__format--overlay-info content-grid__column--size-12&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text&quot;]/div[@class=&quot;format-overlay&quot;]/div[@class=&quot;format-overlay__list&quot;]/div[@class=&quot;format-overlay__list-items&quot;]/div[@class=&quot;format-overlay__desc--head&quot;]</value>
+      <webElementGuid>47e36040-9914-406a-b6ba-37d5e3937b0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is the difference between powder, liquid and concentrate?'])[1]/following::div[3]</value>
+      <webElementGuid>e51474cc-f1e6-4162-8dc3-a57b30ccfb0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formula Types'])[1]/following::div[4]</value>
+      <webElementGuid>dcf19df5-757a-499a-a4da-36182a9485de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquid'])[2]/preceding::div[1]</value>
+      <webElementGuid>5ad030af-93af-42a8-87db-63d622925436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Concentrate'])[1]/preceding::div[3]</value>
+      <webElementGuid>320d1c85-4a90-4cc4-a2b6-a88b91ffeeb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>4dda3bfb-b23e-4fc0-b84e-8a7c27dce4ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Powder' or . = 'Powder')]</value>
+      <webElementGuid>e8698b1e-efd0-4431-aced-6cdaec7bed12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_carousel-item__content-image</name>
+   <tag></tag>
+   <elementGuidId>75b0c23e-b7f1-46d2-a56f-f14d8ed77c17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carousel-item__content-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/section[@class=&quot;content-grid content-grid--main&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row page-banner personalization-shortform-top page-banner--with-form  content-grid--full-width&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row overlay-shortform-banner&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[1]/div[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-item carousel-item--default carousel-item--col data-gtm-view personalization-shortform&quot;]/div[@class=&quot;carousel-item__content-wrapper carousel-item__content-wrapper--above&quot;]/div[@class=&quot;carousel-item__content-image&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

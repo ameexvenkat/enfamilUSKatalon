@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Shipping locationYour current location is Chennai, Tamil NaduChange LocationSelect.Close</name>
+   <tag></tag>
+   <elementGuidId>dece1188-5232-4f97-8e10-68d7be95d9ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ReactModal__Content.ReactModal__Content--after-open.modal.overlay.formula-calculator.modal-slide-info.location-picker</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c3374e24-f383-459b-9fb1-de2b9de948fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ReactModal__Content ReactModal__Content--after-open modal overlay formula-calculator modal-slide-info location-picker</value>
+      <webElementGuid>e258b21a-d20c-4cfb-bfd1-70613e8afef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b13d373a-76ed-48a8-9dad-0d5fa577244e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>2c25d46b-7afa-4c90-b3f0-0cd177567270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipping locationYour current location is Chennai, Tamil NaduChange LocationSelect...Close</value>
+      <webElementGuid>58db2c59-0d79-4b97-9ee5-649a6fdb41f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page--sticky-nav mouse-click ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open modal__overlay overlay formula-calculator modal-slide-info location-picker__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal overlay formula-calculator modal-slide-info location-picker&quot;]</value>
+      <webElementGuid>cf30efcc-eb41-4ae9-9641-abacd6c11a4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::div[6]</value>
+      <webElementGuid>1f0cd960-1f46-4349-a790-0359219a95aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live chat:'])[1]/following::div[6]</value>
+      <webElementGuid>4f9b7af1-edba-42d9-af02-a3897ef5e541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/div</value>
+      <webElementGuid>7d12712c-792d-4c3f-abf2-c6c386e8c408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Shipping locationYour current location is Chennai, Tamil NaduChange LocationSelect...Close' or . = 'Shipping locationYour current location is Chennai, Tamil NaduChange LocationSelect...Close')]</value>
+      <webElementGuid>59ee27e2-5f87-401b-84dc-7d17febe96cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

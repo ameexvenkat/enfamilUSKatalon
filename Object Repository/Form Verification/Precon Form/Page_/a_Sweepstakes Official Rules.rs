@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sweepstakes Official Rules</name>
+   <tag></tag>
+   <elementGuidId>709da6b5-23da-420e-98e6-54a47e14d109</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[(text() = 'Sweepstakes Official Rules' or . = 'Sweepstakes Official Rules.')])[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(text() = 'Sweepstakes Official Rules' or . = 'Sweepstakes Official Rules')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e3858759-e5e5-4de5-86b2-8dd2b570235d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>2924610c-e2e9-473d-8568-ca282c64e069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/free-formula-sweepstakes</value>
+      <webElementGuid>dab2ff20-33db-4e66-bc78-486ea6a90150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>f8288132-3979-4b9d-9c0f-7d2f4a90617d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sweepstakes Official Rules</value>
+      <webElementGuid>7cf7da0a-9882-40b9-a9e1-2121f7e01eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row page-banner page-banner--with-form content-grid--full-width&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;consumer-form&quot;]/div[@class=&quot;consumer-form__form&quot;]/form[@class=&quot;consumer-form__form&quot;]/section[@class=&quot;content-grid content-grid--consumer-form__form-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;form-control form-control--not-input&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text&quot;]/p[@class=&quot;tdesc enrollment-bottom-desc&quot;]/a[3]</value>
+      <webElementGuid>fdea596b-f4f6-40b9-a2fd-f1f802889bbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div[2]/div/form/section/div/div[4]/div/div/div/div/div/p/a[3]</value>
+      <webElementGuid>15a8c9c8-c9d2-43e2-8751-6390d1a5d10e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sweepstakes Official Rules')]</value>
+      <webElementGuid>71dad28d-039a-454c-abe7-b468eee8803e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::a[1]</value>
+      <webElementGuid>a47b7a01-a758-40fd-a869-2e0b6a62bd4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/following::a[2]</value>
+      <webElementGuid>fc791f71-f9b9-47c5-a6cf-e77543e202ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join now'])[1]/preceding::a[1]</value>
+      <webElementGuid>0f612f42-71e7-4990-a414-e8b10ee7dba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BENEFITS'])[1]/preceding::a[1]</value>
+      <webElementGuid>60f7f6f2-54c7-419d-b65c-346eaa9ad09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sweepstakes Official Rules']/parent::*</value>
+      <webElementGuid>f8049093-de0c-493e-a22c-0f728892940d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/free-formula-sweepstakes')]</value>
+      <webElementGuid>92d6d628-a68c-469c-a2bd-e7a008f7524f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>55b5aff5-a347-40f9-b931-93c70ac105d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/free-formula-sweepstakes' and (text() = 'Sweepstakes Official Rules' or . = 'Sweepstakes Official Rules')]</value>
+      <webElementGuid>5dfc8d29-8ead-41b1-8841-04cc08c99171</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="SmokeTestSuite-Collection" time="303.107" tests="1" failures="1" errors="0">
+   <testsuite name="SmokeTestSuite-Collection" tests="1" failures="1" errors="0" time="303.107" skipped="0" timestamp="2022-04-11 12:03:26" hostname="Venkataraghavan.T - AMX-RL-20-608-W.ameexusa.net" id="Test Suites/SmokeTestCollection - Venkat/SmokeTestSuite-Collection">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\SmoketestSuite\\enfamilUS\\Reports\\20220411_111150\\SmokeTestCollection - Venkat\\SmokeTestSuite-Collection\\20220411_120314"/>
+         <property name="logFiles" value="D:\\SmoketestSuite\\enfamilUS\\Reports\\20220411_111150\\SmokeTestCollection - Venkat\\SmokeTestSuite-Collection\\20220411_120314\\execution0.log"/>
+         <property name="attachments" value="D:\\SmoketestSuite\\enfamilUS\\Reports\\20220411_111150\\SmokeTestCollection - Venkat\\SmokeTestSuite-Collection\\20220411_120314\\1649659095159.png"/>
+         <property name="hostName" value="Venkataraghavan.T - AMX-RL-20-608-W.ameexusa.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.2.5.208"/>
+         <property name="browser" value="Chrome 100.0.4896.75"/>
+         <property name="hostAddress" value="10.10.7.125"/>
+         <property name="sessionId" value="1d6f1ce93955d3119ee14affcf5b9da3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Venkat/Header/Header - Tips Resources Verification" time="301.874" classname="Test Cases/Venkat/Header/Header - Tips Resources Verification" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Venkat/Header/Header - Tips Resources Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:39)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	... 23 more
+"/>
+         <system-out><![CDATA[2022-04-11 12:03:27 - [TEST_CASE][FAILED] - Test Cases/Venkat/Header/Header - Tips Resources Verification: Test Cases/Venkat/Header/Header - Tips Resources Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:39)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	... 23 more
+
+
+2022-04-11 12:03:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-04-11 12:03:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-04-11 12:03:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-04-11 12:03:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-04-11 12:03:39 - [TEST_STEP][PASSED] - navigateToUrl(HomePage): Navigate to 'https://www.enfamil.com/' successfully
+
+2022-04-11 12:03:44 - [MESSAGE][PASSED] - Navigate to 'https://www.enfamil.com/' successfully
+
+2022-04-11 12:03:44 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-04-11 12:03:44 - [MESSAGE][PASSED] - Current window maximized
+
+2022-04-11 12:03:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_GOT IT_onetrust-close-btn-handler on_95ce22")): Object: 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_GOT IT_onetrust-close-btn-handler on_95ce22' is clicked on
+
+2022-04-11 12:04:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_GOT IT_onetrust-close-btn-handler on_95ce22' is clicked on
+
+2022-04-11 12:04:00 - [TEST_STEP][PASSED] - delay(8): Delayed 8 second(s)
+
+2022-04-11 12:04:08 - [MESSAGE][PASSED] - Delayed 8 second(s)
+
+2022-04-11 12:04:08 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:10 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Tips  Resources"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Tips  Resources' is present
+
+2022-04-11 12:04:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:10 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Tips  Resources' is present
+
+2022-04-11 12:04:10 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Tips  Resources"), "Tips & Resources"): Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Tips  Resources' are matched.
+
+2022-04-11 12:04:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Tips  Resources' are matched.
+
+2022-04-11 12:04:12 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_BY AGES STAGES 1"), "BY AGES & STAGES"): Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_BY AGES STAGES 1' are matched.
+
+2022-04-11 12:04:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_BY AGES STAGES 1' are matched.
+
+2022-04-11 12:04:13 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_BY AGES STAGES 1"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_BY AGES STAGES 1' is present
+
+2022-04-11 12:04:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:14 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_BY AGES STAGES 1' is present
+
+2022-04-11 12:04:14 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_BY FEEDING TOPIC"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_BY FEEDING TOPIC' is present
+
+2022-04-11 12:04:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:15 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_BY FEEDING TOPIC' is present
+
+2022-04-11 12:04:15 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:15 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_BY FEEDING TOPIC"), "BY FEEDING TOPIC"): Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_BY FEEDING TOPIC' are matched.
+
+2022-04-11 12:04:16 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_BY FEEDING TOPIC' are matched.
+
+2022-04-11 12:04:16 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_TOOLS"), "TOOLS"): Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_TOOLS' are matched.
+
+2022-04-11 12:04:17 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_TOOLS' are matched.
+
+2022-04-11 12:04:17 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 2"), "FEATURED"): Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 2' are matched.
+
+2022-04-11 12:04:18 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 2' are matched.
+
+2022-04-11 12:04:18 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 2"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 2' is present
+
+2022-04-11 12:04:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:18 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 2' is present
+
+2022-04-11 12:04:18 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_FAQs"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_FAQs' is present
+
+2022-04-11 12:04:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:19 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_FAQs' is present
+
+2022-04-11 12:04:19 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_FAQs"), "FAQs"): Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_FAQs' are matched.
+
+2022-04-11 12:04:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_FAQs' are matched.
+
+2022-04-11 12:04:20 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/p_Helpful advice and answers to parents mos_7696c9"), "Helpful advice and answers to parents' most common questions."): Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/p_Helpful advice and answers to parents mos_7696c9' are matched.
+
+2022-04-11 12:04:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/p_Helpful advice and answers to parents mos_7696c9' are matched.
+
+2022-04-11 12:04:20 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Prenatal 2"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Prenatal 2' is present
+
+2022-04-11 12:04:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:21 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Prenatal 2' is present
+
+2022-04-11 12:04:21 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_PostnatalAfter pregnancy"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_PostnatalAfter pregnancy' is present
+
+2022-04-11 12:04:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:21 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_PostnatalAfter pregnancy' is present
+
+2022-04-11 12:04:21 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Premature09 mos"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Premature09 mos' is present
+
+2022-04-11 12:04:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:22 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Premature09 mos' is present
+
+2022-04-11 12:04:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Newborn0-3 mos"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Newborn0-3 mos' is present
+
+2022-04-11 12:04:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:23 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Newborn0-3 mos' is present
+
+2022-04-11 12:04:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Infant0 - 12 mos"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Infant0 - 12 mos' is present
+
+2022-04-11 12:04:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:23 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Infant0 - 12 mos' is present
+
+2022-04-11 12:04:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Toddler1-3 yrs"), 0): Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Toddler1-3 yrs' is present
+
+2022-04-11 12:04:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:24 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Toddler1-3 yrs' is present
+
+2022-04-11 12:04:24 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:25 - [TEST_STEP][PASSED] - click(findTestObject("Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Prenatal 2")): Object: 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Prenatal 2' is clicked on
+
+2022-04-11 12:04:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Prenatal 2' is clicked on
+
+2022-04-11 12:04:27 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_/h2_My Pregnancy"), 0): Object 'Object Repository/Header/Page_/h2_My Pregnancy' is present
+
+2022-04-11 12:04:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:04:32 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_/h2_My Pregnancy' is present
+
+2022-04-11 12:04:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/h2_My Pregnancy"), "My Pregnancy"): Actual text and expected text of test object 'Object Repository/Header/Page_/h2_My Pregnancy' are matched.
+
+2022-04-11 12:04:32 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/h2_My Pregnancy' are matched.
+
+2022-04-11 12:04:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Prenatal"), "Prenatal"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Prenatal' are matched.
+
+2022-04-11 12:04:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Prenatal' are matched.
+
+2022-04-11 12:04:33 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:04:38 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:04:38 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_PostnatalAfter pregnancy")): Object: 'Object Repository/Header/Page_/a_PostnatalAfter pregnancy' is clicked on
+
+2022-04-11 12:04:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_PostnatalAfter pregnancy' is clicked on
+
+2022-04-11 12:04:40 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Postnatal"), "Postnatal"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Postnatal' are matched.
+
+2022-04-11 12:04:44 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Postnatal' are matched.
+
+2022-04-11 12:04:44 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/h2_After Pregnancy"), "After Pregnancy"): Actual text and expected text of test object 'Object Repository/Header/Page_/h2_After Pregnancy' are matched.
+
+2022-04-11 12:04:45 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/h2_After Pregnancy' are matched.
+
+2022-04-11 12:04:45 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:04:50 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:04:50 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:04:51 - [TEST_STEP][PASSED] - click(findTestObject("Header/Page_/a_Premature_2")): Object: 'Object Repository/Header/Page_/a_Premature_2' is clicked on
+
+2022-04-11 12:04:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Premature_2' is clicked on
+
+2022-04-11 12:04:52 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Premature"), "Premature"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Premature' are matched.
+
+2022-04-11 12:04:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Premature' are matched.
+
+2022-04-11 12:04:56 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/h1_Premature Baby Care"), "Premature Baby Care"): Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Premature Baby Care' are matched.
+
+2022-04-11 12:04:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Premature Baby Care' are matched.
+
+2022-04-11 12:04:57 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:05:02 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:05:02 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Newborn0-3 mos")): Object: 'Object Repository/Header/Page_/a_Newborn0-3 mos' is clicked on
+
+2022-04-11 12:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Newborn0-3 mos' is clicked on
+
+2022-04-11 12:05:04 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Newborn"), "Newborn"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Newborn' are matched.
+
+2022-04-11 12:05:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Newborn' are matched.
+
+2022-04-11 12:05:08 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/h1_Newborn"), "Newborn"): Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Newborn' are matched.
+
+2022-04-11 12:05:09 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Newborn' are matched.
+
+2022-04-11 12:05:09 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:05:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:05:14 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Infant0 - 12 mos")): Object: 'Object Repository/Header/Page_/a_Infant0 - 12 mos' is clicked on
+
+2022-04-11 12:05:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Infant0 - 12 mos' is clicked on
+
+2022-04-11 12:05:16 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/h1_Infant"), "Infant"): Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Infant' are matched.
+
+2022-04-11 12:05:21 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Infant' are matched.
+
+2022-04-11 12:05:21 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Infant"), "Infant"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Infant' are matched.
+
+2022-04-11 12:05:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Infant' are matched.
+
+2022-04-11 12:05:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_/h1_Infant"), 0): Object 'Object Repository/Header/Page_/h1_Infant' is present
+
+2022-04-11 12:05:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:05:23 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_/h1_Infant' is present
+
+2022-04-11 12:05:23 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:05:28 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:05:28 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Toddler1-3 yrs")): Object: 'Object Repository/Header/Page_/a_Toddler1-3 yrs' is clicked on
+
+2022-04-11 12:05:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Toddler1-3 yrs' is clicked on
+
+2022-04-11 12:05:30 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/h1_Toddler"), "Toddler"): Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Toddler' are matched.
+
+2022-04-11 12:05:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Toddler' are matched.
+
+2022-04-11 12:05:37 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_/h1_Toddler"), 0): Object 'Object Repository/Header/Page_/h1_Toddler' is present
+
+2022-04-11 12:05:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:05:37 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_/h1_Toddler' is present
+
+2022-04-11 12:05:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Toddler"), "Toddler"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Toddler' are matched.
+
+2022-04-11 12:05:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Toddler' are matched.
+
+2022-04-11 12:05:38 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:05:43 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:05:43 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Formula Feeding")): Object: 'Object Repository/Header/Page_/a_Formula Feeding' is clicked on
+
+2022-04-11 12:05:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Formula Feeding' is clicked on
+
+2022-04-11 12:05:46 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Formula Feeding"), "Formula Feeding"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Formula Feeding' are matched.
+
+2022-04-11 12:05:47 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Formula Feeding' are matched.
+
+2022-04-11 12:05:47 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_/h1_Formula Feeding"), 0): Object 'Object Repository/Header/Page_/h1_Formula Feeding' is present
+
+2022-04-11 12:05:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:05:48 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_/h1_Formula Feeding' is present
+
+2022-04-11 12:05:48 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:05:53 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:05:53 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:05:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Breastfeeding")): Object: 'Object Repository/Header/Page_/a_Breastfeeding' is clicked on
+
+2022-04-11 12:06:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Breastfeeding' is clicked on
+
+2022-04-11 12:06:02 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_/h1_Breastfeeding Your Baby"), 0): Object 'Object Repository/Header/Page_/h1_Breastfeeding Your Baby' is present
+
+2022-04-11 12:06:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:06:03 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_/h1_Breastfeeding Your Baby' is present
+
+2022-04-11 12:06:03 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Breastfeeding"), "Breastfeeding Your Baby"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Breastfeeding' are matched.
+
+2022-04-11 12:06:03 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Breastfeeding' are matched.
+
+2022-04-11 12:06:03 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:06:08 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:06:08 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:06:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:06:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Supplementing")): Object: 'Object Repository/Header/Page_/a_Supplementing' is clicked on
+
+2022-04-11 12:06:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Supplementing' is clicked on
+
+2022-04-11 12:06:17 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Supplementing"), "Supplementing with Formula"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Supplementing' are matched.
+
+2022-04-11 12:06:17 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Supplementing' are matched.
+
+2022-04-11 12:06:17 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/h1_Supplementing with Formula"), "Supplementing with Formula"): Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Supplementing with Formula' are matched.
+
+2022-04-11 12:06:18 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Supplementing with Formula' are matched.
+
+2022-04-11 12:06:18 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_/h1_Supplementing with Formula"), 0): Object 'Object Repository/Header/Page_/h1_Supplementing with Formula' is present
+
+2022-04-11 12:06:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:06:19 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_/h1_Supplementing with Formula' is present
+
+2022-04-11 12:06:19 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:06:24 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:06:24 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:06:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:06:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Feeding Issues")): Object: 'Object Repository/Header/Page_/a_Feeding Issues' is clicked on
+
+2022-04-11 12:06:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Feeding Issues' is clicked on
+
+2022-04-11 12:06:30 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Feeding Issues"), "Baby Feeding Issues"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Feeding Issues' are matched.
+
+2022-04-11 12:06:31 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Feeding Issues' are matched.
+
+2022-04-11 12:06:31 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/h1_Baby Feeding Issues"), "Baby Feeding Issues"): Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Baby Feeding Issues' are matched.
+
+2022-04-11 12:06:31 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/h1_Baby Feeding Issues' are matched.
+
+2022-04-11 12:06:31 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_/h1_Baby Feeding Issues"), 0): Object 'Object Repository/Header/Page_/h1_Baby Feeding Issues' is present
+
+2022-04-11 12:06:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:06:32 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_/h1_Baby Feeding Issues' is present
+
+2022-04-11 12:06:32 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:06:37 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:06:37 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:06:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:06:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Enfamil Formula Comparison")): Object: 'Object Repository/Header/Page_/a_Enfamil Formula Comparison' is clicked on
+
+2022-04-11 12:06:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Enfamil Formula Comparison' is clicked on
+
+2022-04-11 12:06:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_/span_Product Comparison"), "Product Comparison"): Actual text and expected text of test object 'Object Repository/Header/Page_/span_Product Comparison' are matched.
+
+2022-04-11 12:06:43 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_/span_Product Comparison' are matched.
+
+2022-04-11 12:06:43 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:06:48 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:06:48 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_/span_Tips  Resources")): Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:06:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/span_Tips  Resources' is hovered
+
+2022-04-11 12:06:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_/a_Competitor Formula Comparison")): Object: 'Object Repository/Header/Page_/a_Competitor Formula Comparison' is clicked on
+
+2022-04-11 12:07:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_/a_Competitor Formula Comparison' is clicked on
+
+2022-04-11 12:07:03 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/span_Baby Formula Recall"), "Baby Formula Comparison Chart"): Actual text and expected text of test object 'Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/span_Baby Formula Recall' are matched.
+
+2022-04-11 12:07:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/span_Baby Formula Recall' are matched.
+
+2022-04-11 12:07:05 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/h1_Enfamil Formula Equivalents"), 0): Object 'Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/h1_Enfamil Formula Equivalents' is present
+
+2022-04-11 12:07:05 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:07:05 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/h1_Enfamil Formula Equivalents' is present
+
+2022-04-11 12:07:05 - [TEST_STEP][PASSED] - navigateToUrl(HomePage): Navigate to 'https://www.enfamil.com/' successfully
+
+2022-04-11 12:07:07 - [MESSAGE][PASSED] - Navigate to 'https://www.enfamil.com/' successfully
+
+2022-04-11 12:07:07 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:07:12 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:07:12 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/span_Tips  Resources")): Object: 'Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/span_Tips  Resources' is hovered
+
+2022-04-11 12:07:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_Similac Vs Enfamil Baby Formula Compar_3fb2fb/span_Tips  Resources' is hovered
+
+2022-04-11 12:07:18 - [TEST_STEP][PASSED] - click(findTestObject("Header/New Folder/Page_Enfamil Newborn, Infant  Toddler Nutrition  Enfamil/a_Baby Feeding Guide")): Object: 'Object Repository/Header/New Folder/Page_Enfamil Newborn, Infant  Toddler Nutrition  Enfamil/a_Baby Feeding Guide' is clicked on
+
+2022-04-11 12:07:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/New Folder/Page_Enfamil Newborn, Infant  Toddler Nutrition  Enfamil/a_Baby Feeding Guide' is clicked on
+
+2022-04-11 12:07:22 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:07:27 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:07:27 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_Baby Feeding Guide  Enfamil/span_Baby Feeding Guide"), "Baby Feeding Guide"): Actual text and expected text of test object 'Object Repository/Header/Page_Baby Feeding Guide  Enfamil/span_Baby Feeding Guide' are matched.
+
+2022-04-11 12:07:30 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Baby Feeding Guide  Enfamil/span_Baby Feeding Guide' are matched.
+
+2022-04-11 12:07:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Baby Feeding Guide  Enfamil/h1_Baby Feeding Guide"), 0): Object 'Object Repository/Header/Page_Baby Feeding Guide  Enfamil/h1_Baby Feeding Guide' is present
+
+2022-04-11 12:07:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:07:32 - [MESSAGE][PASSED] - Object 'Object Repository/Header/Page_Baby Feeding Guide  Enfamil/h1_Baby Feeding Guide' is present
+
+2022-04-11 12:07:32 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:07:37 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:07:37 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_Baby Feeding Guide  Enfamil/span_Tips  Resources")): Object: 'Object Repository/Header/Page_Baby Feeding Guide  Enfamil/span_Tips  Resources' is hovered
+
+2022-04-11 12:07:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_Baby Feeding Guide  Enfamil/span_Tips  Resources' is hovered
+
+2022-04-11 12:07:38 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-04-11 12:07:41 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-04-11 12:07:41 - [TEST_STEP][PASSED] - click(findTestObject("Header/New Folder/Page_Enfamil Newborn, Infant  Toddler Nutrition  Enfamil/a_Store Locator")): Object: 'Object Repository/Header/New Folder/Page_Enfamil Newborn, Infant  Toddler Nutrition  Enfamil/a_Store Locator' is clicked on
+
+2022-04-11 12:07:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/New Folder/Page_Enfamil Newborn, Infant  Toddler Nutrition  Enfamil/a_Store Locator' is clicked on
+
+2022-04-11 12:07:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/span_Store Locator"), "Store Locator"): Actual text and expected text of test object 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/span_Store Locator' are matched.
+
+2022-04-11 12:07:43 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/span_Store Locator' are matched.
+
+2022-04-11 12:07:43 - [TEST_STEP][FAILED] - verifyElementPresent(findTestObject("Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil"), 0): com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+)
+
+2022-04-11 12:07:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-04-11 12:08:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-04-11 12:08:15 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+)
+[[ATTACHMENT|D:\\SmoketestSuite\\enfamilUS\\Reports\\20220411_111150\\SmokeTestCollection - Venkat\\SmokeTestSuite-Collection\\20220411_120314\\1649659095159.png]]
+
+2022-04-11 12:08:15 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:08:20 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:08:20 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/span_Tips  Resources")): Object: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/span_Tips  Resources' is hovered
+
+2022-04-11 12:08:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/span_Tips  Resources' is hovered
+
+2022-04-11 12:08:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/div_Open menuShop ProductsShop ProductsShop_68227c")): Object: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/div_Open menuShop ProductsShop ProductsShop_68227c' is clicked on
+
+2022-04-11 12:08:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/div_Open menuShop ProductsShop ProductsShop_68227c' is clicked on
+
+2022-04-11 12:08:22 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-04-11 12:08:27 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-04-11 12:08:27 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-04-11 12:08:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[2022-04-11 12:03:27 - [TEST_CASE][FAILED] - Test Cases/Venkat/Header/Header - Tips Resources Verification: Test Cases/Venkat/Header/Header - Tips Resources Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:39)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	... 23 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-04-11 12:03:26 - [TEST_SUITE][FAILED] - SmokeTestSuite-Collection: Test Cases/Venkat/Header/Header - Tips Resources Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:39)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	... 23 more]]></system-out>
+      <system-err><![CDATA[2022-04-11 12:03:26 - [TEST_SUITE][FAILED] - SmokeTestSuite-Collection: Test Cases/Venkat/Header/Header - Tips Resources Verification FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+)
+	at com.kms.katalon.core.keyword.internal.KeywordMain.stepFailed(KeywordMain.groovy:39)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$verifyElementPresent$4.call(Unknown Source)
+	at Header - Tips Resources Verification.run(Header - Tips Resources Verification:240)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:442)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:433)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:412)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:404)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:281)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:202)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:164)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:105)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1649658794595.run(TempTestSuite1649658794595.groovy:36)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Header/Page_Store Locator Baby Formula Near Me  Enfamil/h2_Where To Buy Enfamil' located by '//h2[(text() = 'Where To Buy EnfamilÂ®' or . = 'Where To Buy EnfamilÂ®')]' not found
+	... 23 more]]></system-err>
+   </testsuite>
+</testsuites>

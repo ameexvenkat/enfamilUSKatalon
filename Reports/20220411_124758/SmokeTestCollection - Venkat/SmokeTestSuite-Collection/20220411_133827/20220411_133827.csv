@@ -1,0 +1,168 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SmokeTestSuite-Collection,Chrome 100.0.4896.75,SmokeTestSuite-Collection,,2022-04-11 13:38:39,2022-04-11 13:44:34,5m - 55.481s,PASSED
+,,,,,,,
+Test Cases/Venkat/Header/Header - Offers Savings Menu Verification,Chrome 100.0.4896.75,Header Section Offers & Savings Menu Elements Verification,,2022-04-11 13:38:40,2022-04-11 13:44:34,5m - 54.336s,PASSED
+"openBrowser("""")",Chrome 100.0.4896.75,,,2022-04-11 13:38:42,2022-04-11 13:38:51,9.373s,PASSED
+navigateToUrl(HomePage),Chrome 100.0.4896.75,,,2022-04-11 13:38:51,2022-04-11 13:38:57,5.524s,PASSED
+maximizeWindow(),Chrome 100.0.4896.75,,,2022-04-11 13:38:57,2022-04-11 13:38:57,0.396s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:38:57,2022-04-11 13:39:03,5.239s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_GOT IT_onetrust-close-btn-handler on_95ce22""))",Chrome 100.0.4896.75,,,2022-04-11 13:39:03,2022-04-11 13:39:19,15.963s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings""), ""Offers & Savings"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:19,2022-04-11 13:39:21,2.939s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:21,2022-04-11 13:39:23,1.033s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:39:23,2022-04-11 13:39:24,1.392s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/h5_Savings  Support Programs""), ""Savings & Support Programs"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:24,2022-04-11 13:39:26,2.171s,PASSED
+"verifyElementText(findTestObject(""Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 4""), ""FEATURED"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:26,2022-04-11 13:39:27,0.913s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_MORE WAYS TO SAVE""), ""MORE WAYS TO SAVE"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:27,2022-04-11 13:39:28,0.880s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/h5_Savings  Support Programs""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:28,2022-04-11 13:39:29,0.639s,PASSED
+"verifyElementPresent(findTestObject(""Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 4""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:29,2022-04-11 13:39:29,0.632s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_MORE WAYS TO SAVE""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:29,2022-04-11 13:39:30,0.866s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:39:30,2022-04-11 13:39:31,1.032s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Premium Enfamil Family Beginnings""), ""Premium Enfamil Family Beginnings"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:31,2022-04-11 13:39:32,0.836s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Enspire Family Beginnings""), ""Enspire Family Beginnings®"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:32,2022-04-11 13:39:33,0.658s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Enfamil Rewards""), ""Enfamil Rewards®"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:33,2022-04-11 13:39:33,0.630s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Nutramigen Savings  Support program""), ""Nutramigen Savings & Support program"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:33,2022-04-11 13:39:34,0.785s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Enfacare Drive to Thrive Support Program""), ""Enfacare® Drive to Thrive Support Program"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:34,2022-04-11 13:39:35,0.667s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Enfagrow Free Sample""), ""Enfagrow Free Sample"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:35,2022-04-11 13:39:36,0.992s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:39:36,2022-04-11 13:39:37,0.908s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Partner Offers""), ""Partner Offers"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:37,2022-04-11 13:39:37,0.624s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Professional Discounts""), ""Professional Discounts"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:37,2022-04-11 13:39:38,0.821s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_NEW Gift Cards""), ""NEW! Gift Cards"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:38,2022-04-11 13:39:39,0.634s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay""), ""Save 15% when you use Afterpay"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:39,2022-04-11 13:39:39,0.624s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Enfamil Rebates""), ""Enfamil Rebates"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:39,2022-04-11 13:39:40,0.734s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:39:40,2022-04-11 13:39:41,0.825s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Financial Assistance""), ""Financial Assistance"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:41,2022-04-11 13:39:41,0.683s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Ask a Nurse""), ""Ask a Nurse"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:41,2022-04-11 13:39:42,0.746s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/li_Premium Enfamil Family Beginnings""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:42,2022-04-11 13:39:43,0.582s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/li_Enspire Family Beginnings""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:43,2022-04-11 13:39:43,0.569s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/li_Enfamil Rewards""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:43,2022-04-11 13:39:44,0.640s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/li_Nutramigen Savings  Support program""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:44,2022-04-11 13:39:45,0.597s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/li_Enfacare Drive to Thrive Support Program""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:45,2022-04-11 13:39:45,0.575s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/li_Enfagrow Free Sample""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:45,2022-04-11 13:39:46,0.608s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/img""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:46,2022-04-11 13:39:46,0.599s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Partner Offers""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:46,2022-04-11 13:39:47,0.577s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Professional Discounts""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:47,2022-04-11 13:39:48,0.667s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_NEW Gift Cards""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:48,2022-04-11 13:39:48,0.565s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:39:48,2022-04-11 13:39:49,0.778s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay""), ""Save 15% when you use Afterpay"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:49,2022-04-11 13:39:50,0.693s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:50,2022-04-11 13:39:50,0.554s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Enfamil Rebates""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:50,2022-04-11 13:39:51,0.679s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Financial Assistance""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:51,2022-04-11 13:39:52,0.562s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Upgrade to Premium Enfamil Family Beginni_120ba0""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:52,2022-04-11 13:39:52,0.651s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Ask a Nurse Powered By""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:52,2022-04-11 13:39:53,0.575s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/img_1""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:53,2022-04-11 13:39:53,0.605s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:39:53,2022-04-11 13:39:54,0.837s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_/div_Premium Enfamil Family Beginnings""))",Chrome 100.0.4896.75,,,2022-04-11 13:39:54,2022-04-11 13:39:58,3.424s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Premium Enfamil Family Beginnings""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:39:58,2022-04-11 13:39:59,1.080s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Premium Enfamil Family Beginnings""), ""Premium Enfamil Family Beginnings®"")",Chrome 100.0.4896.75,,,2022-04-11 13:39:59,2022-04-11 13:40:02,3.177s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Premium Enfamil Family Beginnings""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:40:02,2022-04-11 13:40:08,5.944s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Premium Enfamil Family Beginnings""))",Chrome 100.0.4896.75,,,2022-04-11 13:40:08,2022-04-11 13:40:11,3.038s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings/h2_Premium Enfamil Family Beginnings""), ""Premium Enfamil Family Beginnings®"")",Chrome 100.0.4896.75,,,2022-04-11 13:40:11,2022-04-11 13:40:12,1.082s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings/h2_Premium Enfamil Family Beginnings""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:40:12,2022-04-11 13:40:13,0.669s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:40:13,2022-04-11 13:40:18,5.012s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:40:18,2022-04-11 13:40:19,0.941s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings/div_Enspire Family Beginnings""))",Chrome 100.0.4896.75,,,2022-04-11 13:40:19,2022-04-11 13:40:20,1.351s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:40:20,2022-04-11 13:40:22,2.419s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil""), ""Enspire Family Beginnings™ by Enfamil®"")",Chrome 100.0.4896.75,,,2022-04-11 13:40:22,2022-04-11 13:40:23,0.614s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil""), ""Enspire Family Beginnings™ by Enfamil®"")",Chrome 100.0.4896.75,,,2022-04-11 13:40:23,2022-04-11 13:40:24,0.574s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:40:24,2022-04-11 13:40:24,0.581s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil""))",Chrome 100.0.4896.75,,,2022-04-11 13:40:24,2022-04-11 13:40:30,6.309s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/h1_Enspire Family Beginnings by Enfamil""), ""Enspire Family Beginnings™ by Enfamil®"")",Chrome 100.0.4896.75,,,2022-04-11 13:40:30,2022-04-11 13:40:33,2.507s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/h1_Enspire Family Beginnings by Enfamil""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:40:33,2022-04-11 13:40:34,0.959s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:40:34,2022-04-11 13:40:39,5.016s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:40:39,2022-04-11 13:40:40,1.056s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/div_Enfamil Rewards""))",Chrome 100.0.4896.75,,,2022-04-11 13:40:40,2022-04-11 13:40:41,1.281s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_/span_Baby formula rewards program""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:40:41,2022-04-11 13:40:43,2.255s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/span_Baby formula rewards program""), ""Baby formula rewards program"")",Chrome 100.0.4896.75,,,2022-04-11 13:40:43,2022-04-11 13:40:44,0.620s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/span_Baby formula rewards program""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:40:44,2022-04-11 13:40:45,0.553s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Header/Page_/span_Baby formula rewards program""))",Chrome 100.0.4896.75,,,2022-04-11 13:40:45,2022-04-11 13:40:45,0.609s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/h2_Enfamil Rewards""), ""Enfamil® Rewards"")",Chrome 100.0.4896.75,,,2022-04-11 13:40:45,2022-04-11 13:40:54,9.055s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/h2_Enfamil Rewards""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:40:54,2022-04-11 13:40:55,0.755s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:40:55,2022-04-11 13:41:00,5.014s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:00,2022-04-11 13:41:01,0.780s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_/div_Nutramigen Savings  Support program""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:01,2022-04-11 13:41:02,1.117s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_Nutramigen  Enfamil/span_Nutramigen Savings and Support""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:41:02,2022-04-11 13:41:10,8.429s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Nutramigen  Enfamil/span_Nutramigen Savings and Support""), ""Nutramigen® Savings and Support"")",Chrome 100.0.4896.75,,,2022-04-11 13:41:10,2022-04-11 13:41:11,1.014s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Nutramigen  Enfamil/span_Nutramigen Savings and Support""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:41:11,2022-04-11 13:41:12,0.769s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Header/Page_Nutramigen  Enfamil/span_Nutramigen Savings and Support""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:12,2022-04-11 13:41:13,0.651s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Nutramigen  Enfamil/h1_Nutramigen Savings and Support""), ""Nutramigen® Savings and Support"")",Chrome 100.0.4896.75,,,2022-04-11 13:41:13,2022-04-11 13:41:14,0.683s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Nutramigen  Enfamil/h1_Nutramigen Savings and Support""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:41:14,2022-04-11 13:41:14,0.651s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:41:14,2022-04-11 13:41:19,5.019s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Nutramigen  Enfamil/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:19,2022-04-11 13:41:20,0.977s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_Nutramigen  Enfamil/div_Enfacare Drive to Thrive Support Program""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:20,2022-04-11 13:41:21,0.910s,PASSED
+delay(8),Chrome 100.0.4896.75,,,2022-04-11 13:41:21,2022-04-11 13:41:29,8.012s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/span_Join the Drive to Thrive Support Program""), ""Join the Drive to Thrive Support Program"")",Chrome 100.0.4896.75,,,2022-04-11 13:41:29,2022-04-11 13:41:30,0.580s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/span_Join the Drive to Thrive Support Program""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:41:30,2022-04-11 13:41:31,0.957s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Header/Page_/span_Join the Drive to Thrive Support Program""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:31,2022-04-11 13:41:31,0.814s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/h1_Join the Drive to Thrive Support Program""), ""Join the Drive to Thrive Support Program"")",Chrome 100.0.4896.75,,,2022-04-11 13:41:31,2022-04-11 13:41:32,0.775s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/h1_Join the Drive to Thrive Support Program""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:41:32,2022-04-11 13:41:33,0.580s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:41:33,2022-04-11 13:41:38,5.007s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:38,2022-04-11 13:41:39,0.835s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_/div_Enfagrow Free Sample""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:39,2022-04-11 13:41:41,2.468s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_Toddler Sample Request  Enfamil/span_Free Sample of Enfagrow Toddler Formula""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:41:41,2022-04-11 13:41:42,0.906s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Toddler Sample Request  Enfamil/span_Free Sample of Enfagrow Toddler Formula""), ""Free Sample of Enfagrow® Toddler Formula"")",Chrome 100.0.4896.75,,,2022-04-11 13:41:42,2022-04-11 13:41:43,0.584s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Toddler Sample Request  Enfamil/span_Free Sample of Enfagrow Toddler Formula""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:41:43,2022-04-11 13:41:43,0.543s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Header/Page_Toddler Sample Request  Enfamil/span_Free Sample of Enfagrow Toddler Formula""))",Chrome 100.0.4896.75,,,2022-04-11 13:41:43,2022-04-11 13:41:46,3.200s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Toddler Sample Request  Enfamil/h1_Free Sample of Enfagrow Toddler Formula""), ""Free Sample of Enfagrow® Toddler Formula"")",Chrome 100.0.4896.75,,,2022-04-11 13:41:46,2022-04-11 13:41:54,7.323s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Toddler Sample Request  Enfamil/h1_Free Sample of Enfagrow Toddler Formula""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:41:54,2022-04-11 13:41:55,0.801s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:41:55,2022-04-11 13:42:00,5.018s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Toddler Sample Request  Enfamil/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:42:00,2022-04-11 13:42:01,1.005s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_Toddler Sample Request  Enfamil/a_Partner Offers""))",Chrome 100.0.4896.75,,,2022-04-11 13:42:01,2022-04-11 13:42:03,2.166s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:42:03,2022-04-11 13:42:08,5.020s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_/span_Partnership Offers""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:08,2022-04-11 13:42:14,6.071s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/span_Partnership Offers""), ""Partnership Offers"")",Chrome 100.0.4896.75,,,2022-04-11 13:42:14,2022-04-11 13:42:15,1.004s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/span_Partnership Offers""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:15,2022-04-11 13:42:15,0.558s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/h3_Enfamil Partner Discounts""), ""Enfamil Partner Discounts"")",Chrome 100.0.4896.75,,,2022-04-11 13:42:15,2022-04-11 13:42:16,0.870s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/h3_Enfamil Partner Discounts""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:16,2022-04-11 13:42:17,0.820s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:42:17,2022-04-11 13:42:22,5.018s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:42:22,2022-04-11 13:42:23,0.907s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_/a_Professional Discounts""))",Chrome 100.0.4896.75,,,2022-04-11 13:42:23,2022-04-11 13:42:25,1.861s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:42:25,2022-04-11 13:42:30,5.020s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_/span_Enfamil Shop Professional Discounts""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:30,2022-04-11 13:42:36,6.303s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/span_Enfamil Shop Professional Discounts""), ""Enfamil® Shop Professional Discounts"")",Chrome 100.0.4896.75,,,2022-04-11 13:42:36,2022-04-11 13:42:37,0.924s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/span_Enfamil Shop Professional Discounts""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:37,2022-04-11 13:42:38,0.707s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/h1_Enfamil Shop Professional Discounts""), ""Enfamil® Shop Professional Discounts"")",Chrome 100.0.4896.75,,,2022-04-11 13:42:38,2022-04-11 13:42:39,1.432s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/h1_Enfamil Shop Professional Discounts""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:39,2022-04-11 13:42:40,0.743s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:42:40,2022-04-11 13:42:45,5.005s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:42:45,2022-04-11 13:42:46,0.897s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_/a_NEW Gift Cards""))",Chrome 100.0.4896.75,,,2022-04-11 13:42:46,2022-04-11 13:42:48,2.215s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_/span_Gift Cards""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:48,2022-04-11 13:42:49,0.636s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/span_Gift Cards""), ""Gift Cards"")",Chrome 100.0.4896.75,,,2022-04-11 13:42:49,2022-04-11 13:42:49,0.629s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/span_Gift Cards""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:49,2022-04-11 13:42:50,0.586s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/h2_Gift Cards""), ""Gift Cards"")",Chrome 100.0.4896.75,,,2022-04-11 13:42:50,2022-04-11 13:42:51,0.668s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/h2_Gift Cards""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:42:51,2022-04-11 13:42:58,7.361s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/h3_Select Your Gift Card""), ""Select Your Gift Card"")",Chrome 100.0.4896.75,,,2022-04-11 13:42:58,2022-04-11 13:43:01,3.155s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/div_start gifting now""), ""START GIFTING NOW"")",Chrome 100.0.4896.75,,,2022-04-11 13:43:01,2022-04-11 13:43:02,0.775s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:43:02,2022-04-11 13:43:07,5.010s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:43:07,2022-04-11 13:43:08,1.008s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_/a_Save 15 when you use Afterpay""))",Chrome 100.0.4896.75,,,2022-04-11 13:43:08,2022-04-11 13:43:13,5.360s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:43:13,2022-04-11 13:43:18,5.012s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_/span_Afterpay""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:43:18,2022-04-11 13:43:25,6.606s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/span_Afterpay""), ""Afterpay"")",Chrome 100.0.4896.75,,,2022-04-11 13:43:25,2022-04-11 13:43:26,0.904s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/span_Afterpay""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:43:26,2022-04-11 13:43:27,0.746s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/h2_Stock up and Save 15 when you use Afterpay""), ""Stock up and Save 15% when you use Afterpay"")",Chrome 100.0.4896.75,,,2022-04-11 13:43:27,2022-04-11 13:43:27,0.598s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/h2_Stock up and Save 15 when you use Afterpay""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:43:27,2022-04-11 13:43:28,0.610s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:43:28,2022-04-11 13:43:33,5.014s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:43:33,2022-04-11 13:43:34,1.000s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_/a_Enfamil Rebates""))",Chrome 100.0.4896.75,,,2022-04-11 13:43:34,2022-04-11 13:43:37,3.104s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:43:37,2022-04-11 13:43:42,5.013s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_/span_Enfamil Rebates""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:43:42,2022-04-11 13:43:48,6.276s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/span_Enfamil Rebates""), ""Enfamil® Rebates"")",Chrome 100.0.4896.75,,,2022-04-11 13:43:48,2022-04-11 13:43:49,1.121s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/span_Enfamil Rebates""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:43:49,2022-04-11 13:43:50,0.562s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_/h2_Enfamil Rebates""), ""Enfamil® Rebates"")",Chrome 100.0.4896.75,,,2022-04-11 13:43:50,2022-04-11 13:43:51,1.188s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_/h2_Enfamil Rebates""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:43:51,2022-04-11 13:43:52,0.675s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:43:52,2022-04-11 13:43:57,5.010s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:43:57,2022-04-11 13:43:58,0.933s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_/a_Financial Assistance""))",Chrome 100.0.4896.75,,,2022-04-11 13:43:58,2022-04-11 13:44:00,2.237s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_Reimbursement and Support  Enfamil/span_Reimbursement and Support""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:44:00,2022-04-11 13:44:01,0.621s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Reimbursement and Support  Enfamil/span_Reimbursement and Support""), ""Reimbursement and Support"")",Chrome 100.0.4896.75,,,2022-04-11 13:44:01,2022-04-11 13:44:01,0.636s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Reimbursement and Support  Enfamil/span_Reimbursement and Support""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:44:01,2022-04-11 13:44:02,0.552s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Header/Page_Reimbursement and Support  Enfamil/h2_SNAP, WIC  Formula Insurance Coverage  R_6d98a7""), ""SNAP, WIC & Formula Insurance Coverage & Reimbursement"")",Chrome 100.0.4896.75,,,2022-04-11 13:44:02,2022-04-11 13:44:02,0.586s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Reimbursement and Support  Enfamil/h2_SNAP, WIC  Formula Insurance Coverage  R_6d98a7""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:44:02,2022-04-11 13:44:09,6.384s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:44:09,2022-04-11 13:44:14,5.015s,PASSED
+"mouseOver(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings Subs_b2e86a/span_Offers  Savings""))",Chrome 100.0.4896.75,,,2022-04-11 13:44:14,2022-04-11 13:44:15,1.047s,PASSED
+"click(findTestObject(""Object Repository/Header/Page_Premium Enfamil Family Beginnings Subs_b2e86a/span_Ask a Nurse""))",Chrome 100.0.4896.75,,,2022-04-11 13:44:15,2022-04-11 13:44:16,1.477s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Header/Page_Ask a Registered Nurse Online  Enfamil/span_Ask a Registered Nurse Online""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:44:16,2022-04-11 13:44:19,2.518s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Ask a Registered Nurse Online  Enfamil/span_Ask a Registered Nurse Online""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:44:19,2022-04-11 13:44:26,7.428s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Header/Page_Ask a Registered Nurse Online  Enfamil/h1_Ask a RegisteredNurse Online""), 0)",Chrome 100.0.4896.75,,,2022-04-11 13:44:26,2022-04-11 13:44:27,0.749s,PASSED
+delay(5),Chrome 100.0.4896.75,,,2022-04-11 13:44:27,2022-04-11 13:44:32,5.009s,PASSED
+closeBrowser(),Chrome 100.0.4896.75,,,2022-04-11 13:44:32,2022-04-11 13:44:34,2.167s,PASSED

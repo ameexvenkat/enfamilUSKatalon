@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Professional Discounts</name>
+   <tag></tag>
+   <elementGuidId>a3f7aa8f-e3e0-4321-b4fc-bd5cd0420fa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/professional-discounts/' and (text() = 'Professional Discounts' or . = 'Professional Discounts')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/nav/ul/li[4]/ul/li[2]/section/div/div/div/div[2]/div/div/div[2]/div/p[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>abe3eeb4-0f58-43b0-9934-0dfdcdef3a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-udi</name>
+      <type>Main</type>
+      <value>umb://document/f93f5bdd7bf04ba4b9eab1763a269601</value>
+      <webElementGuid>f7f6dbd5-1eb0-40d8-b4a1-07fa1a277cc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/professional-discounts/</value>
+      <webElementGuid>2cb8cbdd-4532-4750-be55-b5ea5811d212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Professional Discounts</value>
+      <webElementGuid>f5def002-3254-48aa-a9d7-882b259dd6c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Professional Discounts</value>
+      <webElementGuid>fe37a435-3144-4a53-8f55-52c792175406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly main-header--scroll-down&quot;]/div[@class=&quot;main-header__bottom&quot;]/div[@class=&quot;wrapper wrapper--main-header__bottom-items&quot;]/div[@class=&quot;main_header__contents&quot;]/nav[@class=&quot;main-nav&quot;]/ul[@class=&quot;main-nav__first-lvl-nav-elements navigation-list&quot;]/li[@class=&quot;main-nav__link-container main-nav__link-container--has-children&quot;]/ul[@class=&quot;main-nav__second-lvl-nav-elements navigation-list sublist--hidden&quot;]/li[@class=&quot;main-nav__second-lvl-link-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column nav-carousel content-grid__column--offers-savings content-grid__column--size-8&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text&quot;]/div[@class=&quot;links-container margin-top&quot;]/div[1]/p[2]/a[1]</value>
+      <webElementGuid>295d4643-0bf0-4d93-b51e-6a9be870124d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/nav/ul/li[4]/ul/li[2]/section/div/div/div/div[2]/div/div/div[2]/div/p[2]/a</value>
+      <webElementGuid>d395d777-0e69-4a08-bd17-5c279602bdb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Professional Discounts')]</value>
+      <webElementGuid>1fc976b5-6f6d-41de-a273-9fa51da167db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partner Offers'])[1]/following::a[1]</value>
+      <webElementGuid>e5655d4b-0522-430d-b58a-4e5f5425e1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MORE WAYS TO SAVE'])[1]/following::a[2]</value>
+      <webElementGuid>f7d6b05c-1199-414a-9eef-92baa989e22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW! Gift Cards'])[1]/preceding::a[1]</value>
+      <webElementGuid>12331ff5-4450-4f88-8c79-f186fead16d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save 15% when you use Afterpay'])[1]/preceding::a[2]</value>
+      <webElementGuid>6a4dd391-38fa-4a3c-81a4-187a92df3587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Professional Discounts']/parent::*</value>
+      <webElementGuid>af3fa68c-281e-44e9-bf3b-e5983cd3e3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/professional-discounts/')]</value>
+      <webElementGuid>a5005692-cc26-4780-a68a-3b76ff4c8dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p[2]/a</value>
+      <webElementGuid>b8f43927-b3f0-4503-805a-98c6dcf24c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/professional-discounts/' and (text() = 'Professional Discounts' or . = 'Professional Discounts')]</value>
+      <webElementGuid>3b9132a4-559b-4bde-b094-dc8419415221</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_-</name>
+   <tag></tag>
+   <elementGuidId>a15da92a-1c32-42a4-ae80-5e830acff183</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class = 'product-options__quantity-change'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-grid__column.product-main__info.content-grid__column--size-6 > div.product-options.product-cta--wrapper > div.product-options__price > div.add-to-cart > div.subscription > div.product-options__price-container > div.product-options__quantity > div.product-options__quantity-change</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'product-options__quantity-change']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5062800c-eef5-48c0-b7f3-fd0343525088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-options__quantity-change</value>
+      <webElementGuid>f32f012b-184f-4d3c-ac12-87267c41d136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-+</value>
+      <webElementGuid>070c9a6d-8a9d-40ed-ba9c-604e099e2c8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;product-options product-cta--wrapper&quot;]/div[@class=&quot;product-options__price&quot;]/div[@class=&quot;add-to-cart&quot;]/div[@class=&quot;subscription&quot;]/div[@class=&quot;product-options__price-container&quot;]/div[@class=&quot;product-options__quantity&quot;]/div[@class=&quot;product-options__quantity-change&quot;]</value>
+      <webElementGuid>aa70035b-b2b5-47ed-a7ee-c6aaa940396c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[6]/div[2]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>499083f9-44ae-4f72-804c-f077fbd29acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earns 1719 rewards points with purchase'])[2]/following::div[2]</value>
+      <webElementGuid>4e5d0e51-8813-4e10-8053-2847e0ec3e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEst'])[2]/following::div[3]</value>
+      <webElementGuid>30e63515-f1d4-465b-988b-a79f4f392ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>3579e79c-5c81-4c37-a477-01ad9c8da9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '-+' or . = '-+')]</value>
+      <webElementGuid>22816a47-14f6-4c82-b8c7-901ac74d2d62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
