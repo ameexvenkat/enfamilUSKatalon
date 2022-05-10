@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Nutramigen Verify Page Elements</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>45ca3942-5238-40ae-9749-da7c524a2a1c</dataFileGUID>
+   <dataSourceUrl>D:\Katalon_Studio_Windows_64-8.2.5\Katalon_Studio_Windows_64-8.2.5\enfamilUS\Test Data\Nutra Test Data.csv</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

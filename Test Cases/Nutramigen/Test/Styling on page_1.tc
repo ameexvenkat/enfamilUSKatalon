@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Due to script length splited verifying styling on page load in to 2 test cases</description>
+   <name>Styling on page_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>486da5f7-905c-41ad-bef0-6e5118687a24</testCaseGuid>
+   <variable>
+      <defaultValue>'color'</defaultValue>
+      <description></description>
+      <id>95558de4-ae2e-41d0-92d0-c9b46b66f640</id>
+      <masked>false</masked>
+      <name>Font_Color</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-size'</defaultValue>
+      <description></description>
+      <id>b131ae02-5564-46cd-8d0f-b7b6129b723d</id>
+      <masked>false</masked>
+      <name>Font_Size</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-family'</defaultValue>
+      <description></description>
+      <id>bf49e286-218c-4ae0-9697-fdc14672d9b0</id>
+      <masked>false</masked>
+      <name>Font_Family</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-weight'</defaultValue>
+      <description></description>
+      <id>d03fc835-f4bc-4c65-aa0b-fb00ecace251</id>
+      <masked>false</masked>
+      <name>Font_Weight</name>
+   </variable>
+   <variable>
+      <defaultValue>'background-color'</defaultValue>
+      <description></description>
+      <id>77defe86-9431-4bea-a838-4c044fc88f8e</id>
+      <masked>false</masked>
+      <name>BgColor</name>
+   </variable>
+</TestCaseEntity>
