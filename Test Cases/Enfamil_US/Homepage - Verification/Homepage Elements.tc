@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Homepage - All Elements Verification</description>
+   <name>Homepage Elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea86c600-e0c1-480b-9b72-e3cdd77bcdc1</testCaseGuid>
+</TestCaseEntity>

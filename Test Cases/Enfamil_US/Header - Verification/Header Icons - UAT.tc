@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Header Section All Icons Verification</description>
+   <name>Header Icons - UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acda727c-ac60-48fb-a790-2527a45d31cd</testCaseGuid>
+</TestCaseEntity>

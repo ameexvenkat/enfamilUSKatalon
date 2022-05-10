@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_-</name>
+   <tag></tag>
+   <elementGuidId>b516745f-8373-4cb0-aead-540388620b0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@aria-label = 'Decrement quantity'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-grid__column.product-main__info.content-grid__column--size-6 > div.product-options.product-cta--wrapper > div.product-options__price > div.add-to-cart > div.subscription > div.product-options__price-container > div.product-options__quantity > div.product-options__quantity-change > button.product-options__quantity-decrement</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@aria-label = 'Decrement quantity']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f8200968-35a7-4b00-a2ea-1c4afbf71ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>47895bf6-3b0c-48c6-b158-53ac32d9aee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Decrement quantity</value>
+      <webElementGuid>f0b30c96-884f-4076-bd12-7241eb8b4fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-options__quantity-decrement</value>
+      <webElementGuid>b114093a-0564-4aab-bd84-812bdfae68c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>7dff204a-0031-43c4-b470-013dcb3c0549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;product-options product-cta--wrapper&quot;]/div[@class=&quot;product-options__price&quot;]/div[@class=&quot;add-to-cart&quot;]/div[@class=&quot;subscription&quot;]/div[@class=&quot;product-options__price-container&quot;]/div[@class=&quot;product-options__quantity&quot;]/div[@class=&quot;product-options__quantity-change&quot;]/button[@class=&quot;product-options__quantity-decrement&quot;]</value>
+      <webElementGuid>3c4dd8c3-d59e-4d6c-897a-629ea7793c2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[58]</value>
+      <webElementGuid>fdd0cd29-578f-48ea-9a01-364a0936a31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[6]/div[2]/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>9ecbac3e-5f18-4333-94c9-ebf3522ae2e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earns 1719 rewards points with purchase'])[2]/following::button[1]</value>
+      <webElementGuid>15b4c6a8-2df8-474a-8b89-a839895a2a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEst'])[2]/following::button[1]</value>
+      <webElementGuid>063784c4-21bc-4197-a038-c4e6fa96955d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/preceding::button[1]</value>
+      <webElementGuid>792902b2-f662-44b7-8aa7-56933da80225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[2]/preceding::button[2]</value>
+      <webElementGuid>a5be0102-baa1-445d-a44c-fae4464b32c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>e4bd66d4-2985-4bf3-91a2-cfb7764aea97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '-' or . = '-')]</value>
+      <webElementGuid>54d9464e-ce8e-4e70-8811-4a0513e29c47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

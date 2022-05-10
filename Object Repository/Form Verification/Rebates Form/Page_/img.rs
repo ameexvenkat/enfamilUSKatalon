@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c48b6bca-dca3-4e4b-8547-07a847b2e16a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@title='App store']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;App Store&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/4/b/5/6/a/3/4b56a370f131422c3f9e84a9f74ddd7ad9b6f5ab.png' and @alt = 'App Store']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d2jiwtuosjkcsj.cloudfront.net/media/cache/4/b/5/6/a/3/4b56a370f131422c3f9e84a9f74ddd7ad9b6f5ab.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onerror</name>
+      <type>Main</type>
+      <value>this.onerror=null;this.src='https://enfamil-us.backend.test.us-east-1.starterkit.rbcloud.io/media/1001/footer-app-store.png?width=135&amp;height=43';</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>App Store</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-udi</name>
+      <type>Main</type>
+      <value>umb://media/e26a641eadef4f1b96acc47687a0a834</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width  page-banner--product-promo page-banner--shorttext&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-item carousel-item--default carousel-item--col&quot;]/div[@class=&quot;carousel-item__content-wrapper&quot;]/div[@class=&quot;carousel-item__content&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text carousel-item__description&quot;]/div[@class=&quot;main-footer__download-btns&quot;]/a[1]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[5]/div/div/div/div/div[2]/div[2]/div/div/div/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='App Store']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/4/b/5/6/a/3/4b56a370f131422c3f9e84a9f74ddd7ad9b6f5ab.png' and @alt = 'App Store']</value>
+   </webElementXpaths>
+</WebElementEntity>

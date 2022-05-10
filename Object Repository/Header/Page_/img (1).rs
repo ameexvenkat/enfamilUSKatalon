@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img (1)</name>
+   <tag></tag>
+   <elementGuidId>d56240e9-2505-421b-8aa3-1549f0ed182c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.stats__image > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='live-chat']/div/div/div/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d2jiwtuosjkcsj.cloudfront.net/media/cache/2/1/d/a/0/b/21da0bf9cb7fba36d95c764848d2866d5b9a4434.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onerror</name>
+      <type>Main</type>
+      <value>this.onerror=null;this.src='https://enfamil-us.backend.test.us-east-1.starterkit.rbcloud.io/media/1012/bg-hexagon.png?height=247&amp;width=242';</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-udi</name>
+      <type>Main</type>
+      <value>umb://media/3e665cc6f9be4fa49dfc2275e290a9cf</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;live-chat&quot;)/div[@class=&quot;content-grid__column stats stats--column content-grid__column--size-3&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte-wrapper__components&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text&quot;]/div[@class=&quot;stats__image&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='live-chat']/div/div/div/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/2/1/d/a/0/b/21da0bf9cb7fba36d95c764848d2866d5b9a4434.png')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/2/1/d/a/0/b/21da0bf9cb7fba36d95c764848d2866d5b9a4434.png']</value>
+   </webElementXpaths>
+</WebElementEntity>

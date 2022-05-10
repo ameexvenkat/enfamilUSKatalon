@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Infant012 mos</name>
+   <tag></tag>
+   <elementGuidId>abf17c3b-b662-4c83-9636-a60198d3762f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@class = 'menu__link link' and @aria-label = 'Infant']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu__link.link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@aria-label = 'Infant']/div[1])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f079044c-831c-4be2-9ee3-db346801c857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu__link link</value>
+      <webElementGuid>e6eea844-a81f-4f22-9ff5-7152d6487938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>a808e39e-a3e1-45d3-b129-13bfd3d9487a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Infant</value>
+      <webElementGuid>4c43db47-5bf9-4c14-a796-160ff1c26690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/products/newborn-infant-formula/</value>
+      <webElementGuid>f0524824-4df2-49bc-a243-cbf6bac51b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Infant0–12 mos</value>
+      <webElementGuid>81738d88-259a-4604-b758-579d2ebc95f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__bottom&quot;]/div[@class=&quot;wrapper wrapper--main-header__bottom-items&quot;]/div[@class=&quot;main_header__contents&quot;]/nav[@class=&quot;main-nav&quot;]/ul[@class=&quot;main-nav__first-lvl-nav-elements navigation-list&quot;]/li[@class=&quot;main-nav__link-container main-nav__link-container--has-children&quot;]/ul[@class=&quot;main-nav__second-lvl-nav-elements navigation-list sublist--hidden&quot;]/li[@class=&quot;main-nav__second-lvl-link-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column nav-carousel content-grid__column--size-8&quot;]/ul[@class=&quot;menu-list&quot;]/li[@class=&quot;menu__item Infant&quot;]/a[@class=&quot;menu__link link&quot;]</value>
+      <webElementGuid>2f66b114-7ca5-47af-b146-2a192836ff5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/nav/ul/li/ul/li[2]/section/div/div/div/ul/li/a</value>
+      <webElementGuid>e23fd4c8-0210-46f4-9dac-ff6fe9287de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BY AGES &amp; STAGES'])[1]/following::a[1]</value>
+      <webElementGuid>df5d1a7d-57dc-43f0-9313-1a6318e50119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop all products'])[1]/following::a[1]</value>
+      <webElementGuid>b15dc2d0-1887-439f-931d-cc90ddcf4ce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toddler'])[1]/preceding::a[1]</value>
+      <webElementGuid>872edb20-dde4-46be-8135-67ba0ccfe3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/products/newborn-infant-formula/')]</value>
+      <webElementGuid>f90e1d48-59fc-4631-992f-129b84eeefe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/ul/li/a</value>
+      <webElementGuid>86a45c35-8f03-440f-92c2-5e9c5b99d9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/products/newborn-infant-formula/' and (text() = 'Infant0–12 mos' or . = 'Infant0–12 mos')]</value>
+      <webElementGuid>5f62871e-357a-413f-ad92-943cb3da9074</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

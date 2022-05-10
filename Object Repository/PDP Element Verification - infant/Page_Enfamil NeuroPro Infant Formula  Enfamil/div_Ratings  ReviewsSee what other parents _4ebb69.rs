@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ratings  ReviewsSee what other parents _4ebb69</name>
+   <tag></tag>
+   <elementGuidId>fd39e78f-ad07-43c9-b509-04295b393a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-reviews']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-reviews__wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f40cc3b8-3bd2-4c95-8fb1-466c27b9619f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-reviews__wrapper</value>
+      <webElementGuid>6061d5c5-341b-43e0-bad4-39241a7a541c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ratings &amp; ReviewsSee what other parents are saying aboutEnfamil NeuroPro Infant Formula</value>
+      <webElementGuid>dbabb93d-add1-4ddb-90f4-db09f4050bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-reviews&quot;)/div[@class=&quot;product-reviews__wrapper&quot;]</value>
+      <webElementGuid>26a19ebc-d87c-495e-8bc9-54753fa093f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-reviews']/div</value>
+      <webElementGuid>219a2cdb-d030-4ce2-8142-f0df1921a81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all Instructions'])[1]/following::div[2]</value>
+      <webElementGuid>6532e568-03d4-42cb-9cbf-adfe196213e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last updated: 3/17/18'])[1]/following::div[3]</value>
+      <webElementGuid>01714e28-fe0e-42e5-a0bb-7f2daa9863d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div</value>
+      <webElementGuid>26e1cd73-de5f-4465-841b-03b534a19559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ratings &amp; ReviewsSee what other parents are saying aboutEnfamil NeuroPro Infant Formula' or . = 'Ratings &amp; ReviewsSee what other parents are saying aboutEnfamil NeuroPro Infant Formula')]</value>
+      <webElementGuid>33cc0d24-56f7-4139-828a-ff3665c60af0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

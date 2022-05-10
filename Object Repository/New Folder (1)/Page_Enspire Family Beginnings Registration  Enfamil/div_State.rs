@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_State</name>
+   <tag></tag>
+   <elementGuidId>4dd6df45-0b13-4435-a010-42fd70490c0c</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Enspire Family Beginnings Registration  Enfamil/div_State.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='22196_5fdf8562-6f3d-48df-b283-1fabf871e6f2']/div/div</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Enspire Family Beginnings Registration  Enfamil/div_State.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.single-select__value-container.css-1hwfws3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fffe87ab-7513-409e-b125-538352645f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>single-select__value-container css-1hwfws3</value>
+      <webElementGuid>4fb0089b-ede8-4f6e-90c9-6abc00b51eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State</value>
+      <webElementGuid>a415d733-0fe1-4936-88f8-b583f49636cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;22196_5fdf8562-6f3d-48df-b283-1fabf871e6f2&quot;)/div[@class=&quot;single-select__control single-select__control--is-focused single-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;single-select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>fe2e9700-578c-4245-b850-d2e42ab21cc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='22196_5fdf8562-6f3d-48df-b283-1fabf871e6f2']/div/div</value>
+      <webElementGuid>26498904-ffc1-4bd7-832e-bcbeb543ade7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[3]</value>
+      <webElementGuid>6ee7afe4-4c3a-43d9-a21e-00405f1978e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/following::div[5]</value>
+      <webElementGuid>6ab13c3b-8b79-419c-b33d-09fa56fd1146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alabama'])[1]/preceding::div[7]</value>
+      <webElementGuid>c795bbf0-acc5-4bf8-ad90-5a44169c0edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>4d64bf95-e125-4e02-a32d-ea0b0131df97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'State' or . = 'State')]</value>
+      <webElementGuid>404a7d9e-c747-41db-b30a-f5ba42811fcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

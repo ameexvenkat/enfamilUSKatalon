@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Any questions Get in touch</name>
+   <tag></tag>
+   <elementGuidId>b4adf831-aee2-4dd1-8c1f-c8eb8a50259e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(text() = 'Any questions? Get in touch' or . = 'Any questions? Get in touch')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#3dZkKk5iU1TdacREupWJj</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='3dZkKk5iU1TdacREupWJj']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5bb5d0e4-97e9-489a-8944-8a735f7941f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>3dZkKk5iU1TdacREupWJj</value>
+      <webElementGuid>9d8f5cb0-6ba3-425f-9420-488cfd695042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwtbtn_livechat chat-with-us</value>
+      <webElementGuid>d704f512-0361-45be-81fb-d293b7813362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/contact-us/</value>
+      <webElementGuid>2981a0a7-a587-48aa-81d4-54eafd144411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Any questions? Get in touch</value>
+      <webElementGuid>62a3e264-0d11-4cf4-8373-3e3a833058dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;3dZkKk5iU1TdacREupWJj&quot;)</value>
+      <webElementGuid>1528fde7-036d-4bb1-a57e-0a87ec86246c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='3dZkKk5iU1TdacREupWJj']</value>
+      <webElementGuid>bb21968d-1eaa-4d5f-8cae-fcd9e5c86347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Any questions? Get in touch')]</value>
+      <webElementGuid>4e0ea3fa-66a6-4f1c-b3ac-7330e6626869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Concentrate'])[1]/following::a[1]</value>
+      <webElementGuid>c7451f56-5864-4540-8959-08ff26212e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquid'])[2]/following::a[1]</value>
+      <webElementGuid>0db44f19-8f43-4d07-9ed4-2580b51cb86a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::a[1]</value>
+      <webElementGuid>aca89c11-0128-4259-a743-9921aca3a1ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Any questions? Get in touch']/parent::*</value>
+      <webElementGuid>266037ff-fd72-49ec-a47f-d3c5bac69959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/contact-us/')])[3]</value>
+      <webElementGuid>6bd1eb64-8e8c-4874-bae7-672e0e0914e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/a</value>
+      <webElementGuid>1deb92f9-8ba9-431b-872b-23cce9845b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = '3dZkKk5iU1TdacREupWJj' and @href = '/contact-us/' and (text() = 'Any questions? Get in touch' or . = 'Any questions? Get in touch')]</value>
+      <webElementGuid>2dd260bf-fd6f-452a-8d22-5ff5e6c24e71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1 (1) (1)</name>
+   <tag></tag>
+   <elementGuidId>df78b1dd-5264-466b-8ca9-a54fee750f4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/b/a/6/d/c/a/ba6dcabf1140ffa1f4ac9521b5fcbb04b6dbae47.png']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@aria-label='Enfamil Family Beginnings� is available on Google Play opens in new tab']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>132dd094-db62-4f3a-8464-4600ce1b698e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d2jiwtuosjkcsj.cloudfront.net/media/cache/b/a/6/d/c/a/ba6dcabf1140ffa1f4ac9521b5fcbb04b6dbae47.png</value>
+      <webElementGuid>8bafc2d1-c194-49b8-a04b-cb861de59ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>43</value>
+      <webElementGuid>89799ade-8373-404a-8608-a6d2b6ad2a18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>140</value>
+      <webElementGuid>31d1c2fc-2e32-4e72-9bdd-c48a2c95bc7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/footer[@class=&quot;main-footer&quot;]/div[@class=&quot;page-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row main-footer__main main-footer__order hide-mobile&quot;]/div[@class=&quot;content-grid__column main-footer__download  content-grid__column--size-4&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte-wrapper__components&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__component rte__component--componentMobileAppIcon&quot;]/a[@class=&quot;link&quot;]/img[1]</value>
+      <webElementGuid>4c65621a-dcd2-4aee-95b2-a34324913a17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/footer/div/section/div/div/div[2]/div/div/div/div[3]/a/img</value>
+      <webElementGuid>b63dea1d-b0ac-4a36-baac-4a78ce679d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/b/a/6/d/c/a/ba6dcabf1140ffa1f4ac9521b5fcbb04b6dbae47.png')]</value>
+      <webElementGuid>6e688940-d144-425f-9ca6-87bc9d73b4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/img</value>
+      <webElementGuid>5492bebe-0aa3-45d4-a5ad-959d4468fce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/b/a/6/d/c/a/ba6dcabf1140ffa1f4ac9521b5fcbb04b6dbae47.png']</value>
+      <webElementGuid>20c6d873-ecfe-4328-ada3-c2821df262c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

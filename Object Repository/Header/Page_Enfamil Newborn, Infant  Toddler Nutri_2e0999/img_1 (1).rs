@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1 (1)</name>
+   <tag></tag>
+   <elementGuidId>87bfe9c5-d300-4b3d-b1f5-d072e12c32b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/div/div/section/div/div/div[2]/div/div/div/div[2]/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://d2jiwtuosjkcsj.cloudfront.net/media/3196/chat-2.png</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onerror</name>
+      <type>Main</type>
+      <value>this.onerror=null;this.src='https://enfamil-us.backend.test.us-east-1.starterkit.rbcloud.io/media/3196/chat-2.png';</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__bottom&quot;]/div[@class=&quot;wrapper wrapper--main-header__bottom-items&quot;]/div[@class=&quot;main_header__contents&quot;]/div[@class=&quot;popper-container&quot;]/div[@class=&quot;popper-view&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row contact-module contact-module--variation-two&quot;]/div[@class=&quot;content-grid__column contacts padding-tiny-mobile content-grid__column--size-6&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text&quot;]/div[@class=&quot;column-6&quot;]/div[@class=&quot;contact-container&quot;]/div[@class=&quot;img-container&quot;]/img[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/div/div/section/div/div/div[2]/div/div/div/div[2]/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://d2jiwtuosjkcsj.cloudfront.net/media/3196/chat-2.png')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/3196/chat-2.png']</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_For babies born prematurely transitioni_e65a08</name>
+   <tag></tag>
+   <elementGuidId>b2ac8a74-daa3-4b6e-829d-eede5f10d94e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[8]/div/div[2]/div/div/div[2]/ul/li[3]/div/div/div/a/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt = 'Enfamil NeuroPro EnfaCare Infant Formula']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ed854545-8723-4980-a80f-d6b13e2a9428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item__image</value>
+      <webElementGuid>955f96f2-88d1-45e8-ac67-505b86f78da6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.shopify.com/s/files/1/2235/8243/products/Enfacare-NeuroPro-13.6-oz_copy_189x.png?v=1646752297</value>
+      <webElementGuid>5bb4a166-f874-400d-8ff8-0b42e5c09617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Enfamil NeuroPro EnfaCare Infant Formula</value>
+      <webElementGuid>b788f843-1b0e-4784-b73c-b9f7d4893ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row margin-top-tiny content-grid--full-width personalization-featured-products-pdp shop-category animate-row aos-init aos-animate&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;related-products&quot;]/div[@class=&quot;related-products__content product-list&quot;]/div[@class=&quot;slider slider--less-items&quot;]/div[@class=&quot;slider-frame&quot;]/ul[@class=&quot;slider-list&quot;]/li[@class=&quot;slider-slide slide-visible&quot;]/div[@class=&quot;col product-list__products&quot;]/div[@class=&quot;col product-item product-item--shopify product-item--visible product-item--family&quot;]/div[@class=&quot;row product-item__content&quot;]/a[@class=&quot;product-item__link product-item__link--with-promotion link&quot;]/div[@class=&quot;col product-item__hero&quot;]/div[@class=&quot;product-item__wrapper&quot;]/img[@class=&quot;product-item__image&quot;]</value>
+      <webElementGuid>92a718d8-ea3b-42be-bef2-99c57b0259d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[8]/div/div[2]/div/div/div[2]/ul/li[3]/div/div/div/a/div/div[2]/img</value>
+      <webElementGuid>a95e7bd0-a975-4022-9b5e-14fae84ce195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Enfamil NeuroPro EnfaCare Infant Formula'])[2]</value>
+      <webElementGuid>fdde264c-e641-4254-9fdd-7137c66c6b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/a/div/div[2]/img</value>
+      <webElementGuid>0e13aeba-949a-4abc-8749-50672c5097f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.shopify.com/s/files/1/2235/8243/products/Enfacare-NeuroPro-13.6-oz_copy_189x.png?v=1646752297' and @alt = 'Enfamil NeuroPro EnfaCare Infant Formula']</value>
+      <webElementGuid>522542c7-4997-4cf4-acd3-e7aa1c9fc499</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

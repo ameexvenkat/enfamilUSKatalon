@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Toggle search box_react-autosuggest___4dfc55</name>
+   <tag></tag>
+   <elementGuidId>67d6ddd9-4180-46c1-9a8e-cb2b4b5d9c3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@placeholder = concat(&quot;Find products, articles and tips OR Try &quot; , &quot;'&quot; , &quot;Colic&quot; , &quot;'&quot;)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.react-autosuggest__input.react-autosuggest__input--focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-autocomplete</name>
+      <type>Main</type>
+      <value>list</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>react-autowhatever-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-autosuggest__input react-autosuggest__input--focused</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Find products, articles and tips OR Try 'Colic'</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__bottom&quot;]/div[@class=&quot;wrapper wrapper--main-header__bottom-items&quot;]/div[@class=&quot;main_header__contents&quot;]/div[@class=&quot;search-box search-box--open&quot;]/div[@class=&quot;search-box__overlay&quot;]/div[@class=&quot;seach-box__overlay-contents&quot;]/div[@class=&quot;search-box__form-suggestions&quot;]/div[@class=&quot;react-autosuggest__container&quot;]/input[@class=&quot;react-autosuggest__input react-autosuggest__input--focused&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/div[2]/div/div/div/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = concat(&quot;Find products, articles and tips OR Try &quot; , &quot;'&quot; , &quot;Colic&quot; , &quot;'&quot;)]</value>
+   </webElementXpaths>
+</WebElementEntity>

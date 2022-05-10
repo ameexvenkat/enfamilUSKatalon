@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Aria-Label check</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a008d86f-859d-43ea-b914-a166e3bb4ab0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f98253dd-ecc2-42b0-bdf9-c7e9baf0b0e0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>f98253dd-ecc2-42b0-bdf9-c7e9baf0b0e0</id>
+      <masked>false</masked>
+      <name>i</name>
+   </variable>
+</TestCaseEntity>

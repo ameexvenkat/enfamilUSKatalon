@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Enfamil products unaffected by recall. Le_0a6984</name>
+   <tag></tag>
+   <elementGuidId>329fb48d-90ce-4f8d-8056-00e47ea61694</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;site-message-container&quot;]//p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[(text() = 'Enfamil products unaffected by recall. Learn more.' or . = 'Enfamil products unaffected by recall. Learn more.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ee6994ae-e671-4da1-9adf-c7b954676027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enfamil products unaffected by recall. Learn more.</value>
+      <webElementGuid>df7f8c07-e2c5-4252-9a79-0596e032d044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;site-message-container&quot;]//p</value>
+      <webElementGuid>51e50ad1-812e-4fce-a11e-2c3ed42e4159</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='site-message-container']/ul/li/section/div/div/div/div/div/div/p</value>
+      <webElementGuid>ec386afd-5730-4ccb-839d-18a4000558d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Main Content'])[1]/following::p[1]</value>
+      <webElementGuid>336e66c3-ca25-4b1f-b8da-23509914e0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enfamil products unaffected by recall.']/parent::*</value>
+      <webElementGuid>0a51d661-0789-4633-9414-1e469c7abc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>974d2c09-a886-4ab2-b673-0f2ed0d473a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Enfamil products unaffected by recall. Learn more.' or . = 'Enfamil products unaffected by recall. Learn more.')]</value>
+      <webElementGuid>43c8ca05-08c7-406c-bf66-e3cabf27c670</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Nutrition for brain building  immune sup_862da3</name>
+   <tag></tag>
+   <elementGuidId>bd86feb8-2133-4ab9-ab22-c25dfcf5bbe3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div/div/div/div[3]/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.product-hero__images-title</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'product-hero__images-title' and (text() = 'Nutrition for brain building &amp; immune support inspired by breastmilk' or . = 'Nutrition for brain building &amp; immune support inspired by breastmilk')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6f9f0eb1-8cb2-44bc-9a4a-0bca34b780b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-hero__images-title</value>
+      <webElementGuid>66f6a96c-5b83-4f1f-b28c-140d787b7037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nutrition for brain building &amp; immune support inspired by breastmilk</value>
+      <webElementGuid>768ebda9-0042-44f8-ac1b-e9dbe33f20e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__hero content-grid__column--size-6&quot;]/div[@class=&quot;product-hero&quot;]/div[@class=&quot;product-hero__slider first-slide&quot;]/div[@class=&quot;slider&quot;]/div[@class=&quot;product-hero__images product-hero__images--badges&quot;]/h1[@class=&quot;product-hero__images-title&quot;]</value>
+      <webElementGuid>ac4d5135-7f8c-44a6-8b0c-0d69d3deb151</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div/div/div/div[3]/div/h1</value>
+      <webElementGuid>118eb178-ee52-424e-ba3c-ef10eebc606f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout now'])[1]/following::h1[1]</value>
+      <webElementGuid>3e9d65ba-1118-4293-8f80-e30f07ecae05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/following::h1[1]</value>
+      <webElementGuid>384d9809-57fe-4f22-aee2-2aacb9c82ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 19 more'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ba8930bf-0f2c-40ec-b05d-41316b688a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Content for the default variant'])[1]/preceding::h1[1]</value>
+      <webElementGuid>96ee0669-ad7e-42e7-bdd6-8741dd0909ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nutrition for brain building &amp; immune support inspired by breastmilk']/parent::*</value>
+      <webElementGuid>ec7e1550-191c-41dc-b833-9aa657caf785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>9fd04712-b533-4895-8ba3-61b68ab58a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Nutrition for brain building &amp; immune support inspired by breastmilk' or . = 'Nutrition for brain building &amp; immune support inspired by breastmilk')]</value>
+      <webElementGuid>ef02e11c-30a7-4182-9f29-04feb9ba55be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

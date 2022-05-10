@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Enfamil</name>
+   <tag></tag>
+   <elementGuidId>5442c95a-b46f-4b4c-9e75-55e6dd9ad34f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.gmql0nx0.l94mrbxd.p1ri9a11.lzcic4wl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_c3']/div/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/span/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gmql0nx0 l94mrbxd p1ri9a11 lzcic4wl</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enfamil</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_c3&quot;)/div[1]/div[1]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb&quot;]/div[@class=&quot;du4w35lb l9j0dhe7 cbu4d94t j83agx80&quot;]/div[@class=&quot;j83agx80 cbu4d94t l9j0dhe7 jgljxmt5 be9z9djy&quot;]/div[@class=&quot;j83agx80 cbu4d94t d6urw2fd dp1hu0rb l9j0dhe7 du4w35lb&quot;]/div[@class=&quot;l9j0dhe7 dp1hu0rb cbu4d94t j83agx80&quot;]/div[1]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw taijpn5t gs1a9yip owycx6da btwxx1t3 ihqw7lf3 cddn0xzi&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t hpfvmrgz rj1gh0hx buofh1pr g5gj957u hv4rvrfc dati1w0a marjyy4e&quot;]/div[@class=&quot;k4urcfbm&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw i1fnvgqd aovydwv3 lhclo0ds btwxx1t3 discj3wi dlv3wnog rl04r1d5 enqfppq2 muag1w35&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t d2edcug0 hpfvmrgz buofh1pr g5gj957u o8rfisnq ph5uu5jm b3onmgus ecm0bbzt on77hlbc ihqw7lf3&quot;]/div[@class=&quot;tr9rh885&quot;]/div[@class=&quot;j83agx80 cbu4d94t obtkqiv7 sv5sfqaa&quot;]/div[@class=&quot;bi6gxh9e aov4n071&quot;]/span[@class=&quot;d2edcug0 hpfvmrgz qv66sw1b c1et5uql lr9zc1uh a8c37x1j fe6kdd0r mau55g9w c8b282yb keod5gw0 nxhoafnm aigsh9s9 embtmqzv hrzyx87i m6dqt4wy h7mekvxk hnhda86s oo9gr5id hzawbc8m&quot;]/h1[@class=&quot;gmql0nx0 l94mrbxd p1ri9a11 lzcic4wl&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_c3']/div/div/div/div[3]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/span/h1</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten account?'])[1]/following::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[2]/following::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='@Enfamil'])[1]/preceding::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enfamil']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Enfamil' or . = 'Enfamil')]</value>
+   </webElementXpaths>
+</WebElementEntity>

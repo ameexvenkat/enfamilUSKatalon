@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enfamil NeuroPro Gentlease Infant Formula</name>
+   <tag></tag>
+   <elementGuidId>ae002f4e-dad9-4b86-8a11-83027e1bf69f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[2]/div/div/a/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Enfamil NeuroPro Gentlease Infant Formula' or . = 'Enfamil NeuroPro Gentlease Infant Formula')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd1b994f-fc58-44ea-8621-79068c558391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item__title</value>
+      <webElementGuid>95c3cf3a-d92d-4cfa-b3d4-bf691f38726a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enfamil NeuroPro Gentlease Infant Formula</value>
+      <webElementGuid>b1c7ec1a-8899-412c-8cb8-1899a3762160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid content-grid--main&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width  categories-tab categories-tab--center list-child-pages-cards zindex-2 page-border-radius&quot;]/div[@class=&quot;content-grid__column list-child-pages-image-bottom-right margin-bottom-xxlarge hide-filter-pagination content-grid__column--size-12&quot;]/div[@class=&quot;grid-wrapper slideshow-picker slideshow-picker--tab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;slideshow-picker__slide slideshow-picker__slide--active&quot;]/section[@class=&quot;content-grid content-grid--main&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column hide-filter-pagination content-grid__column--size-12&quot;]/div[@class=&quot;row product-list product-list--shopify search-results--no-products&quot;]/div[@class=&quot;col product-list__products&quot;]/div[@class=&quot;slider&quot;]/div[@class=&quot;slider-frame&quot;]/ul[@class=&quot;slider-list&quot;]/li[@class=&quot;slider-slide slide-visible&quot;]/div[@class=&quot;col product-item product-item--shopify product-item--visible product-item--family&quot;]/div[@class=&quot;row product-item__content&quot;]/a[@class=&quot;product-item__link product-item__link--with-promotion link&quot;]/div[@class=&quot;col product-item__title-wrapper&quot;]/div[@class=&quot;product-item__title&quot;]</value>
+      <webElementGuid>38d7145c-4228-4e0c-8c7b-cd5a0eab5f4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[8]/div/div[2]/div/div/div/section/div/div/div/div/div/div/div[2]/ul/li[2]/div/div/a/div[2]/div</value>
+      <webElementGuid>3fb7a375-048d-499e-a4bc-cff70a574856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More formats &amp; sizes available'])[2]/following::div[2]</value>
+      <webElementGuid>a7346fe7-2f34-496e-896a-8d89fafd50cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For fussiness, crying, gas and spit-up'])[1]/following::div[3]</value>
+      <webElementGuid>2ee660a0-296d-480f-99d7-5c0765db033c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top Selling Flag'])[1]/preceding::div[1]</value>
+      <webElementGuid>627bcb25-a812-4a6a-9df2-53cc082d1c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One time purchase'])[2]/preceding::div[5]</value>
+      <webElementGuid>dcc19dbd-a845-490d-9a0a-cd12d43768e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/a/div[2]/div</value>
+      <webElementGuid>5cf30f69-8ec8-4459-ac99-d4044d665dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enfamil NeuroPro Gentlease Infant Formula' or . = 'Enfamil NeuroPro Gentlease Infant Formula')]</value>
+      <webElementGuid>ff854d9b-7c0f-427a-ab7c-35f34cd96b64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Header Section Promo Element Verification</description>
+   <name>Promo - UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aded253b-143e-48ac-824e-4fa9dc37ecc2</testCaseGuid>
+</TestCaseEntity>

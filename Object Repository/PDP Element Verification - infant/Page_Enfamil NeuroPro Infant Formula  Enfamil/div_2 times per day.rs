@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_2 times per day</name>
+   <tag></tag>
+   <elementGuidId>46938c27-06eb-43f4-81b9-c74aa8b74d0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-5-option-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-5-option-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c282f7f-7f9b-4c37-a122-6c2553b2237e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__option css-yt9ioa-option</value>
+      <webElementGuid>6052d0f4-afd6-47b3-ba0a-26354362abdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-5-option-1</value>
+      <webElementGuid>78bba6f3-db1d-4eb6-9d25-2abc8c192e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>af308e7e-9c1a-4c96-a04c-b2604db1cdb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 times per day</value>
+      <webElementGuid>af110232-10da-4dee-8178-344f7e780477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-5-option-1&quot;)</value>
+      <webElementGuid>555bcc90-659f-401d-8ff0-5af32c546481</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-5-option-1']</value>
+      <webElementGuid>b9cb4a16-2317-4917-bf9a-9e1bfaa98566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select one'])[2]/following::div[6]</value>
+      <webElementGuid>862cd92a-fafa-4def-bc47-c161a342ac01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How often does your little one drink formula?'])[1]/following::div[11]</value>
+      <webElementGuid>8bd88ac4-0271-4326-827e-585b52b13de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How much formula do you give your baby at each feeding?'])[1]/preceding::div[11]</value>
+      <webElementGuid>df219931-80f7-44e1-97c4-80590d7fd918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select one'])[3]/preceding::div[12]</value>
+      <webElementGuid>efbd4e83-5bb7-47e8-9b14-c3e87246f0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2 times per day']/parent::*</value>
+      <webElementGuid>d500f9e0-d49a-494d-a178-8ba5a4d51a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>856980a1-6aaa-4510-8995-868e1c708e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-5-option-1' and (text() = '2 times per day' or . = '2 times per day')]</value>
+      <webElementGuid>ceff45ad-fe5c-4fe4-889e-54df6b5b7782</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Nutrients (Normal Dilution) per 100 Calor_4fac1b</name>
+   <tag></tag>
+   <elementGuidId>6a3c489c-e1d1-49d1-8cc2-fe86fb8239bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[(text() = 'Nutrients (Normal Dilution); per 100 Calories (5 fl oz)' or . = 'Nutrients (Normal Dilution); per 100 Calories (5 fl oz)')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.nutrients__em</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[4]/div/div/div/div[2]/div/div/section/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>00bfa516-462d-46a4-a4d7-03a55eb4fab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nutrients__em</value>
+      <webElementGuid>f935f3f6-516d-4939-88ea-1219c85fd280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nutrients (Normal Dilution); per 100 Calories (5 fl oz)</value>
+      <webElementGuid>5af6a879-bd4b-49b6-b85f-0177ce1a8199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width pdp-wrapper--blue-bg animate-row aos-init aos-animate&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;nutrition-information&quot;]/div[@class=&quot;nutrition-information__wrapper&quot;]/div[@class=&quot;nutrition-information__container&quot;]/div[@class=&quot;nutrition-information__nutrients&quot;]/div[@class=&quot;nutrition-information__nutrients-container&quot;]/section[1]/div[@class=&quot;nutrition-information__nutrients-content&quot;]/div[@class=&quot;nutrients&quot;]/p[@class=&quot;nutrients__em&quot;]</value>
+      <webElementGuid>bac8e966-2362-486e-8eda-e2379f28d640</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[4]/div/div/div/div[2]/div/div/section/div/div/p</value>
+      <webElementGuid>6763268d-a274-4f56-aaef-d69aac3bb599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nutrients'])[1]/following::p[1]</value>
+      <webElementGuid>8ffca6b9-7713-4295-84ac-9d8963d5640c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrients and Ingredients'])[1]/following::p[1]</value>
+      <webElementGuid>d7e8580f-0487-47ba-b6d8-8556a3ec1ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROTEIN'])[1]/preceding::p[1]</value>
+      <webElementGuid>95b1b090-1548-4765-b662-db80016453fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAT'])[1]/preceding::p[1]</value>
+      <webElementGuid>258332d4-e69e-4d84-b777-b7dfe95f9a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nutrients (Normal Dilution); per 100 Calories (5 fl oz)']/parent::*</value>
+      <webElementGuid>fbbd2a84-3578-4321-bd2b-ce5931b7dba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/p</value>
+      <webElementGuid>e230041f-ee9f-4548-894f-f451a02a6b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Nutrients (Normal Dilution); per 100 Calories (5 fl oz)' or . = 'Nutrients (Normal Dilution); per 100 Calories (5 fl oz)')]</value>
+      <webElementGuid>1226f5ff-ea95-4721-a0e8-0fd34c6a8e68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

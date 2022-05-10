@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The tub has a removable lid and is dish_51ead4</name>
+   <tag></tag>
+   <elementGuidId>85328af3-45ce-4dd5-8514-5a59870c23df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[3]/div/div/div[2]/div[2]/div[6]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'The tub has a removable lid and is dishwasher safe for continued use. ' or . = 'The tub has a removable lid and is dishwasher safe for continued use. ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>446eac33-2ca1-41c9-9440-40e7d1c9c7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>c153e1f2-1d39-4387-9c47-5023341cce9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The tub has a removable lid and is dishwasher safe for continued use. </value>
+      <webElementGuid>fed259d2-7a3c-41fc-b4da-3332abcdd2f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-overview-margin animate-row aos-init aos-animate&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;product-overview&quot;]/div[@class=&quot;product-overview__content&quot;]/div[@class=&quot;product-overview__right column--size-5&quot;]/div[@class=&quot;product-overview__highlight-item&quot;]/div[@class=&quot;product-overview__highlight-item__desc&quot;]/div[@class=&quot;h6&quot;]</value>
+      <webElementGuid>964a5a21-b10d-4b75-82f1-e9b9bdb16361</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[3]/div/div/div[2]/div[2]/div[6]/div[2]/div</value>
+      <webElementGuid>85b3af69-0b0a-4837-a58c-0ae230624671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='non-GMO'])[1]/following::div[4]</value>
+      <webElementGuid>2162d2fd-7e00-47e3-8b1a-f0b18b6ec930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil reduces its environmental impact by using 100% recycled paperboard for our refill boxes.'])[1]/preceding::div[2]</value>
+      <webElementGuid>abe5af32-87e1-4547-a24b-bfe930f4c541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read more'])[1]/preceding::div[5]</value>
+      <webElementGuid>9553613c-65ad-43ce-b5fa-4e4871243ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/div[6]/div[2]/div</value>
+      <webElementGuid>f858d16f-9f2a-4f63-9d41-118b1cba0ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'The tub has a removable lid and is dishwasher safe for continued use. ' or . = 'The tub has a removable lid and is dishwasher safe for continued use. ')]</value>
+      <webElementGuid>f987dbdc-9418-4383-9081-5425a1d5d377</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

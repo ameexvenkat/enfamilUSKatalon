@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Premium short form - Field Verification</description>
+   <name>Short Form - UAT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3327c5a-99da-487d-9d59-a55aa5b59f4c</testCaseGuid>
+</TestCaseEntity>

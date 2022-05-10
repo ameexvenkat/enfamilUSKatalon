@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Gift Cards</name>
+   <tag></tag>
+   <elementGuidId>2c2d90b7-74ad-45f7-9872-43b4f77f88bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h2[(text() = 'Gift Cards' or . = 'Gift Cards')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.carousel-item__content-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/div/div/div[2]/div[2]/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>2d47f0ac-2d06-490a-82cd-ffe919b9af8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carousel-item__content-header</value>
+      <webElementGuid>4f7716c8-9115-4397-90b1-a639ba89a97a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gift Cards</value>
+      <webElementGuid>fa2f0c20-183a-4021-9da8-507f93e6e195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row page-banner page-banner--withdisclaimer page-banner--shorttext content-grid--full-width page-banner--darkbg page-border-radius--bottom-space page-banner--bottomspacing&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-item carousel-item--default carousel-item--col&quot;]/div[@class=&quot;carousel-item__content-wrapper&quot;]/div[@class=&quot;carousel-item__content&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text carousel-item__description&quot;]/h2[@class=&quot;carousel-item__content-header&quot;]</value>
+      <webElementGuid>c0814077-35fa-493f-9f00-5d2230eadcc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/div/div/div[2]/div[2]/div/div/h2</value>
+      <webElementGuid>0784aa9c-c89a-47c5-85d1-dfbcc5509fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Cards'])[2]/following::h2[1]</value>
+      <webElementGuid>691a0789-cdce-497b-a04c-d8d2e2a5dcc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gift Cards'])[1]/following::h2[1]</value>
+      <webElementGuid>505e8a19-224d-4dec-9ff0-9bcab87482fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select gift card amount'])[1]/preceding::h2[1]</value>
+      <webElementGuid>0bd0aa7b-6fbe-4f4f-b0e3-96f47154f73e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check your email'])[1]/preceding::h2[1]</value>
+      <webElementGuid>9abb5688-1bfa-484c-9152-f5cc1ff7a75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>49230b01-d797-4a87-9d5f-3ec8dbcc057f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Gift Cards' or . = 'Gift Cards')]</value>
+      <webElementGuid>31473378-5b65-4a7d-8dab-9e72dde87c83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

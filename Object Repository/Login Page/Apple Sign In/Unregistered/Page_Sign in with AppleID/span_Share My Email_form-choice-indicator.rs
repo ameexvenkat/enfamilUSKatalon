@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Share My Email_form-choice-indicator</name>
+   <tag></tag>
+   <elementGuidId>f6d1cb50-f10d-4ca3-a5b7-d6b1e73699c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.form-choice-indicator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='idms-step-1648044940997-0']/div[2]/div/div/oauth-profile-email/div/ff-radio-list/div/div/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-choice-indicator</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idms-step-1648044940997-0&quot;)/div[@class=&quot;idms-step-content&quot;]/div[@class=&quot;home&quot;]/div[@class=&quot;profile__userinfo&quot;]/oauth-profile-email[1]/div[@class=&quot;oauth-profile-email tk-subbody&quot;]/ff-radio-list[@class=&quot;oauth-profile-email__list&quot;]/div[@class=&quot;radio-flex-wrapper&quot;]/div[@class=&quot;form-row&quot;]/div[@class=&quot;form-cell&quot;]/div[@class=&quot;form-element&quot;]/label[@class=&quot;form-label&quot;]/span[@class=&quot;form-choice-indicator&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='idms-step-1648044940997-0']/div[2]/div/div/oauth-profile-email/div/ff-radio-list/div/div/div/div/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ff-radio-list/div/div/div/div/label/span</value>
+   </webElementXpaths>
+</WebElementEntity>

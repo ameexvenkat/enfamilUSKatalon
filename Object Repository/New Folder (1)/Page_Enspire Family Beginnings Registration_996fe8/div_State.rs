@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_State</name>
+   <tag></tag>
+   <elementGuidId>9a806063-6c52-4a5b-92d5-d939432cfae7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='22196_517e1eee-24bf-4409-b2f1-8f0d9125e096']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.single-select__value-container.css-1hwfws3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fff9bcf9-6d0d-456e-9a63-6a8bfc1cba25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>single-select__value-container css-1hwfws3</value>
+      <webElementGuid>89119f27-a9ae-41d2-a9e6-cdaed25045ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State</value>
+      <webElementGuid>5e614de4-ed46-4616-af25-2993cd3558d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;22196_517e1eee-24bf-4409-b2f1-8f0d9125e096&quot;)/div[@class=&quot;single-select__control single-select__control--is-focused single-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;single-select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>e479afa7-b607-43ce-b1dd-754d168b62ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='22196_517e1eee-24bf-4409-b2f1-8f0d9125e096']/div/div</value>
+      <webElementGuid>0ebb3a3c-cfa4-4cc0-9f60-f8432c16c1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[3]</value>
+      <webElementGuid>3508c4cc-eef6-44c8-ab5a-f98ca95b2778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/following::div[5]</value>
+      <webElementGuid>043199b3-37ca-43ea-9813-601186449de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alabama'])[1]/preceding::div[7]</value>
+      <webElementGuid>1fda583a-e946-404b-8b85-87e909f5e999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>2c52c9bb-4922-443a-9f89-43d1655dd912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'State' or . = 'State')]</value>
+      <webElementGuid>38b78bc7-253f-4518-b806-1673b8a0cab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

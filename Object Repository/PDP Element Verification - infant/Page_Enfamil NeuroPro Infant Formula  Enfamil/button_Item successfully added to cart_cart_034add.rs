@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Item successfully added to cart_cart_034add</name>
+   <tag></tag>
+   <elementGuidId>a8899d6a-5f7f-4e95-ad9b-932700f173e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @class = 'cart-tooltip-trigger__cart']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.cart-modal__close</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'cart-modal__close']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41aa90d8-11bf-400b-9150-3ac1e96de610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0d62af5e-ed96-439a-8418-258017036013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close modal</value>
+      <webElementGuid>9decdfd0-51e7-430c-94c3-436d31336c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-modal__close</value>
+      <webElementGuid>37eeb3c1-700c-45b7-8999-a250833afe8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page--sticky-nav ReactModal__Body--open mouse-click&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open cart-modal__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open cart-modal&quot;]/button[@class=&quot;cart-modal__close&quot;]</value>
+      <webElementGuid>d49309f2-d9ba-4ba7-aa9b-f6d508d52559</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[84]</value>
+      <webElementGuid>1abd6ecb-4462-46c9-89c7-c2ff216773d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/button</value>
+      <webElementGuid>61c5bd28-e326-4ff6-9447-697feca8b552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>c966bc89-8416-4e9e-92ac-186999d5026e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

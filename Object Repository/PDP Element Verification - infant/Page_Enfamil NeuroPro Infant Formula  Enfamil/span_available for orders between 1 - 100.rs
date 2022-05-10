@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_available for orders between 1 - 100</name>
+   <tag></tag>
+   <elementGuidId>09cedf8d-83f5-45af-812c-e352cfdbf982</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[7]/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.afterpay-text2</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'afterpay-text2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c3d885d-230b-488e-a3ea-fec3b4e39e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>afterpay-text2</value>
+      <webElementGuid>9dbe119d-ede2-4f42-87c9-afd949a0e1ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>available for orders between $1 - $100 </value>
+      <webElementGuid>ab25861f-91e1-4b9e-aacc-e231cfd1ec64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;pay-later&quot;]/div[@class=&quot;price&quot;]/p[@class=&quot;afterpay-paragraph&quot;]/span[@class=&quot;afterpay-text2&quot;]</value>
+      <webElementGuid>97578f4c-a83a-4e0f-8aff-9b1a94503ad3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[7]/div/p/span</value>
+      <webElementGuid>1a02f592-149c-4825-9eb4-54cd6b424084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$190.99'])[6]/following::span[1]</value>
+      <webElementGuid>61c0ba9c-7ea5-4908-90ae-5d71df980e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout now'])[2]/following::span[1]</value>
+      <webElementGuid>1f4baafb-95fc-4cc8-be7a-5f67a7e6ed81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Info'])[2]/preceding::span[1]</value>
+      <webElementGuid>9d0eb1ce-7d82-4977-95f5-f83a2f3b2bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping'])[1]/preceding::span[1]</value>
+      <webElementGuid>21437c33-a0d7-4b80-a250-fe6ce7cf0c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='available for orders between $1 - $100']/parent::*</value>
+      <webElementGuid>e9239968-d9b2-4f72-beb0-9c1f32926a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/p/span</value>
+      <webElementGuid>907376c1-6cdb-42ea-a467-58c6e3cd0dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'available for orders between $1 - $100 ' or . = 'available for orders between $1 - $100 ')]</value>
+      <webElementGuid>e624af50-1a65-4d43-b238-6552fe2a6d81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
