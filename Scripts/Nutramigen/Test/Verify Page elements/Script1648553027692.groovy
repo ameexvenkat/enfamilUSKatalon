@@ -2,6 +2,18 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 
 WebUI.openBrowser('')
 
@@ -62,10 +74,12 @@ WebUI.scrollToElement(findTestObject('Nutramigen/Element Text verification/Page_
     0)
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for address fields'), 
-    '2. Enter your address.\nYou may receive some gifts closer to your baby’s due date.')
+    '''2. Enter your address.
+You may receive some gifts closer to your baby’s due date.''')
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 for address field'), 
-    '2. Enter your address.\nYou may receive some gifts closer to your baby’s due date.')
+    '''2. Enter your address.
+You may receive some gifts closer to your baby’s due date.''')
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify Street address placeholder text for input field'), 
     '')
@@ -130,13 +144,13 @@ WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Pag
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify consent Message for phone checkbox field'), 
     Phone_Consent_Text)
 
-WebUI.scrollToElement(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+WebUI.scrollToElement(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DoB, Relation, Feeding, WIC fields'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DoB, Relation, Feeding, WIC fields'), 
     Label_Baby_Rel_Info)
 
-WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for Dob, Relation, Feeding, WIC fields'), 
     Label_Baby_Rel_Info1)
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify DoB field label'), 
@@ -190,10 +204,10 @@ WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Pag
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 for How are you currently feeding your little one'), 
     Label_Feed_1)
 
-WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify How are currently feeding you little one placeholder text for dropdown field'), 
+WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'), 
     'Select one')
 
-WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify How are currently feeding you little one placeholder text for dropdown field'))
+WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'))
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify Feeding option 1 dropdown'), 
     Feed_Op_1)

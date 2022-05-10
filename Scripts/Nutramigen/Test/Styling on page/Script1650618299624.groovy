@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.HomePage)
+WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
 
 WebUI.waitForElementPresent(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify one trust cookie preferences'), 
     3)
@@ -29,7 +29,7 @@ WebUI.verifyElementPresent(findTestObject('Nutramigen/Element Text verification/
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify One trust cookie close'))
 
-WebUI.mouseOver(findTestObject('Nutramigen/Field Validation for invalid data/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/Verify hover on Offers and Savings menu'))
+WebUI.mouseOver(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify hover on Offers and Savings Menu'))
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/Verify Nutramigen in Menu'))
 
@@ -637,17 +637,17 @@ PhoneConsent_FontFamily = WebUI.getCSSValue(findTestObject('Nutramigen/Element T
 
 WebUI.verifyMatch(PhoneConsent_FontFamily, '"Open Sans"', false)
 
-DobRelFeedWicLabel_FontColor = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+DobRelFeedWicLabel_FontColor = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DoB, Relation, Feeding, WIC fields'), 
     Font_Color)
 
 WebUI.verifyMatch(DobRelFeedWicLabel_FontColor, 'rgba(0, 37, 122, 1)', false)
 
-DobRelFeedWicLabel_FontSize = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+DobRelFeedWicLabel_FontSize = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DoB, Relation, Feeding, WIC fields'), 
     Font_Size)
 
 WebUI.verifyMatch(DobRelFeedWicLabel_FontSize, '18px', false)
 
-DobRelFeedWicLabel_FontWeight = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+DobRelFeedWicLabel_FontWeight = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DoB, Relation, Feeding, WIC fields'), 
     Font_Weight)
 
 if (DobRelFeedWicLabel_FontWeight == 'normal') {
@@ -658,22 +658,22 @@ if (DobRelFeedWicLabel_FontWeight == 'normal') {
     println('Font Weight of DobRelFeedWicLabel is not 400 or normal')
 }
 
-DobRelFeedWicLabel_FontFamily = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+DobRelFeedWicLabel_FontFamily = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for DoB, Relation, Feeding, WIC fields'), 
     Font_Family)
 
 WebUI.verifyMatch(DobRelFeedWicLabel_FontFamily, '"Quatro Slab Semi-Bold", Arial, Helvetica, sans-serif', false)
 
-DobRelFeedWicLabel1_FontColor = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+DobRelFeedWicLabel1_FontColor = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for Dob, Relation, Feeding, WIC fields'), 
     Font_Color)
 
 WebUI.verifyMatch(DobRelFeedWicLabel1_FontColor, 'rgba(0, 0, 0, 1)', false)
 
-DobRelFeedWicLabel1_FontSize = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+DobRelFeedWicLabel1_FontSize = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for Dob, Relation, Feeding, WIC fields'), 
     Font_Size)
 
 WebUI.verifyMatch(DobRelFeedWicLabel1_FontSize, '16px', false)
 
-DobRelFeedWicLabel1_FontWeight = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+DobRelFeedWicLabel1_FontWeight = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for Dob, Relation, Feeding, WIC fields'), 
     Font_Weight)
 
 if (DobRelFeedWicLabel1_FontWeight == 'normal') {
@@ -684,7 +684,7 @@ if (DobRelFeedWicLabel1_FontWeight == 'normal') {
     println('Font Weight of DobRelFeedWicLabel_1 is not 400 or normal')
 }
 
-DobRelFeedWicLabel1_FontFamily = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for DOB, Relationship to Child, Feeding Method, WIC Status'), 
+DobRelFeedWicLabel1_FontFamily = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 - for Dob, Relation, Feeding, WIC fields'), 
     Font_Family)
 
 WebUI.verifyMatch(DobRelFeedWicLabel1_FontFamily, '"Open Sans", Arial, Helvetica, sans-serif', false)

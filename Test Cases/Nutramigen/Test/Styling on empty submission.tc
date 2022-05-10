@@ -5,36 +5,6 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>fbd98ef9-6f3c-4768-9aa3-6609730fc902</testCaseGuid>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>4f6e6f94-507f-42a4-a740-4d969d013025</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>916044db-b50b-4906-a460-3158afa04b2b</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>e822e597-1eb2-4785-8036-f02cb432931a</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>09e22509-274f-4b06-84f1-274aee68d687</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>7d471922-36b8-42ca-ae02-e173af9ffd90</variableId>
-   </variableLinks>
    <variable>
       <defaultValue>'color'</defaultValue>
       <description></description>

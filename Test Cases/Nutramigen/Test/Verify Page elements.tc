@@ -287,7 +287,7 @@
       <name>Label_Basic_Info</name>
    </variable>
    <variable>
-      <defaultValue>'2. Enter your address. \r\nYou may receive some gifts closer to your baby’s due date.'</defaultValue>
+      <defaultValue>'''2. Enter your address. \nYou may receive some gifts closer to your baby’s due date.'''</defaultValue>
       <description></description>
       <id>7e2cb72d-3b5c-4503-a6b1-78e93e3a5f7d</id>
       <masked>false</masked>

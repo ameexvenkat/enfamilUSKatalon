@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.HomePage)
+WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
 
 WebUI.waitForElementPresent(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify one trust cookie preferences'), 
     3)
@@ -29,7 +29,7 @@ WebUI.verifyElementPresent(findTestObject('Nutramigen/Element Text verification/
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify One trust cookie close'))
 
-WebUI.mouseOver(findTestObject('Nutramigen/Field Validation for invalid data/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/Verify hover on Offers and Savings menu'))
+WebUI.mouseOver(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify hover on Offers and Savings Menu'))
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/Verify Nutramigen in Menu'))
 
@@ -189,17 +189,17 @@ FeedLabel1_FontFamily = WebUI.getCSSValue(findTestObject('Nutramigen/Element Tex
 
 WebUI.verifyMatch(FeedLabel_FontFamily, '"Open Sans", Arial, Helvetica, sans-serif', false)
 
-FeedHolder_FontColor = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify How are currently feeding you little one placeholder text for dropdown field'), 
+FeedHolder_FontColor = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'), 
     Font_Color)
 
 WebUI.verifyMatch(FeedHolder_FontColor, 'rgba(90, 91, 94, 1)', false)
 
-FeedHolder_FontSize = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify How are currently feeding you little one placeholder text for dropdown field'), 
+FeedHolder_FontSize = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'), 
     Font_Size)
 
 WebUI.verifyMatch(FeedHolder_FontSize, '14px', false)
 
-FeedHolder_FontWeight = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify How are currently feeding you little one placeholder text for dropdown field'), 
+FeedHolder_FontWeight = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'), 
     Font_Weight)
 
 if (FeedHolder_FontWeight == 'normal') {
@@ -210,7 +210,7 @@ if (FeedHolder_FontWeight == 'normal') {
     println('Font Weight of FeedHolder is not 400 or normal')
 }
 
-FeedHolder_FontFamily = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify How are currently feeding you little one placeholder text for dropdown field'), 
+FeedHolder_FontFamily = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'), 
     Font_Family)
 
 WebUI.verifyMatch(FeedHolder_FontFamily, '"Open Sans", Arial, Helvetica, sans-serif', false)

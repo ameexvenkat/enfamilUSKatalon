@@ -19,7 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.HomePage)
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
 
 WebUI.waitForElementPresent(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify one trust cookie preferences'), 
     3)
@@ -29,7 +31,7 @@ WebUI.verifyElementPresent(findTestObject('Nutramigen/Element Text verification/
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify One trust cookie close'))
 
-WebUI.mouseOver(findTestObject('Nutramigen/Field Validation for invalid data/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/Verify hover on Offers and Savings menu'))
+WebUI.mouseOver(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify hover on Offers and Savings Menu'))
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/Verify Nutramigen in Menu'))
 
@@ -414,7 +416,7 @@ WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nu
 
 Submitted_Relationship = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify option selected in Relationship field'))
 
-WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify How are currently feeding you little one placeholder text for dropdown field'))
+WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'))
 
 WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Select option in Feeding Method field', 
         [('Feeding') : Select_Feeding_Value]))
@@ -454,4 +456,238 @@ if (WebUI.getCSSValue(findTestObject('Nutramigen/Field Validation for invalid da
 }
 
 WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify submit with all fields empty'))
+
+WebUI.waitForPageLoad(5)
+
+WebUI.delay(5)
+
+Thank_You_Page_URL = WebUI.getUrl()
+
+WebUI.verifyMatch(Thank_You_Page_URL, Thank_You_Page_URL_Input, false)
+
+if (No_of_Submission == 1) {
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify user is logged in'), 
+        0)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Hero Banner section - Eyebrow'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Hero Banner section - Eyebrow'), 
+        Thank_Banner_Eyebrow)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Hero Banner - Thankyou Message'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Hero Banner - Thankyou Message'), 
+        Thank_Banner_Message)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Featured Articles section'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Featured Articles section'), 
+        Thank_Featured_Head)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Articles Cards under Featured Articles'), 
+        0)
+
+    for (i = 1; i <= 4; i++) {
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify each Articles Card under Featured Articles', 
+                [('Articles_Card_No') : i]), 0)
+
+        println(('Articles Card' + i) + 'present')
+
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify each Articles Card under Featured Articles', 
+                [('Articles_Card_No') : i]), 0)
+
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Read Time in each Articles Card'), 
+            0)
+    }
+    
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Product Banner section - Heading'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Product Banner section - Heading'), 
+        Thank_Product_Banner_Heading)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Product Banner Section - CTA'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Product Banner Section - CTA'), 
+        Thank_Product_Banner_CTA)
+
+    WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Product Banner Section - CTA'))
+
+    WebUI.waitForPageLoad(5)
+
+    WebUI.delay(5)
+
+    Thank_Prod_Banner_CTA_URL = WebUI.getUrl()
+
+    WebUI.verifyMatch(Thank_Prod_Banner_CTA_URL, Thank_Prod_Banner_CTA_URL_Input, false)
+
+    WebUI.navigateToUrl(Thank_You_Page_URL_Input)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel Section Title'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel Section Title'), 
+        Thank_App_Carousel_Head)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel Section Description'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel Section Description'), 
+        Thank_App_Carousel_Description)
+
+    for (i = 1; i <= 2; i++) {
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel Section - App Img', 
+                [('App_Image') : i]), 0)
+
+        println(('App image' + i) + 'is present')
+    }
+    
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel Section - Slider'), 
+        0)
+
+    for (i = 1; i <= 4; i++) {
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider dots', 
+                [('sliders') : i]), 0)
+
+        WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider dots'))
+
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel Section - Different Sliders', 
+                [('sliders') : i]), 0)
+
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider image', 
+                [('sliders') : i]), 0)
+
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider Heading', 
+                [('sliders') : i]), 0)
+
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider Info', 
+                [('sliders') : i]), 0)
+    }
+    
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider Previous'), 
+        0)
+
+    WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider Previous'), 
+        FailureHandling.CONTINUE_ON_FAILURE)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider Next'), 
+        0)
+
+    WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify App Carousel section - Slider Next'), 
+        FailureHandling.CONTINUE_ON_FAILURE)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Shop section - Heading'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Shop section - Heading'), 
+        Thank_Shop_Section_Heading)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Shop Section - Description'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Shop Section - Description'), 
+        Thank_Shop_Section_Description)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Shop Section - CTA'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Shop Section - CTA'), 
+        Thank_Shop_Section_CTA)
+
+    WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Shop Section - CTA'), 
+        FailureHandling.CONTINUE_ON_FAILURE)
+
+    Thank_Shop_Section_CTA_URL = WebUI.getUrl()
+
+    WebUI.verifyMatch(Thank_Shop_Section_CTA_URL, Thank_Shop_Section_CTA_URL_Input, false)
+
+    WebUI.navigateToUrl(Thank_You_Page_URL_Input)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Guarantee Section'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Guarantee Section'), 
+        Thank_Guarantee_Heading)
+
+    for (i = 1; i <= 3; i++) {
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Guarantee Section - Image', 
+                [('image_icon') : i]), 0)
+
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Guarantee Section - Info Heading', 
+                [('Guarantee_Heading') : i]), 0)
+
+        WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Guarantee Section - Info Description', 
+                [('Guarantee_Description') : 'i']), 0)
+    }
+} else if (No_of_Submission != 1) {
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify user is logged in'), 
+        0)
+
+    WebUI.mouseOver(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify user is logged in'))
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify My Profile under My Account Nav'), 
+        0)
+
+    WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify My Profile under My Account Nav'))
+
+    WebUI.waitForPageLoad(5)
+
+    WebUI.delay(5)
+
+    My_Profile_URL = WebUI.getUrl()
+
+    WebUI.verifyMatch(My_Profile_URL, My_Profile_URL_Input, false)
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify My Info tab'), 
+        0)
+
+    Profile_First_Name_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify First Name Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_First_Name, Profile_First_Name_Prefill, false)
+
+    Profile_Last_Name_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Last Name Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_Last_Name, Profile_Last_Name_Prefill, false)
+
+    Profile_Email_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Email Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_Email, Profile_Email_Prefill, false)
+
+    Profile_Street_Add_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Street Address Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_Street_Add, Profile_Street_Add_Prefill, false)
+
+    Profile_Unit_Add_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Unit Address Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_Unit_Add, Profile_Unit_Add_Prefill, false)
+
+    Profile_City_Add_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify City Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_City_Add, Profile_City_Add_Prefill, false)
+
+    Profile_State_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify State Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_State, Profile_State_Prefill, false)
+
+    Profile_State_Code_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify State Code for State Prefilled'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_State_Code, Profile_State_Code_Prefill, false)
+
+    Profile_Zip_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Zipcode Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_City_Add, Profile_City_Add_Prefill, false)
+}
 
