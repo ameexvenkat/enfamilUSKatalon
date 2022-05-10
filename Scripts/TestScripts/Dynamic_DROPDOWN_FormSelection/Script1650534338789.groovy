@@ -25,21 +25,21 @@ WebUI.maximizeWindow()
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Enspire Family Beginnings/GOT IT_Cookie'))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/GOT IT_Cookie'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/New Folder (1)/Page_Enspire Family Beginnings/Forms_State'), 0)
+WebUI.scrollToElement(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/Forms_State'), 0)
 
-WebUI.click(findTestObject('Object Repository/New Folder (1)/Page_Enspire Family Beginnings/Forms_State'))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/Forms_State'))
 
-WebUI.click(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/Select_State_Dynamic', [('State') : 'Iowa']))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/Select_State_Dynamic', [('State') : 'Iowa']))
 
-WebUI.scrollToElement(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/Forms_Select one'), 0)
+WebUI.scrollToElement(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/Forms_Select one'), 0)
 
-WebUI.click(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/Forms_Select one'))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/Forms_Select one'))
 
-WebUI.click(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/Select_Relationship_dynamic', [('Relation') : 'Father']))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/Select_Relationship_dynamic', [('Relation') : 'Father']))
 
-WebUI.click(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/Forms_Select one'))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/Forms_Select one'))
 
-WebUI.click(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/Select_Feeding_Dynamic', [('Feeding') : 'Formula only']))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/Select_Feeding_Dynamic', [('Feeding') : 'Formula only']))
 
