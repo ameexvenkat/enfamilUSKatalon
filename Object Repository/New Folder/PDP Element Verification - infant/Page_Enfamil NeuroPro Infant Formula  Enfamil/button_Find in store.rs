@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Find in store</name>
+   <tag></tag>
+   <elementGuidId>0093f3f6-e0df-474f-910a-47add5ad512e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Find in store' or . = 'Find in store')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[63]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.shipping-and-instore__title-store</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9c598ba-37f3-43e7-bc2f-aa891df6c911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>faf95993-4c10-4478-b447-6c320f65e4ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shipping-and-instore__title-store</value>
+      <webElementGuid>175e3b92-3487-42a8-b08a-1c3ed41140ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Find in store</value>
+      <webElementGuid>12884595-7db6-487d-98c5-369b6da21b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find in store</value>
+      <webElementGuid>484a08a0-aef8-4870-a5de-a40986e9aa4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;shipping-and-instore&quot;]/div[@class=&quot;shipping-and-instore__title&quot;]/button[@class=&quot;shipping-and-instore__title-store&quot;]</value>
+      <webElementGuid>e2a7feea-42a0-4186-a387-39b31984989f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[63]</value>
+      <webElementGuid>249f86ac-62c9-4dfa-a4c5-e18521ae22e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[8]/div/button[2]</value>
+      <webElementGuid>f110e084-18ea-4637-9418-4bdb42085a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping'])[1]/following::button[1]</value>
+      <webElementGuid>ea89cd4b-6f2c-4064-9324-f54288b224d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Info'])[2]/following::button[2]</value>
+      <webElementGuid>965c30bf-7140-4d78-94ed-080718452409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Location'])[1]/preceding::button[1]</value>
+      <webElementGuid>6a608837-0ea0-41ec-a3b9-a358b06e0819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find in store']/parent::*</value>
+      <webElementGuid>7a04cf30-8cd3-4ef9-a194-d7436006b983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/button[2]</value>
+      <webElementGuid>aee72ce3-1e1d-40fe-ad75-025a30620fe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Find in store' or . = 'Find in store')]</value>
+      <webElementGuid>0b125f78-4b8c-4921-ac1f-5bafd9afd9a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

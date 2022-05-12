@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_For sensitive tummies_product-item__image-flip</name>
+   <tag></tag>
+   <elementGuidId>bd2c58a8-8ec0-465c-b533-3f5c4dee4c2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt = 'Enfamil NeuroPro Sensitive Infant Formula']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[8]/div/div[2]/div/div/div[2]/ul/li[2]/div/div/div/a/div/div[2]/img[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f5d27ae7-d0bb-4dc8-8170-533f3029ede7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-item__image-flip</value>
+      <webElementGuid>c37a30e8-30b6-4f13-845e-4d3d56a3b45a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://metafields-manager-by-hulkapps.s3-accelerate.amazonaws.com/uploads//1648758058-1645133075-Sensitive_hover_Img.png</value>
+      <webElementGuid>75abfdcf-7d10-4434-a20b-5485a49735a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Enfamil NeuroPro Sensitive Infant Formula</value>
+      <webElementGuid>651228ca-0cf3-4695-aaae-dce1ab7a570e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row margin-top-tiny content-grid--full-width personalization-featured-products-pdp shop-category animate-row aos-init aos-animate&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;related-products&quot;]/div[@class=&quot;related-products__content product-list&quot;]/div[@class=&quot;slider slider--less-items&quot;]/div[@class=&quot;slider-frame&quot;]/ul[@class=&quot;slider-list&quot;]/li[@class=&quot;slider-slide slide-visible&quot;]/div[@class=&quot;col product-list__products&quot;]/div[@class=&quot;col product-item product-item--shopify product-item--visible product-item--family&quot;]/div[@class=&quot;row product-item__content&quot;]/a[@class=&quot;product-item__link link&quot;]/div[@class=&quot;col product-item__hero&quot;]/div[@class=&quot;product-item__wrapper product-item__wrapper-flip&quot;]/img[@class=&quot;product-item__image-flip&quot;]</value>
+      <webElementGuid>3374077a-23d9-4d12-b39f-89ab6f8d65a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[8]/div/div[2]/div/div/div[2]/ul/li[2]/div/div/div/a/div/div[2]/img[2]</value>
+      <webElementGuid>33c20cb1-fc1c-4920-bc38-41fe5cf75141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Enfamil NeuroPro Sensitive Infant Formula'])[3]</value>
+      <webElementGuid>554c3d15-ed44-46e8-a513-60564c9154fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/a/div/div[2]/img[2]</value>
+      <webElementGuid>9aab7d93-ae70-4b63-bd9b-0f258614f38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://metafields-manager-by-hulkapps.s3-accelerate.amazonaws.com/uploads//1648758058-1645133075-Sensitive_hover_Img.png' and @alt = 'Enfamil NeuroPro Sensitive Infant Formula']</value>
+      <webElementGuid>60348b84-ec3d-4d03-925d-9e0d382c670c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

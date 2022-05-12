@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>s_190.99</name>
+   <tag></tag>
+   <elementGuidId>9e39b7a0-612b-41de-9401-e62d79917202</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//s[@class = 'price__value-original']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class = 'price__value price__value--original']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>s.price__value-original</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>s</value>
+      <webElementGuid>addeefe8-a762-40cd-a843-5b8480319e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price__value-original</value>
+      <webElementGuid>c655461d-7441-4f21-bf71-d728cf685458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$190.99</value>
+      <webElementGuid>3f3a3096-15f7-4f04-8d33-39aa8e346284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main-desktop-title&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;product-options product-cta--wrapper&quot;]/div[@class=&quot;product-options__price&quot;]/div[@class=&quot;add-to-cart&quot;]/div[@class=&quot;subscription&quot;]/div[@class=&quot;product-options__price-container&quot;]/div[@class=&quot;product-options__price-info&quot;]/div[@class=&quot;product-options__price-stock-available&quot;]/div[@class=&quot;price&quot;]/div[@class=&quot;price__value price__value--discounted&quot;]/s[@class=&quot;price__value-original&quot;]</value>
+      <webElementGuid>1284d43d-d3d4-40f3-aa93-ca8512c65fa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div/div/div/div[2]/div/div/div[2]/div/div/div/div/s</value>
+      <webElementGuid>fc987081-a826-41e5-babf-0620dbfbfe34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$143.24'])[1]/following::s[1]</value>
+      <webElementGuid>4953ba01-3d13-4f26-a1a0-4e579b7d440c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$190.99'])[1]/following::s[1]</value>
+      <webElementGuid>8b106878-4586-47e3-8878-c0e5e9eed679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$171.89'])[1]/preceding::s[1]</value>
+      <webElementGuid>c7fcaf81-c1c0-4032-81b1-ec74a4938207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//s</value>
+      <webElementGuid>69418158-29ad-47dd-acc6-6bd4d1d520c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//s[(text() = '$190.99' or . = '$190.99')]</value>
+      <webElementGuid>62f53be5-c62b-4374-8ddd-d5337582b7d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

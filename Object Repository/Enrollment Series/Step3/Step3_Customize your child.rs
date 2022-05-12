@@ -6,12 +6,13 @@
    <elementGuidId>e50364af-c8bc-4def-a118-771fe33de349</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//p[@class='margin-bottom-xssmall h3']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.text-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='text-container']/p[text()='2. Customize your profile for you and your baby.']
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

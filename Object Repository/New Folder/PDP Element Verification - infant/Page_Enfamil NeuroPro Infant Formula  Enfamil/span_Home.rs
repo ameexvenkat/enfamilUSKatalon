@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home</name>
+   <tag></tag>
+   <elementGuidId>9c560f92-2591-40b0-9c27-bf130d5f959a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Home' or . = 'Home')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.breadcrumbs__item-link.link.link--child-active > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[(text() = 'Home' or . = 'Home')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>45e3aeae-4ec1-4884-a69c-3dd36c09bc49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>7ff96d3b-b6ab-4336-877c-bc77667b3c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;breadcrumbs__items&quot;]/li[@class=&quot;breadcrumbs__item&quot;]/a[@class=&quot;breadcrumbs__item-link link link--child-active&quot;]/span[1]</value>
+      <webElementGuid>e6cc0742-2d63-4f34-ae0c-9d3ac9bf8d36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/div/ul/li/a/span</value>
+      <webElementGuid>8456be67-814a-4b67-8a59-1d7769e7cead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[1]/preceding::span[1]</value>
+      <webElementGuid>e4820131-4fb9-46af-b6b3-59dbc46dbb89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil NeuroPro Infant Formula'])[2]/preceding::span[2]</value>
+      <webElementGuid>150cb9af-9922-4b67-a691-fe295758c976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>b005aaa9-8afa-48a0-84fc-dbd0fd0bff4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/ul/li/a/span</value>
+      <webElementGuid>eeb65a45-6a7c-4078-813d-e6aba4f15ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>afdfcf61-8323-488a-a5ec-bfcbfe6820e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

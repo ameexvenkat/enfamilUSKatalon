@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Content for the default variant</name>
+   <tag></tag>
+   <elementGuidId>2d348740-3679-4894-b7eb-0bc39df3f79a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Content for the default variant' or . = 'Content for the default variant')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.promo-benefit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>428d1f91-0682-41dc-9667-45c6c71a550c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promo-benefit</value>
+      <webElementGuid>6bcfab20-5cf8-46e2-85a3-c2a772ef8761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Content for the default variant</value>
+      <webElementGuid>7c622afe-ec0d-4b46-b22e-2c41e8693b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;promo-benefit&quot;]</value>
+      <webElementGuid>7952f676-99fd-4d91-b71f-acdd54c0d766</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div</value>
+      <webElementGuid>04c56730-dcbf-429e-bc5b-93704053c857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 19 more'])[1]/following::div[2]</value>
+      <webElementGuid>fc36b241-df51-4db3-8b73-bc34835d4d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrition for brain building &amp; immune support inspired by breastmilk'])[1]/following::div[27]</value>
+      <webElementGuid>a9bc1fd6-e4cb-408c-b8d5-7457048922de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What', &quot;'&quot;, 's the difference?')])[1]/preceding::div[4]</value>
+      <webElementGuid>280cbe2c-2784-4347-9013-f6734a1b4468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>ad86f003-ff5b-46f8-9a40-2a8fc3cd2497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Content for the default variant' or . = 'Content for the default variant')]</value>
+      <webElementGuid>24dc10f3-30bc-4997-8e6f-f072e84bc95a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

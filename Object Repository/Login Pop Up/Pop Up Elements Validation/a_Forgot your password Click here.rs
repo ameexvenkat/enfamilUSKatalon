@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Forgot your password? Click here')]</value>
+         <value>//a[@aria-label='Forgot your password? Click here']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

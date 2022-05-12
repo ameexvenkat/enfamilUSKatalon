@@ -26,11 +26,11 @@ WebUI.maximizeWindow()
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/GOT IT_Cookie'))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/GOT IT_Cookie'))
 
-WebUI.scrollToElement(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/div_Select one - 3'), 0)
+WebUI.scrollToElement(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/div_Select one - 3'), 0)
 
-WebUI.click(findTestObject('New Folder (1)/Page_Enspire Family Beginnings/div_Select one - 3'))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings/div_Select one - 3'))
 
 TestObject Fcount = new TestObject()
 Fcount.addProperty("xpath", ConditionType.EQUALS, "//*[@class='single-select__menu-list css-11unzgr']/div")

@@ -6,12 +6,12 @@
    <elementGuidId>bd2c3e22-defc-45cd-9db4-af2dc48551ff</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//img[@alt='Personalize']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img[alt=&quot;Personalize&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Personalize']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

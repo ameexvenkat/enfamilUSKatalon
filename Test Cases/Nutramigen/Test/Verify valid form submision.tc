@@ -6,6 +6,13 @@
    <comment></comment>
    <testCaseGuid>dee23af0-60e0-4380-9473-2b1b6fcad1ab</testCaseGuid>
    <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>a0f92023-7cd5-475e-a143-c5fc52356788</id>
+      <masked>false</masked>
+      <name>No_of_Submission</name>
+   </variable>
+   <variable>
       <defaultValue>'Mithun'</defaultValue>
       <description></description>
       <id>c6cad805-40d2-4a35-b08d-0fd9f9866119</id>
@@ -69,7 +76,7 @@
       <name>Val_Last_Name</name>
    </variable>
    <variable>
-      <defaultValue>'mithun.uat0905_nutra06@gmail.com'</defaultValue>
+      <defaultValue>'mithun.uat1105_nutra15@gmail.com'</defaultValue>
       <description></description>
       <id>29262016-bd0e-420e-acb7-643bec71b6a5</id>
       <masked>false</masked>
@@ -174,21 +181,21 @@
       <name>Val_Phone</name>
    </variable>
    <variable>
-      <defaultValue>'Grandparent'</defaultValue>
+      <defaultValue>'Mother'</defaultValue>
       <description></description>
       <id>574f6953-bd02-46d4-bcda-8389ae41ef01</id>
       <masked>false</masked>
       <name>Select_Relation_Value</name>
    </variable>
    <variable>
-      <defaultValue>'Formula only'</defaultValue>
+      <defaultValue>'Breast milk and formula'</defaultValue>
       <description></description>
       <id>d7df3ec4-bd95-4a20-a63e-0ca4899fd309</id>
       <masked>false</masked>
       <name>Select_Feeding_Value</name>
    </variable>
    <variable>
-      <defaultValue>'Yes'</defaultValue>
+      <defaultValue>'Not sure'</defaultValue>
       <description></description>
       <id>e4dbdc20-5412-4f36-877b-4255a5a2c131</id>
       <masked>false</masked>
@@ -452,13 +459,6 @@
       <id>ab3b3643-66a1-4c80-ae21-b8bf68429b5f</id>
       <masked>false</masked>
       <name>Thank_Shop_Section_CTA_URL_Input</name>
-   </variable>
-   <variable>
-      <defaultValue>2</defaultValue>
-      <description></description>
-      <id>a0f92023-7cd5-475e-a143-c5fc52356788</id>
-      <masked>false</masked>
-      <name>No_of_Submission</name>
    </variable>
    <variable>
       <defaultValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/account/profile/'</defaultValue>

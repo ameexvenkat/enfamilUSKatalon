@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Whats the difference</name>
+   <tag></tag>
+   <elementGuidId>5d58089b-004e-477c-bae2-40a3d710f87e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@class = 'tooltip__button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-grid__column.product-main__info.content-grid__column--size-6 > div.tooltip-container > button.tooltip__button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@class = 'tooltip__button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>327703f8-bf81-47cd-a252-dfc7e6a59a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>01191fa2-8b6a-49ca-b5ae-0a1e9ad1ea0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>What's the difference?</value>
+      <webElementGuid>a4c41f85-c5b8-4ad2-b33c-ec21ab69e854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tooltip__button</value>
+      <webElementGuid>91817125-4193-4f8d-b6a0-17cac5ad1365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>on</name>
+      <type>Main</type>
+      <value>tap:tooltip_overlay</value>
+      <webElementGuid>892878e1-692b-4220-be9f-1fdb3f82c713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What's the difference?</value>
+      <webElementGuid>435a4a4d-21f5-42de-a7a6-f38a99cf87f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;tooltip-container&quot;]/button[@class=&quot;tooltip__button&quot;]</value>
+      <webElementGuid>0066eb1a-8521-4522-9f0e-07f566bd64e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[45]</value>
+      <webElementGuid>fc7d484e-68fd-457a-b51f-2d27f48d1021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>f2c0290b-8106-40e9-9b01-548c3d4c9d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Content for the default variant'])[1]/following::button[1]</value>
+      <webElementGuid>043e6dc5-dfc7-4145-8db8-63bfb11cdab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 19 more'])[1]/following::button[1]</value>
+      <webElementGuid>c72f566b-deda-4742-a079-d85a31a9e16e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil NeuroPro Infant Formula'])[4]/preceding::button[1]</value>
+      <webElementGuid>f77c5be4-f1b1-4ca4-a6d4-3d9f5ed00896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powder'])[1]/preceding::button[1]</value>
+      <webElementGuid>a0e0275e-cad1-49b1-b57e-72d73ab65ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>b136662e-7696-4f3a-879f-5b59a53a20cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = concat(&quot;What&quot; , &quot;'&quot; , &quot;s the difference?&quot;) or . = concat(&quot;What&quot; , &quot;'&quot; , &quot;s the difference?&quot;))]</value>
+      <webElementGuid>48ab4536-fe9c-4a32-bca8-a4bd21acd3bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

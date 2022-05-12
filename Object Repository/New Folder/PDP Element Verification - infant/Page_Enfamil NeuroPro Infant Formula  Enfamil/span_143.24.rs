@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_143.24</name>
+   <tag></tag>
+   <elementGuidId>54b3be09-1ef2-4e78-8234-cd396013766e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'price--discount']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.price--discount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class = 'price--discount'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d83a21d-09bc-43d7-b8a8-1ed5d891a72d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price--discount</value>
+      <webElementGuid>ad83e31e-91ad-440b-9cc4-aa4e811c9160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$143.24</value>
+      <webElementGuid>654f9992-e312-40f3-9f3d-6d09719e087b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page--sticky-nav mouse-click ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open modal__overlay formula-calculator modal-slide-info subscribe-save-popup overlay tooltip__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal formula-calculator modal-slide-info subscribe-save-popup overlay tooltip&quot;]/section[@class=&quot;overlay-containter&quot;]/div[@class=&quot;overlay&quot;]/p[@class=&quot;overlay__content&quot;]/p[1]/div[@class=&quot;product__subscribe--price&quot;]/div[@class=&quot;product__subscribe--price-container&quot;]/div[@class=&quot;product__subscribe-price&quot;]/span[@class=&quot;price--discount&quot;]</value>
+      <webElementGuid>29cf9f97-a70c-4852-bb37-0c5d8bfb6130</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$190.99'])[7]/following::span[1]</value>
+      <webElementGuid>c74164b1-09ed-40d7-b197-d3f78b3ea152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil NeuroPro Infant Formula'])[7]/following::span[2]</value>
+      <webElementGuid>116f9a08-a63d-4d89-9b61-78b71f0777d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your savings'])[1]/preceding::span[1]</value>
+      <webElementGuid>253c44c7-02ff-4fbb-9d32-b4ab59f43187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$47.75'])[1]/preceding::span[2]</value>
+      <webElementGuid>9cf8873a-8c00-481e-9d32-9d17dcddd101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]</value>
+      <webElementGuid>0328e4af-6ee4-4209-9ea7-e9919fcfdd2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$143.24' or . = '$143.24')]</value>
+      <webElementGuid>edbed49c-53bc-4b93-bea0-69147374c081</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

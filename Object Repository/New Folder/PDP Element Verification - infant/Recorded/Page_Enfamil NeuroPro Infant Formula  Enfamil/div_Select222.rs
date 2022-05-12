@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select222</name>
+   <tag></tag>
+   <elementGuidId>ef0ba802-af46-486f-a27a-1bdf2dec41e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Location'])[2]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select__placeholder.css-1wa3eu0-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23322afe-c20f-41d4-a652-942512f41d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__placeholder css-1wa3eu0-placeholder</value>
+      <webElementGuid>8af6bf70-8bf2-4f19-80f6-b9a7fcba5b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select...</value>
+      <webElementGuid>c291a3e8-18c0-481e-af83-e044b9723d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page--sticky-nav mouse-click ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open modal__overlay overlay formula-calculator modal-slide-info location-picker__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal overlay formula-calculator modal-slide-info location-picker&quot;]/section[@class=&quot;overlay-containter&quot;]/div[@class=&quot;overlay&quot;]/p[@class=&quot;overlay__content&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/form[@class=&quot;location-picker__form&quot;]/div[@class=&quot;form-control form-control--select&quot;]/div[@class=&quot;form-control__input form-control__input--select css-2b097c-container&quot;]/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]/div[@class=&quot;select__placeholder css-1wa3eu0-placeholder&quot;]</value>
+      <webElementGuid>3e64e7bd-10af-405d-9dae-2db8f30fe968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9856609-6c94-4834-ad9d-1da9418dc470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__placeholder css-1wa3eu0-placeholder</value>
+      <webElementGuid>513dff7e-0728-4b4b-a539-3c4d1b495a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select...</value>
+      <webElementGuid>2472ba91-1237-4d6b-bdf0-feb6af1a488c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page--sticky-nav mouse-click ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open modal__overlay overlay formula-calculator modal-slide-info location-picker__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal overlay formula-calculator modal-slide-info location-picker&quot;]/section[@class=&quot;overlay-containter&quot;]/div[@class=&quot;overlay&quot;]/p[@class=&quot;overlay__content&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/form[@class=&quot;location-picker__form&quot;]/div[@class=&quot;form-control form-control--select&quot;]/div[@class=&quot;form-control__input form-control__input--select css-2b097c-container&quot;]/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]/div[@class=&quot;select__placeholder css-1wa3eu0-placeholder&quot;]</value>
+      <webElementGuid>c224cbd9-d31f-49f0-9477-46f019661621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Location'])[2]/following::div[4]</value>
+      <webElementGuid>3a72a686-0f24-4f6f-a67f-3398bcfbe31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chennai, Tamil Nadu'])[1]/following::div[5]</value>
+      <webElementGuid>05dc07b5-6bf7-4d25-a01d-cc57ba422d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alabama'])[1]/preceding::div[6]</value>
+      <webElementGuid>8fd12d4c-c667-42e4-9ff3-da3636b0e09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alaska'])[1]/preceding::div[7]</value>
+      <webElementGuid>17b97828-1bdd-4deb-874c-c2941321c95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select...']/parent::*</value>
+      <webElementGuid>b9aa4351-2e13-4b69-aff7-985d842a155d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div</value>
+      <webElementGuid>c36549a0-410a-4036-b9a3-c91964637134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select...' or . = 'Select...')]</value>
+      <webElementGuid>358041af-fa36-4d4a-8fbc-b32a1e93547c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

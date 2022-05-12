@@ -6,12 +6,12 @@
    <elementGuidId>67345a15-d06e-4e77-976e-0cb0c110d077</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='enroll-form']/div/div/ul/li/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.form-error__item > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@class='form-error__item']/div[text()='First name field is required']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

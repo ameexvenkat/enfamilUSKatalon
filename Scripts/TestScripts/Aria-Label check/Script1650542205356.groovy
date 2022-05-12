@@ -19,14 +19,14 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/New Folder/Page_Ens
 
 WebUI.click(findTestObject('New Folder/Page_Enspire Family Beginnings Registration_996fe8/div_Select one'))
 
-WebUI.verifyElementAttributeValue(findTestObject('New Folder (1)/Page_Enspire Family Beginnings Registration  Enfamil/checkbox'), 
+WebUI.verifyElementAttributeValue(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings Registration  Enfamil/checkbox'), 
     'aria-checked', 'false', 0)
 
 WebUI.sendKeys(findTestObject('enspire/Page_Enspire Family Beginnings Registration_996fe8/input_Mobile phone (optional)_eaf6a18d-7532_9ddcd5'), 
     '7299019491')
 
-WebUI.click(findTestObject('New Folder (1)/Page_Enspire Family Beginnings Registration  Enfamil/label_Consent to Receive Certain'))
+WebUI.click(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings Registration  Enfamil/label_Consent to Receive Certain'))
 
-WebUI.verifyElementAttributeValue(findTestObject('New Folder (1)/Page_Enspire Family Beginnings Registration  Enfamil/checkbox'), 
+WebUI.verifyElementAttributeValue(findTestObject('New Folder/New Folder (1)/Page_Enspire Family Beginnings Registration  Enfamil/checkbox'), 
     'aria-checked', 'true', 0)
 

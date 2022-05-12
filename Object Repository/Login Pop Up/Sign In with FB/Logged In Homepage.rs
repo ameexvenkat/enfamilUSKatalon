@@ -6,12 +6,11 @@
    <elementGuidId>a7e14ce1-dcaf-4ac4-954b-bfebc18917ed</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@class='content-grid__row content-grid--full-width padding-bottom-xxlarge padding-top-small page-banner--welcome-premium hide-mobile ask-rn']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//h1[@class='carousel-item__content-header  h2']</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

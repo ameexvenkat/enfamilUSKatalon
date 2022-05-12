@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@aria-label='apple'] </value>
+         <value>//div[@aria-label='Sign in with Apple']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

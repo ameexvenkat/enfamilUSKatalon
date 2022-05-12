@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Need it faster Same day  next day deliv_40906c</name>
+   <tag></tag>
+   <elementGuidId>c3f0c6f7-ea14-4f39-ac48-82428653e22f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Need it faster? Same day &amp; next day delivery are now available in the metro New York area.  ' or . = 'Need it faster? Same day &amp; next day delivery are now available in the metro New York area.  ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[8]/div[3]/div[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f71a199c-c1bd-4228-8745-d272f7ac3f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shipping-and-instore__content-item</value>
+      <webElementGuid>add05dc4-11fa-4031-abe7-faa63dbc1a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Need it faster? Same day &amp; next day delivery are now available in the metro New York area.  </value>
+      <webElementGuid>02cfeeb6-05dd-4d1c-9124-c923558b8926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;shipping-and-instore shipping-and-instore--with-location&quot;]/div[@class=&quot;shipping-and-instore__content&quot;]/div[@class=&quot;shipping-and-instore__content-item&quot;]</value>
+      <webElementGuid>5787c2aa-0ab4-4145-ba4f-789164efcda2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[8]/div[3]/div[9]</value>
+      <webElementGuid>40d9d911-c841-42d1-90bd-ec6b27947ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='free'])[1]/following::div[2]</value>
+      <webElementGuid>7bbcc8d0-02ec-458e-90d6-8f8ae9cd7a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get it in 1-2 business days'])[1]/following::div[2]</value>
+      <webElementGuid>d0aade0c-6153-4193-b6db-95474ec36642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::div[1]</value>
+      <webElementGuid>c294971d-f675-47d7-994e-a1b50798a502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Same day &amp; next day delivery are now available in the metro New York area.']/parent::*</value>
+      <webElementGuid>279c6848-63a7-4707-89e9-762214880658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[9]</value>
+      <webElementGuid>c7b7d99f-ac25-4f0f-80dd-0aba1f472882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Need it faster? Same day &amp; next day delivery are now available in the metro New York area.  ' or . = 'Need it faster? Same day &amp; next day delivery are now available in the metro New York area.  ')]</value>
+      <webElementGuid>252e1fb4-4033-44d9-b439-614939370ded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

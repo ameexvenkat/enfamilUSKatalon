@@ -457,9 +457,9 @@ if (WebUI.getCSSValue(findTestObject('Nutramigen/Field Validation for invalid da
 
 WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify submit with all fields empty'))
 
-WebUI.waitForPageLoad(5)
+WebUI.waitForPageLoad(20)
 
-WebUI.delay(5)
+WebUI.delay(20)
 
 Thank_You_Page_URL = WebUI.getUrl()
 
@@ -621,7 +621,17 @@ if (No_of_Submission == 1) {
                 [('Guarantee_Heading') : i]), 0)
 
         WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Guarantee Section - Info Description', 
-                [('Guarantee_Description') : 'i']), 0)
+                [('Guarantee_Description') : 'i']), 0 //if (Profile_EM_Prog_Options)
+            //Do you want to receive special offers and information through email?
+            //Email Program Options
+            //Promotion Options
+            //println(Profile_EM_Prog_Options + 'This checkbox is checked')
+            //println(Profile_EM_Prog_Options + 'This checkbox is NOT checked')
+            //println(('Special Offers' + Profile_Sp_Offers_Prefill) + 'option is checked')
+            //println(('Special Offers' + Profile_Sp_Offers_Prefill) + 'option is NOT checked')
+            //println(('Special Offers' + Profile_Sp_Offers_Prefill) + 'option is checked')
+            //println(('Special Offers' + Profile_Sp_Offers_Prefill) + 'option is NOT checked')
+            )
     }
 } else if (No_of_Submission != 1) {
     WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify user is logged in'), 
@@ -642,8 +652,11 @@ if (No_of_Submission == 1) {
 
     WebUI.verifyMatch(My_Profile_URL, My_Profile_URL_Input, false)
 
-    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify My Info tab'), 
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Info tab'), 
         0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Info tab'), 
+        'My Information')
 
     Profile_First_Name_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify First Name Prefill'), 
         'value')
@@ -675,8 +688,7 @@ if (No_of_Submission == 1) {
 
     WebUI.verifyMatch(Submitted_City_Add, Profile_City_Add_Prefill, false)
 
-    Profile_State_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify State Prefill'), 
-        'value')
+    Profile_State_Prefill = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify State Prefill'))
 
     WebUI.verifyMatch(Submitted_State, Profile_State_Prefill, false)
 
@@ -688,6 +700,185 @@ if (No_of_Submission == 1) {
     Profile_Zip_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Zipcode Prefill'), 
         'value')
 
-    WebUI.verifyMatch(Submitted_City_Add, Profile_City_Add_Prefill, false)
+    WebUI.verifyMatch(Submitted_Zip, Profile_Zip_Prefill, false)
+
+    for (i = 1; i <= 3; i++) {
+        Profile_WIC_Property = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify WIC options property', 
+                [('WIC_Option_Property') : i]), 'aria-checked')
+
+        if (Profile_WIC_Property == 'true') {
+            Profile_WIC_Option_Prefill = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify WIC Option Prefill', 
+                    [('WIC_Option_Property') : i]), FailureHandling.CONTINUE_ON_FAILURE)
+
+            WebUI.verifyMatch(Submitted_Wic_Option, Profile_WIC_Option_Prefill, false)
+        }
+    }
+    
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Preg and Baby tab'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Preg and Baby tab'), 
+        'My Pregnancy and Baby')
+
+    WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Preg and Baby tab'))
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Preg and Baby - Add Preg CTA'), 
+        0)
+
+    Profile_Date_Selected_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Dob Selected Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Date_Selected, Profile_Date_Selected_Prefill, false)
+
+    for (i = 1; i <= 4; i++) {
+        Profile_Relation_Property = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Relationship options property', 
+                [('Relation_Option_Property') : i]), 'aria-checked')
+
+        if (Profile_Relation_Property == 'true') {
+            Profile_Relationship_Prefill = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Relationship Option Prefill', 
+                    [('Relation_Option_Property') : i]), FailureHandling.CONTINUE_ON_FAILURE)
+
+            WebUI.verifyMatch(Submitted_Relationship, Profile_Relationship_Prefill, false)
+        }
+    }
+    
+    for (i = 1; i <= 5; i++) {
+        Profile_Feeding_Property = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Feeding options property', 
+                [('Feeding_Option_Property') : i]), 'aria-checked')
+
+        if (Profile_Feeding_Property == 'true') {
+            Profile_Feeding_Prefill = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Feeding Option Prefill', 
+                    [('Feeding_Option_Property') : i]), FailureHandling.CONTINUE_ON_FAILURE)
+
+            WebUI.verifyMatch(Submitted_Feeding, Profile_Feeding_Prefill, false)
+        }
+    }
+    
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Subscriptions tab'), 
+        0)
+
+    WebUI.verifyElementText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Subscriptions tab'), 
+        'My Subscriptions')
+
+    WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Subscriptions tab'))
+
+    WebUI.verifyElementPresent(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify My Subscriptions tab - Ele Text'), 
+        0)
+
+    for (i = 1; i <= 2; i++) {
+        Profile_Sp_Offers_Property = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Sp.Offers options property', 
+                [('Sp_Offers_Property') : i]), 'aria-checked')
+
+        if (Profile_Sp_Offers_Property == 'true') {
+            Profile_Sp_Offers_Prefill = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Sp.Offers Option Prefill', 
+                    [('Sp_Offers_Property') : i]), FailureHandling.CONTINUE_ON_FAILURE)
+
+            Profile_Sp_Offers_Prefill_1 = println(('Special Offers' + Profile_Sp_Offers_Prefill) + 'option is checked')
+        } else if (Profile_Sp_Offers_Property != 'true') {
+            Profile_Sp_Offers_Prefill = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Sp.Offers Option Prefill', 
+                    [('Sp_Offers_Property') : i]), FailureHandling.CONTINUE_ON_FAILURE)
+
+            Profile_Sp_Offers_Prefill_1 = println(('Special Offers' + Profile_Sp_Offers_Prefill) + 'option is NOT checked')
+        }
+    }
+    
+    for (i = 1; i <= 5; i++) {
+        WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Email Program Options', 
+                [('Em_Prog_Options') : i]), 'value')
+
+        Profile_EM_Prog_Options = WebUI.verifyElementHasAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Email Program Options', 
+                [('Em_Prog_Options') : i]), 'checked', 0)
+
+        Profile_EM_Prog_Checked = WebUI.verifyElementChecked(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Email Program Options', 
+                [('Em_Prog_Options') : i]), 0)
+
+        if (Profile_EM_Prog_Checked == 'checked') {
+            Profile_EM_Prog_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Email Program Options Prefill', 
+                    [('Em_Prog_Options') : i]))
+
+            Profile_EM_Prog_Prefills_1 = println(('Email Program Options' + Profile_EM_Prog_Prefills) + 'is checked')
+        } else {
+            Profile_EM_Prog_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Email Program Options Prefill', 
+                    [('Em_Prog_Options') : i]))
+
+            Profile_EM_Prog_Prefills_1 = println(('Email Program Options' + Profile_EM_Prog_Prefills) + 'is NOT checked')
+        }
+    }
+    
+    for (i = 1; i <= 2; i++) {
+        Profile_Promotion_Options_Property = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Promotion Options Property', 
+                [('Promotion_Options_Property') : i]), 'aria-checked')
+
+        if (Profile_Promotion_Options_Property == 'true') {
+            Profile_Promotion_Options_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Promotion Options Prefill', 
+                    [('Promotion_Options_Property') : i]), FailureHandling.CONTINUE_ON_FAILURE)
+
+            Profile_Promotion_Options_Prefills_1 = println(('Promotion Options' + Profile_Promotion_Options_Prefills) + 
+                'is checked')
+        } else if (Profile_Promotion_Options_Property != 'true') {
+            Profile_Promotion_Options_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Promotion Options Prefill', 
+                    [('Promotion_Options_Property') : i]), FailureHandling.CONTINUE_ON_FAILURE)
+
+            Profile_Promotion_Options_Prefills_1 = println(('Promotion Options' + Profile_Promotion_Options_Prefills) + 
+                'is NOT checked')
+        }
+    }
+    
+    for (i = 1; i <= 2; i++) {
+        Profile_Postal_Mail_Property = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Postal Mailings Property', 
+                [('Postal_Mail_Property') : i]), 'aria-checked')
+
+        if (Profile_Postal_Mail_Property == 'true') {
+            Profile_Postal_Mail_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Postal Mailings Prefill', 
+                    [('Postal_Mail_Property') : i]))
+
+            Profile_Postal_Mail_Prefills_1 = println(('Postal Mailings Options' + Profile_Postal_Mail_Prefills) + 'is checked')
+        } else {
+            Profile_Postal_Mail_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Postal Mailings Prefill', 
+                    [('Postal_Mail_Property') : i]))
+
+            Profile_Postal_Mail_Prefills_1 = println(('Postal Mailings Options' + Profile_Postal_Mail_Prefills) + 'is NOT checked')
+        }
+    }
+    
+    Profile_Phone_Prefill = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Phone Prefill'), 
+        'value')
+
+    WebUI.verifyMatch(Submitted_Phone, Profile_Phone_Prefill, false)
+
+    for (i = 1; i <= 2; i++) {
+        WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Phone Checkbox Property', 
+                [('Phone_Checkbox_Property') : i]), 'value')
+
+        Profile_Phone_Checkbox_Property = WebUI.verifyElementChecked(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Phone Checkbox Property', 
+                [('Phone_Checkbox_Property') : i]), 0)
+
+        if (Profile_Phone_Checkbox_Property == 'checked') {
+            Profile_Phone_Checkbox_Value_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Phone Checkbox Prefills', 
+                    [('Phone_Checkbox_Property') : i]))
+
+            Profile_Phone_Checkbox_Value_Prefills_1 = println(('Phone Checkbox' + Profile_Phone_Checkbox_Value_Prefills) + 
+                'is checked')
+        } else {
+            Profile_Phone_Checkbox_Value_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Phone Checkbox Prefills', 
+                    [('Phone_Checkbox_Property') : i]))
+
+            Profile_Phone_Checkbox_Value_Prefills_1 = println(('Phone Checkbox' + Profile_Phone_Checkbox_Value_Prefills) + 
+                'is NOT checked')
+        }
+    }
+    
+    Profile_Unsubscribe_Property = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Unsubscribe From All'), 
+        'aria-checked')
+
+    if (Profile_Unsubscribe_Property == 'true') {
+        Profile_Unsubscribe_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Unsubscribe From All Prefill'))
+
+        Profile_Unsubscribe_Prefills_1 = println(('Unsubscribe From All' + Profile_Unsubscribe_Prefills) + 'is checked')
+    } else {
+        Profile_Unsubscribe_Prefills = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Profile - Verify Unsubscribe From All Prefill'))
+
+        Profile_Unsubscribe_Prefills_1 = println(('Unsubscribe From All' + Profile_Unsubscribe_Prefills) + 'is NOT checked')
+    }
 }
 

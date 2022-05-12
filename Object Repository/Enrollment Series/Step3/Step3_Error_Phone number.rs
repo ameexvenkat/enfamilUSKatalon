@@ -6,12 +6,12 @@
    <elementGuidId>0c32ea78-49f2-4e9d-a727-3bb7efdf7d69</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@class='form-error__item']/div[text()='Phone number is not valid']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.form-error__item > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@class='form-error form-error--control']/li[@class='form-error__item']/div[text()='Phone number is not valid'] </value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

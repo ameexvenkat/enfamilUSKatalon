@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Get it in 1-2 business days with standa_f74581</name>
+   <tag></tag>
+   <elementGuidId>fcac498b-3d98-45e5-8fc9-98bf195b25e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Get it in 1-2 business days with standard shipping free on all orders over $50.' or . = 'Get it in 1-2 business days with standard shipping free on all orders over $50.')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[8]/div[3]/div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dee8ff86-0b6b-4d90-905c-c37642035073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shipping-and-instore__content-location</value>
+      <webElementGuid>9f22d6c7-b8d3-411c-a6cd-19161f98a82f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get it in 1-2 business days with standard shipping free on all orders over $50.</value>
+      <webElementGuid>44e160c3-1a93-4d29-9adc-a12121117ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;shipping-and-instore shipping-and-instore--with-location&quot;]/div[@class=&quot;shipping-and-instore__content&quot;]/div[@class=&quot;shipping-and-instore__content-location&quot;]</value>
+      <webElementGuid>a661489e-3ff4-4c2a-837a-3cf3c71a166d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[8]/div[3]/div[7]</value>
+      <webElementGuid>d2333de9-647f-4cae-b2c8-5e30cb6cc706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AL'])[1]/following::div[2]</value>
+      <webElementGuid>003ba1a0-4475-4580-a8bd-c88e5a5ea98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='with standard shipping']/parent::*</value>
+      <webElementGuid>2d55c8ed-7744-49a2-9eb1-60fea533340e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[7]</value>
+      <webElementGuid>17363393-56b6-41ce-b60f-9ce10c907d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Get it in 1-2 business days with standard shipping free on all orders over $50.' or . = 'Get it in 1-2 business days with standard shipping free on all orders over $50.')]</value>
+      <webElementGuid>90fbecff-f2cb-4df4-bbc9-806eacf30d38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

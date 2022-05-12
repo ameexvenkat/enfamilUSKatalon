@@ -6,12 +6,12 @@
    <elementGuidId>0e2d3be7-4efc-41d0-a0e4-2a32c14d49f1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.social-login__btn.social-login__btn--apple</value>
+         <key>XPATH</key>
+         <value>//div[@aria-label='Sign in with Apple']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@class='social-login__btn social-login__btn--apple']</value>
+         <key>CSS</key>
+         <value>button.social-login__btn.social-login__btn--apple</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

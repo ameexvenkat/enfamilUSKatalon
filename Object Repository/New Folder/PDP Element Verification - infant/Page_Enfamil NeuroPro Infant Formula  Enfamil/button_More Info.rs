@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_More Info</name>
+   <tag></tag>
+   <elementGuidId>ba86a75e-0551-47b2-bc7a-894cbebae9da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@aria-label = 'More Info']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@aria-label = 'More Info']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-grid__column.product-main__info.content-grid__column--size-6 > div.product-options.product-cta--wrapper > div.product-options__price > div.add-to-cart > div.subscription > div.row.product-options__row > div.product-options__content-frequency > div.product-options__content-frequency-sns-wrapper > div.tooltip-container > button.tooltip__button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>35b8344b-b112-42f2-8a32-7bed629c0f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4dc67349-feab-42ab-821b-88d0d8d70ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>More Info</value>
+      <webElementGuid>9369f619-a766-4195-b69b-758fd2be3c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tooltip__button</value>
+      <webElementGuid>7b90800c-30f3-441a-9057-15c199c9ef53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>on</name>
+      <type>Main</type>
+      <value>tap:tooltip_overlay</value>
+      <webElementGuid>dd96c159-6a5c-4ec6-915b-9225e4ecb249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More Info</value>
+      <webElementGuid>f04339aa-442b-4375-8fbe-6a8e24a8cc3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-main&quot;]/div[@class=&quot;content-grid__column product-main__info content-grid__column--size-6&quot;]/div[@class=&quot;product-options product-cta--wrapper&quot;]/div[@class=&quot;product-options__price&quot;]/div[@class=&quot;add-to-cart&quot;]/div[@class=&quot;subscription&quot;]/div[@class=&quot;row product-options__row&quot;]/div[@class=&quot;product-options__content-frequency&quot;]/div[@class=&quot;product-options__content-frequency-sns-wrapper&quot;]/div[@class=&quot;tooltip-container&quot;]/button[@class=&quot;tooltip__button&quot;]</value>
+      <webElementGuid>c0205aa6-7ae6-4b5a-b484-2ba61756ec52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[57]</value>
+      <webElementGuid>2b87823d-6e77-4139-a1ce-4df5dfa36201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[2]/div[2]/div[6]/div[2]/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>fdeafc6e-1783-4a37-88c3-96f04acd9125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$143.24'])[2]/following::button[1]</value>
+      <webElementGuid>4c851bd1-7e3a-43c9-82d9-662f22708610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$190.99'])[4]/following::button[1]</value>
+      <webElementGuid>32da3abc-dbdf-4631-b04e-0354269d0848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$190.99'])[5]/preceding::button[1]</value>
+      <webElementGuid>35197dd0-87f8-47e1-b93b-c39250ab2468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$171.89'])[2]/preceding::button[1]</value>
+      <webElementGuid>da045f62-147c-4643-a7dc-131bcfb48de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More Info']/parent::*</value>
+      <webElementGuid>cf0729a0-ffa3-4e3a-bf59-8100ffabfbc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>8afe9eec-e3eb-46d2-9f4a-590c9bdc3fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'More Info' or . = 'More Info')]</value>
+      <webElementGuid>acb8dd47-b281-4a34-8d5d-a12965998eef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

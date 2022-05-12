@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Enrollment Series</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/'</initValue>
+      <name>Enroll_homepage_STG_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'QA'</initValue>
+      <name>Enroll_Firstname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Automation'</initValue>
+      <name>Enroll_Lastname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'11111'</initValue>
+      <name>Enroll_Zipcode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.enfamil.com/'</initValue>
+      <name>Prod_Homepage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'12345'</initValue>
+      <name>Invalid_Data</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'enfamil.automation@gmail.com'</initValue>
+      <name>Valid_Email</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

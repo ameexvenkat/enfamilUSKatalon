@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>53d8048a-2c25-4a10-aace-dc3c710195a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@src = 'https://cdn.shopify.com/s/files/1/2235/8247/files/Lowest_price.png?v=1602525829']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[5]/div/div/div/div/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.guarantees-list__list-item > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4ddd3dac-3ec6-428c-8d69-7b1b211dd7bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.shopify.com/s/files/1/2235/8247/files/Lowest_price.png?v=1602525829</value>
+      <webElementGuid>2ddbad4a-f520-4a66-98b8-f0f4054875f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row animate-row aos-init aos-animate&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;guarantees&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text guarantees__inner-wrapper guarantees--&quot;]/div[@class=&quot;guarantees-list&quot;]/div[@class=&quot;guarantees-list__list&quot;]/div[@class=&quot;guarantees-list__list-item&quot;]/img[1]</value>
+      <webElementGuid>be57fb8d-159c-4d93-8f22-6eebffbb48b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[5]/div/div/div/div/div/div/div/div/img</value>
+      <webElementGuid>296ec28c-cf0b-4fce-8899-65814896e26f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://cdn.shopify.com/s/files/1/2235/8247/files/Lowest_price.png?v=1602525829')]</value>
+      <webElementGuid>693b14cd-0dc5-45d6-8d8f-31cd92abf4af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/div/img</value>
+      <webElementGuid>3e034c6e-e952-4da8-baa9-e2d5883ee5bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.shopify.com/s/files/1/2235/8247/files/Lowest_price.png?v=1602525829']</value>
+      <webElementGuid>ae3b91bc-b02b-4e70-9a52-0cb0b1df3883</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enfamil reduces its environmental impac_15cd14</name>
+   <tag></tag>
+   <elementGuidId>589f7300-2062-4766-afba-800432211ef8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Enfamil reduces its environmental impact by using 100% recycled paperboard for our refill boxes.' or . = 'Enfamil reduces its environmental impact by using 100% recycled paperboard for our refill boxes.')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[3]/div/div/div[2]/div[2]/div[7]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6754dd77-c15c-4197-9224-bf5c179ef821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>8069c093-593c-4b71-a85e-718646d0b041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enfamil reduces its environmental impact by using 100% recycled paperboard for our refill boxes.</value>
+      <webElementGuid>4493c29e-2f78-440c-a8f3-03559ea3708a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-overview-margin animate-row aos-init aos-animate&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;product-overview&quot;]/div[@class=&quot;product-overview__content&quot;]/div[@class=&quot;product-overview__right column--size-5&quot;]/div[@class=&quot;product-overview__highlight-item&quot;]/div[@class=&quot;product-overview__highlight-item__desc&quot;]/div[@class=&quot;h6&quot;]</value>
+      <webElementGuid>70f6a8ee-f077-4ace-a89c-81573e68ae25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[3]/div/div/div[2]/div[2]/div[7]/div[2]/div</value>
+      <webElementGuid>83146407-7964-4501-9181-3cf19d9b048c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='non-GMO'])[1]/following::div[8]</value>
+      <webElementGuid>07aed040-bb5a-4681-bd04-a3d87df62a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read more'])[1]/preceding::div[1]</value>
+      <webElementGuid>b2dd8380-f635-4831-be20-578b6a7f1ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutrients and Ingredients'])[1]/preceding::div[1]</value>
+      <webElementGuid>eaf9a659-ad84-4a79-ab8f-fc3f0c9a8a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enfamil reduces its environmental impact by using 100% recycled paperboard for our refill boxes.']/parent::*</value>
+      <webElementGuid>3fe69a48-6af5-4560-b862-256f85e1a8be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div</value>
+      <webElementGuid>068e1e95-c170-4d68-b83c-49771750bed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enfamil reduces its environmental impact by using 100% recycled paperboard for our refill boxes.' or . = 'Enfamil reduces its environmental impact by using 100% recycled paperboard for our refill boxes.')]</value>
+      <webElementGuid>c4fafc8e-80bf-41e6-bc42-a03009d6ffde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

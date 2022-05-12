@@ -6,12 +6,12 @@
    <elementGuidId>4eeee208-b717-42c0-94f7-1bb437e3e164</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//p[@class='h5' and text()='Premium Enfamil Family Beginnings']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.content-grid__column.premium-kit-popup.content-grid__column--size-12 > div.rte-wrapper > div.rte > div.rte__text > h2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='rte__text']/h2[text()='Pick your Premium welcome kit:*']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>c8f1c96a-9771-4168-924e-ec1b2611ad0e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@name='registerAgreementField']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>label.form-control__label.form-control__label--agreement</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[@class='form-control__label form-control__label--agreement'])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

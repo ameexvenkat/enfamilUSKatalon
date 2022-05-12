@@ -30,7 +30,7 @@ WebUI.click(findTestObject('Object Repository/Footer/Footer_Elements/Button_GotI
 WebUI.scrollToElement(findTestObject('Object Repository/Footer/Footer_Elements/div_Enfamil Family BeginningsJoin for upto _3d5e60'), 
     0)
 
-css_color = WebUI.getCSSValue(findTestObject('Page_Enfamil Newborn, Infant  Toddler Nutrition  Enfamil/section_Enfamil Family'), 
+css_color = WebUI.getCSSValue(findTestObject('New Folder/Page_Enfamil Newborn, Infant  Toddler Nutrition  Enfamil/section_Enfamil Family'), 
     'background-color')
 
 println(css_color)

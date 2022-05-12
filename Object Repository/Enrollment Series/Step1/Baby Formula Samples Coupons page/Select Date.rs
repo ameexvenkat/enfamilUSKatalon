@@ -6,12 +6,11 @@
    <elementGuidId>e0bf49b0-3d5f-4678-bc78-4217deda6f89</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//div[@aria-label='Thu May 05 2022'])[1]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@class='DayPicker-Body']/div/div[@class='DayPicker-Day' and @tabindex='0'] </value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

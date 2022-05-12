@@ -6,18 +6,14 @@
    <elementGuidId>6b893434-41e8-4261-bf82-1418212022d3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@class='account-nav-main__link account-nav-main__link--lvl1 link link--active']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'My Account' or . = 'My Account')]</value>
+         <key>XPATH</key>
+         <value>//a[@class='account-nav-main__link account-nav-main__link--lvl1 link link--active']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -6,16 +6,12 @@
    <elementGuidId>29a714fc-8388-4e32-b1d1-c0fbff1c6b23</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class= 'si-container-title tk-intro  ']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>svg</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>id(&quot;appleid-signin&quot;)/div[1]/div[1]/svg[1]</value>
+         <key>XPATH</key>
+         <value>//h1[@class= 'si-container-title tk-intro  ']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

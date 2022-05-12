@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Made with non-GMO ingredients that have_1c5f1e</name>
+   <tag></tag>
+   <elementGuidId>969ea414-adcb-4a4b-ac53-1bdc4bd3b324</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Made with non-GMO ingredients that have not been genetically engineered††' or . = 'Made with non-GMO ingredients that have not been genetically engineered††')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section/div/div[3]/div/div/div[2]/div[2]/div[5]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c0fe6dcd-630d-40d8-a098-b37d30877cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>36eaeda3-9922-4b52-b25d-741cd575c3e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Made with non-GMO ingredients that have not been genetically engineered††</value>
+      <webElementGuid>8d6df26e-d56b-4586-af2d-9b4a04f2d16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app huskyShopPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row product-overview-margin animate-row aos-init aos-animate&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;product-overview&quot;]/div[@class=&quot;product-overview__content&quot;]/div[@class=&quot;product-overview__right column--size-5&quot;]/div[@class=&quot;product-overview__highlight-item&quot;]/div[@class=&quot;product-overview__highlight-item__desc&quot;]/div[@class=&quot;h6&quot;]</value>
+      <webElementGuid>a11f7710-3fae-440f-b5f1-f29a7051d5c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section/div/div[3]/div/div/div[2]/div[2]/div[5]/div[2]/div</value>
+      <webElementGuid>cfc3d77c-b17c-4c38-8e1b-44c628891583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='†'])[2]/following::div[4]</value>
+      <webElementGuid>de72880a-7fdf-4769-927f-c6a4b70afb32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Naturally occurring MFGM components*'])[1]/following::div[8]</value>
+      <webElementGuid>9ee8b800-b804-49a9-8df3-8fae516c37f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Made with']/parent::*</value>
+      <webElementGuid>53c0b1ad-6373-420b-9c24-5c68df501aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div</value>
+      <webElementGuid>df8c0ee2-df73-4d49-83c8-0fe94cd105d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Made with non-GMO ingredients that have not been genetically engineered††' or . = 'Made with non-GMO ingredients that have not been genetically engineered††')]</value>
+      <webElementGuid>9a8b0f26-5307-4c61-9585-83b4f3eda10e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

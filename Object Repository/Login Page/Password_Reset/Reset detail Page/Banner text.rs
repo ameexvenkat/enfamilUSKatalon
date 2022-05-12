@@ -6,11 +6,11 @@
    <elementGuidId>771f4962-9825-43f6-af16-62f3d5716070</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>//h2[@class='carousel-item__content-header  ' and text()='Password Reset']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/div/div[2]/div/h2</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

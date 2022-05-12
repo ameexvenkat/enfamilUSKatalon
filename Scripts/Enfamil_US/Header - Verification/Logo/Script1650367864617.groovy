@@ -25,20 +25,20 @@ WebUI.maximizeWindow()
 
 WebUI.delay(10)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Espaol_main-header__logo-link link link--active'), 
+WebUI.verifyElementPresent(findTestObject('New Folder/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Espaol_main-header__logo-link link link--active'), 
     0)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Espaol_main-header__logo-link link link--active'))
+WebUI.verifyElementVisible(findTestObject('New Folder/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Espaol_main-header__logo-link link link--active'))
 
-WebUI.click(findTestObject('Object Repository/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Espaol_main-header__logo-link link link--active'))
+WebUI.click(findTestObject('New Folder/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Espaol_main-header__logo-link link link--active'))
 
 title = WebUI.getWindowTitle()
 
 WebUI.verifyMatch(title, 'Enfamil Newborn, Infant & Toddler Nutrition │ Enfamil', false)
 
-WebUI.click(findTestObject('Object Repository/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/img'))
+WebUI.click(findTestObject('New Folder/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/img'))
 
-WebUI.click(findTestObject('Object Repository/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Espaol_main-header__logo-link link link--active'))
+WebUI.click(findTestObject('New Folder/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Espaol_main-header__logo-link link link--active'))
 
 WebUI.delay(10)
 

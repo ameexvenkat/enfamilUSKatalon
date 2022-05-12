@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@aria-label='Enrollment']</value>
+         <value>//a[@aria-label='Join now']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

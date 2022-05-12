@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class='account-nav-main__link-title' and text()='My Account']</value>
+         <value>//a[@class='account-nav-main__link account-nav-main__link--lvl1 link link--active']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,15 +6,19 @@
    <elementGuidId>f27c12b5-c807-42ac-8762-5266d239bcc0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li.account-nav-main__link-container.account-nav-main__link-container--lvl2.account-nav-main__link-container--logout.log-out > a.account-nav-main__link.account-nav-main__link--lvl2.link > span.account-nav-main__link-title</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Log out' or . = 'Log out')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//span[@class='account-nav-main__link-title' and text()='Log out']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.account-nav-main__link-container.account-nav-main__link-container--lvl2.account-nav-main__link-container--logout.log-out > a.account-nav-main__link.account-nav-main__link--lvl2.link > span.account-nav-main__link-title</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

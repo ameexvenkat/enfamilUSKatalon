@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>LoginDetails</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://enfamil.com/account/login/'</initValue>
+      <name>STG_Login_Page_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://enfamil.com/'</initValue>
+      <name>HomePageSTG_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Email').getValue(1, 1)</initValue>
+      <name>EmailUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Email').getValue(2, 1)</initValue>
+      <name>EmailPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Email').getValue(1, 2)</initValue>
+      <name>ValidEmail1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Email').getValue(2, 2)</initValue>
+      <name>InvalidPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Email').getValue(1, 3)</initValue>
+      <name>ValidEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Email').getValue(2, 3)</initValue>
+      <name>ValidPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Google').getValue(1, 1)</initValue>
+      <name>Gmail_Unreg_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Google').getValue(2, 1)</initValue>
+      <name>Gmail_Unreg_Pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Google').getValue(1, 2)</initValue>
+      <name>Gmail_Reg_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Google').getValue(2, 2)</initValue>
+      <name>Gmail_Reg_Pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Facebook').getValue(1, 1)</initValue>
+      <name>FB_Unreg_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Facebook').getValue(2, 1)</initValue>
+      <name>FB_Unreg_Pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Facebook').getValue(1, 2)</initValue>
+      <name>FB_Reg_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Facebook').getValue(2, 2)</initValue>
+      <name>FB_Reg_Pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Apple').getValue(1, 1)</initValue>
+      <name>Apple_User</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Login/Apple').getValue(2, 1)</initValue>
+      <name>Apple_Pass</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -6,12 +6,12 @@
    <elementGuidId>51941976-df0a-42eb-8c92-2a08fa26741c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/section/div/div/div/section/div/div[2]/div/div[2]/form/section/div/div[2]/div/div[2]/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.form-control.form-control--radio > div.form-control__options-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='form-control form-control--radio']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
