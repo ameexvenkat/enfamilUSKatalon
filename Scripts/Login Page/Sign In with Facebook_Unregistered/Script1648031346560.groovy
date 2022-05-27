@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.STG_Login_Page_URL)
+WebUI.navigateToUrl(GlobalVariable.HomePage)
 
 WebUI.maximizeWindow()
 

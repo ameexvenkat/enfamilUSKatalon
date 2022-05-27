@@ -19,12 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.HomePageSTG_URL)
+WebUI.navigateToUrl(GlobalVariable.HomePage)
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementVisible(findTestObject('Buttons/Sign In link_Pop up'), 
-    0)
+WebUI.waitForElementVisible(findTestObject('Buttons/Sign In link_Pop up'), 0)
 
 if (true) {
     WebUI.verifyElementPresent(findTestObject('Cookie floater/Cookies pop up'), 0)

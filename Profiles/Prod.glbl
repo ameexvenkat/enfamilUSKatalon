@@ -79,4 +79,9 @@
       <initValue>'https://www.enfamil.com/products/enfamil-neuropro-infant-formula/'</initValue>
       <name>PDP1</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.enfamil.com/account/login/'</initValue>
+      <name>AccountLogin</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

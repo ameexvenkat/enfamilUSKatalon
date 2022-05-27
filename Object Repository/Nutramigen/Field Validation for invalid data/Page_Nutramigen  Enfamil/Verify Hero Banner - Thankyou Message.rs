@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class='rte__component rte__component--componentPlaceholder carousel-item__description']</value>
+         <value>//div[@class='rte__component rte__component--componentPlaceholder carousel-item__description']//div</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

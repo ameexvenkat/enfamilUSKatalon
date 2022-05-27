@@ -79,4 +79,9 @@
       <initValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/products/enfamil-neuropro-infant-formula/'</initValue>
       <name>PDP1</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/account/login/'</initValue>
+      <name>AccountLogin</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

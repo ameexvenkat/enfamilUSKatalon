@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Styling on Thank you page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3fe62bd9-77ce-4bfd-9fff-f45ef558de7b</testCaseGuid>
+   <variable>
+      <defaultValue>'color'</defaultValue>
+      <description></description>
+      <id>123e46f9-1f9d-4cdf-8229-8256de96cabd</id>
+      <masked>false</masked>
+      <name>Font_Color</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-size'</defaultValue>
+      <description></description>
+      <id>5fbcc2c2-e385-4214-885d-183b9f3d8098</id>
+      <masked>false</masked>
+      <name>Font_Size</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-family'</defaultValue>
+      <description></description>
+      <id>d390cfd0-a274-4d90-97cc-3aa89b6664bd</id>
+      <masked>false</masked>
+      <name>Font_Family</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-weight'</defaultValue>
+      <description></description>
+      <id>75ad0128-5dce-4cbb-bafe-27a82ecda6dd</id>
+      <masked>false</masked>
+      <name>Font_Weight</name>
+   </variable>
+   <variable>
+      <defaultValue>'background-color'</defaultValue>
+      <description></description>
+      <id>814e5e5f-a50d-4aa6-b9f4-4a44a99c2be1</id>
+      <masked>false</masked>
+      <name>BgColor</name>
+   </variable>
+</TestCaseEntity>

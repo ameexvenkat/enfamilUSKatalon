@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.HomePageSTG_URL)
+WebUI.navigateToUrl(GlobalVariable.HomePage)
 
 WebUI.maximizeWindow()
 
@@ -53,8 +53,7 @@ WebUI.verifyElementPresent(findTestObject('Login Pop Up/Pop Up Elements Validati
 
 WebUI.verifyElementPresent(findTestObject('Login Pop Up/Pop Up Elements Validation/button_Sign in with Apple'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Login Pop Up/Pop Up Elements Validation/Join now title'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('Login Pop Up/Pop Up Elements Validation/Join now title'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Login Pop Up/Pop Up Elements Validation/Join now Button'), 0)
 

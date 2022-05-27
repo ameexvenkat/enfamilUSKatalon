@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>e9ecd4a2-fde2-4cc4-9276-74322fa386e9</dataFileGUID>
-   <dataSourceUrl>D:\SmoketestSuite\enfamilUS\excel\AppleLogin.csv</dataSourceUrl>
+   <dataSourceUrl>D:\Git Repo\enfamilUSKatalon_Final\excel\AppleLogin.csv</dataSourceUrl>
    <driver>CSV</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

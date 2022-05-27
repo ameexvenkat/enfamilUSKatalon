@@ -13,7 +13,7 @@
       <name>No_of_Submission</name>
    </variable>
    <variable>
-      <defaultValue>'Mithun'</defaultValue>
+      <defaultValue>'Mithun_-\'.'</defaultValue>
       <description></description>
       <id>c6cad805-40d2-4a35-b08d-0fd9f9866119</id>
       <masked>false</masked>
@@ -76,7 +76,7 @@
       <name>Val_Last_Name</name>
    </variable>
    <variable>
-      <defaultValue>'mithun.uat1105_nutra15@gmail.com'</defaultValue>
+      <defaultValue>'mithun.uat1905_nutra01@gmail.com'</defaultValue>
       <description></description>
       <id>29262016-bd0e-420e-acb7-643bec71b6a5</id>
       <masked>false</masked>
@@ -370,7 +370,7 @@
       <name>Thank_Banner_Eyebrow</name>
    </variable>
    <variable>
-      <defaultValue>'Welcome to Nutramigen Savings and Support, '</defaultValue>
+      <defaultValue>'Welcome to Nutramigen Savings and Support'</defaultValue>
       <description></description>
       <id>b86f7349-fd16-41a4-ae6e-d55331dac39e</id>
       <masked>false</masked>
@@ -405,7 +405,7 @@
       <name>Thank_You_Page_URL_Input</name>
    </variable>
    <variable>
-      <defaultValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/products/nutramigen-powder-infant-formula/'</defaultValue>
+      <defaultValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/products/nutramigen-powder-infant-formula/powder-can-12-6-oz-can/'</defaultValue>
       <description></description>
       <id>e023283c-6d42-419b-9a62-da3e5a57f164</id>
       <masked>false</masked>
@@ -466,5 +466,12 @@
       <id>dd8dd433-360f-4044-931a-75f5eaae6e15</id>
       <masked>false</masked>
       <name>My_Profile_URL_Input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Looks like you’ve already enrolled previously. Please login and update your preferences.'</defaultValue>
+      <description></description>
+      <id>0881edf1-2d1a-4c98-a485-89248f8d424e</id>
+      <masked>false</masked>
+      <name>Multi_Err_Msg</name>
    </variable>
 </TestCaseEntity>
