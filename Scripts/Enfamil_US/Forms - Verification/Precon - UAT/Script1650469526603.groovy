@@ -66,9 +66,10 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/P
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Precon Form/Page_/div_Tell us more about yourself so we can t_f89e59'), 
     'Tell us more about yourself so we can tailor your experience.')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Precon Form/Page_/div_Select one'), 0)
+WebUI.verifyElementPresent(findTestObject('Form Verification/Precon Form/Dropdown/select_Select oneI am trying to conceiveI am pregnantMy little one has arrived'), 
+    0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/Precon Form/Page_/div_Select one'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Precon Form/Dropdown/select_Select oneI am trying to conceiveI am pregnantMy little one has arrived'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Precon Form/Page_/p_By clicking Join Now and Enter Sweepstake_0b0cd5'), 
     0)

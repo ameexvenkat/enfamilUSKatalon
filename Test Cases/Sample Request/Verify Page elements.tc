@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is to used to identify fields in this page</description>
+   <name>Verify Page elements</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55c4a296-b662-4766-9cf6-810d69ebf15f</testCaseGuid>
+   <variable>
+      <defaultValue>'Free Sample of Enfagrow® Toddler Formula'</defaultValue>
+      <description></description>
+      <id>dbf92025-bdb2-4e07-93d7-44c9d8db271d</id>
+      <masked>false</masked>
+      <name>Hero_Title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Take just a moment to sign up, and you’ll receive your free sample of Enfagrow PREMIUM™ Toddler Nutritional Drink in a matter of weeks.'</defaultValue>
+      <description></description>
+      <id>48cc060c-9e70-482e-8170-777d3d4ee276</id>
+      <masked>false</masked>
+      <name>Hero_Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'*Benefits may vary.'</defaultValue>
+      <description></description>
+      <id>857a5fb6-4b11-407e-baed-fec326f3b5d0</id>
+      <masked>false</masked>
+      <name>Hero_Disclaimer</name>
+   </variable>
+   <variable>
+      <defaultValue>'REQUEST YOUR SAMPLE'</defaultValue>
+      <description></description>
+      <id>48cc0d7b-83e4-4d09-973d-0deb7c6b42d2</id>
+      <masked>false</masked>
+      <name>Form_Layout_Text</name>
+   </variable>
+   <variable>
+      <defaultValue>'1. Tell us your name and email.'</defaultValue>
+      <description></description>
+      <id>8e6fe7e5-300c-4b82-9ba9-6d53b97bd333</id>
+      <masked>false</masked>
+      <name>Label_Basic_Info</name>
+   </variable>
+   <variable>
+      <defaultValue>'''2. Enter your address. \nYou may receive some gifts closer to your baby’s due date.'''</defaultValue>
+      <description></description>
+      <id>7e2cb72d-3b5c-4503-a6b1-78e93e3a5f7d</id>
+      <masked>false</masked>
+      <name>Label_Address_Info</name>
+   </variable>
+   <variable>
+      <defaultValue>'3. Customize your profile for you and your toddler.'</defaultValue>
+      <description></description>
+      <id>3d745f60-24c4-4dbd-9139-082b07fd6ecb</id>
+      <masked>false</masked>
+      <name>Label_Baby_Rel_Info</name>
+   </variable>
+   <variable>
+      <defaultValue>'We’ll provide tips and samples to fit your needs.'</defaultValue>
+      <description></description>
+      <id>174aebf9-d225-410a-a1ff-fd2ab9bd9369</id>
+      <masked>false</masked>
+      <name>Label_Baby_Rel_Info1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Your Child\'s Birth Date'</defaultValue>
+      <description></description>
+      <id>aee2976b-114a-48ef-95d0-092fd8c3206a</id>
+      <masked>false</masked>
+      <name>Label_DoB</name>
+   </variable>
+   <variable>
+      <defaultValue>'Why?'</defaultValue>
+      <description></description>
+      <id>7187b63c-0ccc-4007-af03-5eec63cc9382</id>
+      <masked>false</masked>
+      <name>Label_Why</name>
+   </variable>
+   <variable>
+      <defaultValue>'By sharing your little one\'s tentative birth date, we can give you personalized updates about your pregnancy, including insights about your baby\'s development, tips, advice and more.'</defaultValue>
+      <description></description>
+      <id>09c02444-6232-404b-8bcc-e856f522f909</id>
+      <masked>false</masked>
+      <name>Why_Popup_Text</name>
+   </variable>
+   <variable>
+      <defaultValue>'Get my sample'</defaultValue>
+      <description></description>
+      <id>4b964d07-4491-454f-b8ee-bba4603432db</id>
+      <masked>false</masked>
+      <name>CTA</name>
+   </variable>
+</TestCaseEntity>

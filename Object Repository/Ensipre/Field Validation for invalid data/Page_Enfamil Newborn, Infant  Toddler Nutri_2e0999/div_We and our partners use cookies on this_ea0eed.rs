@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We and our partners use cookies on this_ea0eed</name>
+   <tag></tag>
+   <elementGuidId>7e3a9d75-6848-418c-8b1a-78e53f273f82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onetrust-group-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#onetrust-group-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b61f064-381d-405f-b163-67573077cd99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>onetrust-group-container</value>
+      <webElementGuid>0770dac9-b9c8-408a-90f0-dce1f9346410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ot-sdk-eight ot-sdk-columns</value>
+      <webElementGuid>ce2049ce-098a-4e03-b24d-f02e6b23088e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We and our partners use cookies on this site to: improve functionality, personalise (your) browsing experience, analyse traffic, for marketing and personalised advertising. For details see ourcookie policy.</value>
+      <webElementGuid>bc343f58-93ae-4bc1-aee7-213def3a3947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-group-container&quot;)</value>
+      <webElementGuid>7a754757-b8af-4e8e-8646-3e4b901fac38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-group-container']</value>
+      <webElementGuid>d05db1e5-ab1e-4230-b849-4e9c3cf1d80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-banner-sdk']/div/div/div/div</value>
+      <webElementGuid>f5392d99-5d5f-42a4-89fb-fd636e4cd9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'onetrust-group-container', '&quot;', ')')])[1]/following::div[15]</value>
+      <webElementGuid>ad755658-b8eb-425f-a491-af5250fae993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Preference'])[1]/following::div[21]</value>
+      <webElementGuid>eea542d5-081f-4345-8395-4b03483ddce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MANAGE PREFERENCES'])[1]/preceding::div[3]</value>
+      <webElementGuid>79d58b06-22c1-46c7-8aa6-4249a0b51685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/div/div</value>
+      <webElementGuid>017be755-a8d8-4e48-8711-96cdc2cd236c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'onetrust-group-container' and (text() = 'We and our partners use cookies on this site to: improve functionality, personalise (your) browsing experience, analyse traffic, for marketing and personalised advertising. For details see ourcookie policy.' or . = 'We and our partners use cookies on this site to: improve functionality, personalise (your) browsing experience, analyse traffic, for marketing and personalised advertising. For details see ourcookie policy.')]</value>
+      <webElementGuid>1b5c59ea-4157-4d4f-b8eb-5b3e96610e51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

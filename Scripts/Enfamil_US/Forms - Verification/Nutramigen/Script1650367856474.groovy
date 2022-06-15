@@ -239,7 +239,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/N
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/p_Your answer helps us personalize your experience'), 
-    'Your answer helps us personalize your experience.')
+    'Your answer helps us personalize your experience.*')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_Yes'), 
     0)

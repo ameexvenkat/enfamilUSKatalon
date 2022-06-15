@@ -10,12 +10,12 @@
          <value>//*[(text() = 'Premium Enfamil Family Beginnings®' or . = 'Premium Enfamil Family Beginnings®')]</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>li.breadcrumbs__item > span</value>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Enfamil Family Beginnings®' or . = 'Premium Enfamil Family Beginnings')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//span[(text() = 'Premium Enfamil Family Beginnings®' or . = 'Premium Enfamil Family Beginnings')]</value>
+         <key>CSS</key>
+         <value>li.breadcrumbs__item > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6de19ae6-e066-4490-b5d6-5b2727dc7527</webElementGuid>
+      <webElementGuid>f1074f90-a059-40c8-a011-39ed64251108</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Premium Enfamil Family Beginnings®</value>
-      <webElementGuid>101162de-bfe3-4979-a446-ccd02009034b</webElementGuid>
+      <webElementGuid>e2e7d704-55c4-4278-8b0f-1fde78324ec5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;breadcrumbs__items&quot;]/li[@class=&quot;breadcrumbs__item&quot;]/span[1]</value>
-      <webElementGuid>36876f6a-8878-4879-87df-6203ce96c55e</webElementGuid>
+      <webElementGuid>89f72531-ea12-46dd-836e-3458eaa23fb6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/div/ul/li[2]/span</value>
-      <webElementGuid>9d122052-f051-4db4-8200-b9434767ac35</webElementGuid>
+      <webElementGuid>a5a44348-09be-4195-96b2-72ec0062a92e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
-      <webElementGuid>2aa8f5ab-fc73-4473-bbb7-b396cc0ef868</webElementGuid>
+      <webElementGuid>669f5012-16d1-41c4-818e-16ce2abccd19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Premium Enfamil Family Beginnings'])[1]/preceding::span[1]</value>
-      <webElementGuid>9480b7fc-ab1d-4748-9545-17a0e08f073f</webElementGuid>
+      <webElementGuid>f5376884-504c-4f0e-b012-f638dbe2b15c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil Family Beginnings'])[1]/preceding::span[1]</value>
-      <webElementGuid>c8ce4812-55fb-4771-b7a9-8c16568457c5</webElementGuid>
+      <webElementGuid>9aa8f7c6-efb2-47a9-a591-ccfbf220e4e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/span</value>
-      <webElementGuid>7a0e3fee-6921-42f7-bab7-6426454fe50b</webElementGuid>
+      <webElementGuid>287174e8-cefc-492e-ae46-6f32df0066a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Premium Enfamil Family Beginnings®' or . = 'Premium Enfamil Family Beginnings®')]</value>
-      <webElementGuid>e4f1ac6d-0c15-4986-b66a-3f81df13287f</webElementGuid>
+      <webElementGuid>a90178f8-9489-4166-b3b0-1356b96c9966</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

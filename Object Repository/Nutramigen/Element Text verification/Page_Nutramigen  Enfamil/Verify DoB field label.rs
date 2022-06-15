@@ -6,22 +6,27 @@
    <elementGuidId>5129fdd9-f83b-4008-8fef-05258683e0a3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//label[starts-with(@for,'22207_1c70a488-d157-4693-a48d-31f5da493ef6')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>label.form-control__label.form-control__label--birth-date</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = concat(&quot;Baby&quot; , &quot;'&quot; , &quot;s Due Date or Birth Date&quot;) or . = concat(&quot;Baby&quot; , &quot;'&quot; , &quot;s Due Date or Birth Date&quot;))]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[starts-with(@for,'22207_1c70a488-d157-4693-a48d-31f5da493ef6')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
+      <webElementGuid>db3a055b-f543-481b-a0b2-ccbe068935dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__label form-control__label--birth-date</value>
+      <webElementGuid>7304af3d-2e08-4a9a-85db-be895574b6c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +42,7 @@
       <name>for</name>
       <type>Main</type>
       <value>1c70a488-d157-4693-a48d-31f5da493ef6_650</value>
+      <webElementGuid>f172c8ae-b128-46dd-b217-d21140fb4795</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Baby's Due Date or Birth Date</value>
+      <webElementGuid>60604159-e026-49ea-b990-8f1bcb6e2aef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width offers-drive margin-bottom-xxlarge&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;consumer-form&quot;]/div[@class=&quot;consumer-form__form&quot;]/form[@class=&quot;consumer-form__form&quot;]/section[@class=&quot;content-grid content-grid--consumer-form__form-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;child-container&quot;]/section[@class=&quot;content-grid content-grid--child-container&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row form-control--relation&quot;]/div[@class=&quot;content-grid__column custom-birthdate-tooltip content-grid__column--size-12&quot;]/div[@class=&quot;form-control form-control--birth-date&quot;]/label[@class=&quot;form-control__label form-control__label--birth-date&quot;]</value>
+      <webElementGuid>0b829f26-0742-4738-8b5c-95b62be8cf0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[11]/div/div/section/div/div/div/div/label</value>
+      <webElementGuid>40152cc4-55b4-413d-ba6c-5490be0dbcc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile phone (optional)'])[1]/following::label[2]</value>
+      <webElementGuid>7a9b678d-cd27-47d8-8178-28f870ebf656</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='via SMS'])[1]/following::label[3]</value>
+      <webElementGuid>a01741e6-4b95-426b-b421-ccc8b968e863</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Why?'])[1]/preceding::label[1]</value>
+      <webElementGuid>6be5ea4e-9bc7-4f95-8b23-98cd290686a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship to child'])[2]/preceding::label[1]</value>
+      <webElementGuid>fdec93a1-1380-44d0-b238-8b54a6f1f724</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/div/section/div/div/div/div/label</value>
+      <webElementGuid>79747ba1-5c10-4a13-a1ff-b038a101711b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,5 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = concat(&quot;Baby&quot; , &quot;'&quot; , &quot;s Due Date or Birth Date&quot;) or . = concat(&quot;Baby&quot; , &quot;'&quot; , &quot;s Due Date or Birth Date&quot;))]</value>
+      <webElementGuid>bc644eab-ab7f-4ed2-af10-13b6973b36f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

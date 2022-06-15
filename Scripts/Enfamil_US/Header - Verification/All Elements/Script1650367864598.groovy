@@ -86,7 +86,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Free Ba
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Free Baby Formula Samples  Coupons  Enfamil/span_Enfamil Family Beginnings'), 
-    'Enfamil Family Beginnings©')
+    'Enfamil Family Beginnings®')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Free Baby Formula Samples  Coupons  Enfamil/h1_Celebrate your little one with up to 400_dbb811'), 
     'Celebrate your little one with up to $400 in savings, exclusive rewards and support.')
@@ -130,7 +130,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil fr
     'English')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil frmula frmula para bebs  Enfamil US/div_1 Marca recomendada por pediatras'), 
-    '#1 Marca recomendada por pediatras')
+    '#1 recomendada por pediatras')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil frmula frmula para bebs  Enfamil US/span_nete al programa de Enfamil Family Beginnings'), 
     'Únete al programa de Enfamil Family Beginnings')

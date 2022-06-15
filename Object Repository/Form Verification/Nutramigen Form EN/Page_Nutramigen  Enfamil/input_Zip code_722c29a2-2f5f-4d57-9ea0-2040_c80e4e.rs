@@ -10,15 +10,15 @@
          <value>#722c29a2-2f5f-4d57-9ea0-2040655b8185_934</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='722c29a2-2f5f-4d57-9ea0-2040655b8185_934']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//input[@placeholder = 'Zip code']</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Zip code*']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>3437bb39-f31f-41f8-9323-d34dac79de3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--address-postal</value>
+      <webElementGuid>de35e03d-6f51-4336-b7f8-87b04caa4cf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>722c29a2-2f5f-4d57-9ea0-2040655b8185_934</value>
+      <webElementGuid>614efe4b-44ee-49b1-ad23-6b778ae9c987</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>722c29a2-2f5f-4d57-9ea0-2040655b8185</value>
+      <webElementGuid>3b18e534-83b0-486b-bedb-e0c0f4bf596a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Zip code</value>
+      <webElementGuid>d6375ffe-a590-4ea8-8735-dc75b6d2eaf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>f856bc0a-688e-4c52-8513-ce3d3104079e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;722c29a2-2f5f-4d57-9ea0-2040655b8185_934&quot;)</value>
+      <webElementGuid>16891b02-ba84-40d5-b468-ee24b91824d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='722c29a2-2f5f-4d57-9ea0-2040655b8185_934']</value>
+      <webElementGuid>d513070c-cd3a-4644-99a8-13b42667c204</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[5]/div/div/section/div/div[2]/div[3]/div/input</value>
+      <webElementGuid>f13eda2c-859f-4a24-ba1e-8e2f7aa61f42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
+      <webElementGuid>deab27ea-4fd9-404f-ba48-091e94cb3e28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = '722c29a2-2f5f-4d57-9ea0-2040655b8185_934' and @name = '722c29a2-2f5f-4d57-9ea0-2040655b8185' and @placeholder = 'Zip code' and @type = 'text']</value>
+      <webElementGuid>e2c657b3-f38e-4573-852f-a51a333ad2eb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

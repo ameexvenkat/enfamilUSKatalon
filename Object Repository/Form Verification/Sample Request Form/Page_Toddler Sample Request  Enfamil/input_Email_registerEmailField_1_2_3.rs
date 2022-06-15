@@ -10,15 +10,15 @@
          <value>//input[@placeholder = 'Email']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='registerEmailField_492']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#registerEmailField_492</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Email*']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>611ae8ef-1793-410f-a7a7-55edeb71c371</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--login</value>
+      <webElementGuid>8c232bcb-90c8-42b7-8816-e71cb340a3f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>registerEmailField_492</value>
+      <webElementGuid>d23511cb-52de-4160-841d-ea7e4fc67c76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>registerEmailField</value>
+      <webElementGuid>afcb4b46-fd78-42be-8de0-30d62ff85513</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Email</value>
+      <webElementGuid>24bffb35-1dfd-4e98-9630-37660911bb86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
+      <webElementGuid>96b09218-0fbc-4e92-b646-849040d963d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;registerEmailField_492&quot;)</value>
+      <webElementGuid>149b08ee-b178-4c9c-baf8-3e00e29156b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='registerEmailField_492']</value>
+      <webElementGuid>95007a5d-3244-4bed-ac5f-947eb73289c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/form/section/div/div[3]/div/div/input</value>
+      <webElementGuid>e4a9892a-f0f2-4568-9742-320287616dac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/input</value>
+      <webElementGuid>8ec7b7eb-dae1-4278-b938-9987ab74ca4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'registerEmailField_492' and @name = 'registerEmailField' and @placeholder = 'Email' and @type = 'email']</value>
+      <webElementGuid>3e70ad61-db86-4c42-aaf8-473b5806ac33</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

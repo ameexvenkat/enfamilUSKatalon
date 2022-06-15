@@ -19,12 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.HomePageSTG_URL)
+WebUI.navigateToUrl(GlobalVariable.HomePage_URL)
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementVisible(findTestObject('Buttons/Sign In link_Pop up'), 
-    0)
+WebUI.waitForElementVisible(findTestObject('Buttons/Sign In link_Pop up'), 0)
 
 if (true) {
     WebUI.verifyElementPresent(findTestObject('Cookie floater/Cookies pop up'), 0)
@@ -51,6 +50,8 @@ WebUI.click(findTestObject('Login Page/Facebook Sign In/Registered/Page_Facebook
 WebUI.delay(20)
 
 WebUI.switchToDefaultContent(FailureHandling.OPTIONAL)
+
+WebUI.delay(10)
 
 WebUI.verifyElementPresent(findTestObject('Login Pop Up/Sign In with FB/Logged In Homepage'), 0)
 

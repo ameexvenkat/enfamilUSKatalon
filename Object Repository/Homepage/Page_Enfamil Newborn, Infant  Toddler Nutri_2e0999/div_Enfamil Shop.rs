@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/main/article/section/div/div[12]/div/div/div/div/div/div[2]/div/div/div/div</value>
+         <value>(//div[@class='guarantees-promo-content__title'])[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>20d3f9d4-ef08-46a7-b70c-26584058ad1d</webElementGuid>
+      <webElementGuid>8415bab7-8dcd-476d-922f-96d8553d59ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>guarantees-promo-content__title</value>
-      <webElementGuid>48f748d7-2f41-4230-9687-0d6656e5e87f</webElementGuid>
+      <webElementGuid>3b6c9417-5bb8-4a4c-993c-41c926576ca7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Enfamil Shop</value>
-      <webElementGuid>f2f66ef9-7932-43c7-9b41-6a400554ffc7</webElementGuid>
+      <webElementGuid>2de3120c-454c-4391-8d58-11696f889a5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid content-grid--main&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row page-border-radius content-grid--full-width guarantees-promo personalization-home-rtb zindex-2&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-item carousel-item--text-only carousel-item--col&quot;]/div[@class=&quot;carousel-item__content-wrapper carousel-item__content-wrapper--above&quot;]/div[@class=&quot;carousel-item__content&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text carousel-item__description&quot;]/div[@class=&quot;guarantees-promo-heading&quot;]/div[@class=&quot;guarantees-promo-content__title&quot;]</value>
-      <webElementGuid>057d7bfe-d98e-46b4-b1a4-e1871956ccc9</webElementGuid>
+      <webElementGuid>2903556c-5bce-4a68-9a66-b866aa1eccbc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section/div/div[12]/div/div/div/div/div/div[2]/div/div/div/div</value>
-      <webElementGuid>da5c15fb-697b-4345-bfcb-af7cafa01ed1</webElementGuid>
+      <webElementGuid>5b1d6e2f-8653-40f2-be4b-9f1369476a30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Load more'])[2]/following::div[12]</value>
-      <webElementGuid>927add9c-c99e-488e-8d08-a4e3c16463d8</webElementGuid>
+      <webElementGuid>a396c333-31fe-493d-90db-ed48e4c40a02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='We can help you to understand the difference between excessive, unexplained...'])[1]/following::div[15]</value>
-      <webElementGuid>6265a7b2-b4f5-401a-8b3d-e09dc91e1104</webElementGuid>
+      <webElementGuid>f2ee9ea6-63c5-4a88-8ff4-d3794e828224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Prices you', &quot;'&quot;, 'll love. Products you trust. Convenience you need.')])[1]/preceding::div[1]</value>
-      <webElementGuid>41e88b4e-8f45-4cc7-9883-1f95a8751ffb</webElementGuid>
+      <webElementGuid>e94649e7-2791-4cf5-9258-7f43a92da39c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop now'])[1]/preceding::div[2]</value>
-      <webElementGuid>4d3f57e1-7ed3-4b27-8ee2-bd129887603a</webElementGuid>
+      <webElementGuid>153c984d-b209-4edb-97a3-bed2cb619c68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Enfamil Shop']/parent::*</value>
-      <webElementGuid>6015c524-bc40-4461-aa83-9146fcd69cb9</webElementGuid>
+      <webElementGuid>d63cf997-9c7f-4f0c-9436-170c11f1d68b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/div/div/div/div/div[2]/div/div/div/div</value>
-      <webElementGuid>32442bcb-21f3-4911-9b10-3703f41f15db</webElementGuid>
+      <webElementGuid>917bb91e-23b1-4b5a-804e-09352ca190b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Enfamil Shop' or . = 'Enfamil Shop')]</value>
-      <webElementGuid>afadcf6c-464d-4557-a001-0a7dfa248c4d</webElementGuid>
+      <webElementGuid>28c0b10a-9933-4924-81bc-73772f32ec10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -10,15 +10,15 @@
          <value>#65b812a7-bc02-4bcd-ac94-445f25b957b0_474</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='65b812a7-bc02-4bcd-ac94-445f25b957b0_474']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//input[@placeholder = 'Street address']</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Street address*']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>4bc97a90-4cea-4c64-a682-00377dc5d118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--address</value>
+      <webElementGuid>f32fc52d-c2b8-4eff-bc53-22a9ec3effd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>65b812a7-bc02-4bcd-ac94-445f25b957b0_474</value>
+      <webElementGuid>7cb9a980-6412-410e-9123-bffdb996e839</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>65b812a7-bc02-4bcd-ac94-445f25b957b0</value>
+      <webElementGuid>68f6b9a7-bf8d-4178-b8fe-e2d84beee6da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Street address</value>
+      <webElementGuid>1e6f732a-88b2-4790-b318-e8c732e2d2f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>add77574-dfcc-4a0d-995b-3e802b66cb7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;65b812a7-bc02-4bcd-ac94-445f25b957b0_474&quot;)</value>
+      <webElementGuid>714fe976-10f7-4e0b-afed-a2bd21de19e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='65b812a7-bc02-4bcd-ac94-445f25b957b0_474']</value>
+      <webElementGuid>ef1d9425-6f3b-41a6-a71f-0d0994c14df6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[5]/div/div/section/div/div/div/div/input</value>
+      <webElementGuid>cdb83e47-bc60-4395-824c-e6d0485bfaaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/section/div/div/div/div/input</value>
+      <webElementGuid>9e7b817d-1cd4-4cd4-8f28-29610f9356d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = '65b812a7-bc02-4bcd-ac94-445f25b957b0_474' and @name = '65b812a7-bc02-4bcd-ac94-445f25b957b0' and @placeholder = 'Street address' and @type = 'text']</value>
+      <webElementGuid>5b6ccdc1-80c5-445b-9fa6-224555377617</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

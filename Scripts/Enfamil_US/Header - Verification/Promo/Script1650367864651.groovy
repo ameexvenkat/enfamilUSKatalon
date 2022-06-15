@@ -16,7 +16,7 @@ WebUI.verifyElementPresent(findTestObject('Header/Page_Enfamil Newborn, Infant/p
     0)
 
 WebUI.verifyElementText(findTestObject('Header/Page_Enfamil Newborn, Infant/p_Enfamil products unaffected by recall. Le_0a6984'), 
-    'Enfamil products unaffected by recall. Learn more.')
+    'No Enfamil products are affected by the recent infant formula recall that was initiated by another manufacturer. More >>')
 
 css_color = WebUI.getCSSValue(findTestObject('Header/Page_Enfamil Newborn, Infant/p_Enfamil products unaffected by recall. Le_0a6984'), 
     'color')
@@ -27,7 +27,7 @@ WebUI.verifyEqual(css_color, 'rgba(255, 255, 255, 1)')
 
 WebUI.verifyElementPresent(findTestObject('Header/Page_Enfamil Newborn, Infant/u_Learn more'), 0)
 
-WebUI.verifyElementText(findTestObject('Header/Page_Enfamil Newborn, Infant/u_Learn more'), 'Learn more')
+WebUI.verifyElementText(findTestObject('Header/Page_Enfamil Newborn, Infant/u_Learn more'), 'More >>')
 
 WebUI.verifyElementClickable(findTestObject('Header/Page_Enfamil Newborn, Infant/u_Learn more'))
 

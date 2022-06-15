@@ -17,6 +17,8 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
 
 WebUI.waitForElementPresent(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify one trust cookie preferences'), 
@@ -476,7 +478,19 @@ WebUI.verifyMatch(FloatCityLabel_FontFamily, '"Open Sans"', false)
 WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify selecting an option in State field', 
         [('State') : State_Select_Value]))
 
-State_Option_Selected = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify option selected in State field'))
+Contains_State_Option_Selected = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Option Selected - State Field - Aria Label'), 
+    'aria-label')
+
+String[] Contains_State_Option_Selected_Split = Contains_State_Option_Selected.split('State: Option ')
+
+State_Option = (Contains_State_Option_Selected_Split[1])
+
+String[] State_Option_Split = State_Option.split(' ')
+
+State_Option_Selected = (State_Option_Split[0])
+
+State_Option_Selected_As = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify option selected in State field', 
+        [('State_Option_Selected') : State_Option_Selected]))
 
 WebUI.focus(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify Zipcode placeholder text for input field'))
 
@@ -680,14 +694,38 @@ WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen
 WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Select option in Relationship field', 
         [('Relationship') : Select_Relation_Value]))
 
-Relationship_Option_Selected = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify option selected in Relationship field'))
+Contains_Relationship_Option_Selected = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Option Selected - Relationship Field - Aria Label'), 
+    'aria-label')
+
+String[] Contains_Relationship_Option_Selected_Split = Contains_Relationship_Option_Selected.split('Relationship to child: Option ')
+
+Relationship_Option = (Contains_Relationship_Option_Selected_Split[1])
+
+String[] Relationship_Option_Split = Relationship_Option.split(' ')
+
+Relationship_Option_Selected = (Relationship_Option_Split[0])
+
+Relationship_Option_Selected_As = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify option selected in Relationship field', 
+        [('Relationship_Option_Selected') : Relationship_Option_Selected]))
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'))
 
 WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Select option in Feeding Method field', 
         [('Feeding') : Select_Feeding_Value]))
 
-Feeding_Option_Selected = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify option selected in Feeding Method field'))
+Contains_Feeding_Option_Selected = WebUI.getAttribute(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Option Selected - Feeding Field - Aria Label'), 
+    'aria-label')
+
+String[] Contains_Feeding_Option_Selected_Split = Contains_Feeding_Option_Selected.split(' Option ')
+
+Feeding_Option = (Contains_Feeding_Option_Selected_Split[1])
+
+String[] Feeding_Option_Split = Feeding_Option.split(' ')
+
+Feeding_Option_Selected = (Feeding_Option_Split[0])
+
+Feeding_Option_Selected_As = WebUI.getText(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify option selected in Feeding Method field', 
+        [('Feeding_Option_Selected') : Feeding_Option_Selected]))
 
 WebUI.scrollToElement(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for WIC Status field'), 
     0)

@@ -75,15 +75,7 @@ WebUI.scrollToElement(findTestObject('Footer/Footer_Elements/div_Download our ap
 
 WebUI.click(findTestObject('Object Repository/Footer/Footer_Elements/img (1) (1)'))
 
-WebUI.switchToWindowTitle('Enfamil Family Beginnings® on the App Store')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Enfamil Family Beginnings on the AppStore/picture_ember3, ember3before           widt_0f0213'), 
-    0)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Footer/Page_Enfamil Family Beginnings on the AppStore/span_App Store'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Enfamil Family Beginnings on the AppStore/span_App Store'), 
-    0)
+WebUI.switchToWindowUrl('https://apps.apple.com/us/app/enfamil-family-beginnings/id1445688776')
 
 WebUI.switchToWindowTitle('Enfamil Newborn, Infant & Toddler Nutrition │ Enfamil')
 
@@ -98,31 +90,27 @@ WebUI.switchToWindowTitle('Enfamil Newborn, Infant & Toddler Nutrition │ Enfam
 
 WebUI.click(findTestObject('Object Repository/Footer/Footer_Elements/i_Follow us_social-links__icon social-links_198a1c (1) (1)'))
 
-WebUI.switchToWindowTitle('Enfamil™ 🍼 (@enfamil) • Instagram photos and videos')
+WebUI.switchToWindowUrl('https://www.instagram.com/enfamil/')
 
 title = WebUI.getWindowTitle()
 
-WebUI.verifyMatch(title, 'Enfamil™ 🍼 (@enfamil) • Instagram photos and videos', false)
+WebUI.verifyMatch(title, 'www.instagram.com', false)
 
 WebUI.switchToWindowTitle('Enfamil Newborn, Infant & Toddler Nutrition │ Enfamil')
 
 WebUI.click(findTestObject('Object Repository/Footer/Footer_Elements/i_Instagram_social-links__icon social-links_65b7e6 (1) (1)'))
 
-WebUI.switchToWindowTitle('Enfamil - Home | Facebook')
+WebUI.switchToWindowUrl('https://www.facebook.com/Enfamil/')
 
 title = WebUI.getWindowTitle()
 
-WebUI.verifyMatch(title, 'Enfamil - Home | Facebook', false)
+WebUI.verifyMatch(title, 'www.facebook.com', false)
 
 WebUI.switchToWindowTitle('Enfamil Newborn, Infant & Toddler Nutrition │ Enfamil')
 
 WebUI.click(findTestObject('Object Repository/Footer/Footer_Elements/i_Facebook_social-links__icon social-links__10ed12 (1) (1)'))
 
-WebUI.switchToWindowTitle('Enfamil (@Enfamil) / Twitter')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Enfamil (Enfamil)  Twitter/span_Enfamil'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Enfamil (Enfamil)  Twitter/div_Enfamil'), 0)
+WebUI.switchToWindowUrl('https://twitter.com/enfamil')
 
 WebUI.switchToWindowTitle('Enfamil Newborn, Infant & Toddler Nutrition │ Enfamil')
 
@@ -188,20 +176,11 @@ WebUI.switchToWindowTitle('')
 
 WebUI.click(findTestObject('Object Repository/Footer/Page_/a_Enfamil Wholesale'))
 
-WebUI.switchToWindowTitle('Enfamil')
+WebUI.switchToWindowTitle('')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Enfamil/img'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Footer/Page_Enfamil/a_Apply for wholesale'), 'Apply for wholesale')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Enfamil/a_Apply for wholesale'), 0)
-
 WebUI.switchToWindowTitle('')
-
-WebUI.click(findTestObject('Object Repository/Footer/Page_/a_California transparency in supply chains _19d4b3'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_/span_California transparency in supply chai_d4e5f5'), 
-    0)
 
 WebUI.click(findTestObject('Object Repository/Footer/Page_/a_Do Not Sell My Information'))
 

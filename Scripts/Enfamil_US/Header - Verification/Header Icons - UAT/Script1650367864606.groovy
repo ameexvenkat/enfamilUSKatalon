@@ -26,9 +26,6 @@ WebUI.maximizeWindow()
 
 WebUI.delay(5)
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_Show contact page (1)'), 
-    0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_Show contact page (1)'), 
     0)
 

@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>6c8cd3e0-5b88-49ca-9190-c4433915ba39</webElementGuid>
+      <webElementGuid>5ea94d1e-4366-48fa-986f-a6409e9f57d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>carousel-item__content-header  </value>
-      <webElementGuid>66ddba95-4b45-493d-9765-ae5ecfb01aaf</webElementGuid>
+      <webElementGuid>08ac7a92-2066-468b-8ef9-b029c64d92e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>My Account</value>
-      <webElementGuid>df8705fc-3fd3-4fd8-927c-5f126a71ce6f</webElementGuid>
+      <webElementGuid>42782425-73b1-43c6-b890-82e51cb0c4d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width page-banner--text-center&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-item carousel-item--text-only carousel-item--col&quot;]/div[@class=&quot;carousel-item__content-wrapper carousel-item__content-wrapper--above&quot;]/div[@class=&quot;carousel-item__content&quot;]/div[@class=&quot;carousel-item__content-header-wrapper&quot;]/h2[@class=&quot;carousel-item__content-header&quot;]</value>
-      <webElementGuid>ae879449-0580-48f3-9890-dd849f87b5d0</webElementGuid>
+      <webElementGuid>dca2b18d-338d-4c68-badb-67282332e7ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/div/div/div/div/h2</value>
-      <webElementGuid>65724d87-3fbb-4c03-b7f8-af762b9568f6</webElementGuid>
+      <webElementGuid>4c2e232e-ba4b-4a20-9444-e2bd70aa0122</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[2]/following::h2[1]</value>
-      <webElementGuid>87a8262a-2990-4c4d-84f5-bc0e7a67f92b</webElementGuid>
+      <webElementGuid>7c1ef77c-33e1-4818-add5-8d5fe40854b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::h2[1]</value>
-      <webElementGuid>34a60d55-188f-401b-9f12-44b7c54a94a7</webElementGuid>
+      <webElementGuid>10e17eec-fe44-4538-b247-4b42bcd65b34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[2]/preceding::h2[1]</value>
-      <webElementGuid>d914e43a-2331-45ca-83dd-0bcc803cab6c</webElementGuid>
+      <webElementGuid>d0e41bd6-c140-42f9-a991-38373a2ddf3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Orders'])[1]/preceding::h2[1]</value>
-      <webElementGuid>730b6b4a-124d-4565-9232-ff261ee90912</webElementGuid>
+      <webElementGuid>3c81acbc-68f4-4f84-8593-41e159d4218e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>837b5daa-2e1c-4904-82fc-33f9313f3978</webElementGuid>
+      <webElementGuid>d2737175-cf26-41e8-8021-eec3dc6c14fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'My Account' or . = 'My Account')]</value>
-      <webElementGuid>fb11d059-bcd6-47e8-a251-ee8f203f37db</webElementGuid>
+      <webElementGuid>701dc631-b3a8-41a4-8906-e2396efdffa0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>0d589c6a-b5d7-4dae-8219-60a2185e3cd7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img[alt=&quot;Play Store&quot;]</value>
+         <key>XPATH</key>
+         <value>//*[@title= 'Google play store']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@title='Google play store']/img</value>
+         <key>CSS</key>
+         <value>img[alt=&quot;Play Store&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>d6d43eda-9dad-4d94-998b-a52998577091</webElementGuid>
+      <webElementGuid>d7d64739-c7f4-4119-894e-612e4fd74494</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://d2jiwtuosjkcsj.cloudfront.net/media/cache/f/2/f/5/f/d/f2f5fda9c30676c21bcb537e5b072b53ff7192d3.png</value>
-      <webElementGuid>f026e68d-3947-4aa6-a1c9-408e29ebd596</webElementGuid>
+      <webElementGuid>f312d422-ae18-4a6c-bd80-0d8254908636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>onerror</name>
       <type>Main</type>
       <value>this.onerror=null;this.src='https://enfamil-us.backend.test.us-east-1.starterkit.rbcloud.io/media/1007/footer-google-play.png?width=146&amp;height=43';</value>
-      <webElementGuid>0062e225-dec3-4996-bb28-63c0207abb12</webElementGuid>
+      <webElementGuid>885f1dfe-2349-45ea-93b8-48e9a627ccdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Play Store</value>
-      <webElementGuid>9854dcad-3b4a-424c-908c-563c9a89b312</webElementGuid>
+      <webElementGuid>d7fef8ee-a417-476e-8700-2750720454f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-udi</name>
       <type>Main</type>
       <value>umb://media/e167586f6721459fb76024cf78def9f7</value>
-      <webElementGuid>208fd82e-9844-46ca-a817-9aa19a03ca9f</webElementGuid>
+      <webElementGuid>2686e09d-77d7-48b6-b9c8-9cda0bd6a4a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width  page-banner--product-promo page-banner--shorttext&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-item carousel-item--default carousel-item--col&quot;]/div[@class=&quot;carousel-item__content-wrapper&quot;]/div[@class=&quot;carousel-item__content&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text carousel-item__description&quot;]/div[@class=&quot;main-footer__download-btns&quot;]/a[2]/img[1]</value>
-      <webElementGuid>bc732cba-1d39-4b3e-86d6-6700f7799611</webElementGuid>
+      <webElementGuid>0c2baf35-2995-416a-bd27-9f5a9bd91602</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[5]/div/div/div/div/div[2]/div[2]/div/div/div/a[2]/img</value>
-      <webElementGuid>19c9c3b9-ae44-4f3d-a561-b168e76507f9</webElementGuid>
+      <webElementGuid>fa93c132-3573-4797-bace-491d5f78af96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Play Store']</value>
-      <webElementGuid>55407aeb-ee94-4f9c-b83f-c4b9034bfb47</webElementGuid>
+      <webElementGuid>e639f419-a128-423f-a361-e073f4d4ca73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a[2]/img</value>
-      <webElementGuid>97d6536a-1ac7-44b1-9aa2-2efb60bcf199</webElementGuid>
+      <value>//a[@title='Google play store']/img</value>
+      <webElementGuid>5d5531bc-0aa0-494f-9480-d356613ec922</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/f/2/f/5/f/d/f2f5fda9c30676c21bcb537e5b072b53ff7192d3.png' and @alt = 'Play Store']</value>
-      <webElementGuid>0f652c9d-9982-4c3e-bdec-bd2f976972e7</webElementGuid>
+      <webElementGuid>d7c44037-ffa8-4bef-a0b3-c3198f442fcc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>My Subscriptions</name>
+   <tag></tag>
+   <elementGuidId>de23d8cb-79cf-4f09-8ceb-29373239cc02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/button[@aria-label='My Subscriptions']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a9b9e733-05c2-4a64-9d04-1b8881ce09f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>1ade082a-b868-49b7-8f66-28b3c17240d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slideshow-picker__tab-nav-item</value>
+      <webElementGuid>704d13f8-05e1-4767-9252-2e027a22f493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Subscriptions</value>
+      <webElementGuid>dbb13272-8318-431d-bc55-faf36ebbb267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width page-border-radius&quot;]/div[@class=&quot;content-grid__column my-profile categories-tab categories-tab--centered-container content-grid__column--size-12&quot;]/div[@class=&quot;grid-wrapper slideshow-picker slideshow-picker--mobileDropdownTab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/ul[@class=&quot;slideshow-picker__tab-nav&quot;]/li[@class=&quot;slideshow-picker__tab-nav-item&quot;]</value>
+      <webElementGuid>f2a97fda-5f91-44dc-8ce6-902b543e64e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div[2]/div/div/ul/li[3]</value>
+      <webElementGuid>f16a14a9-623a-480b-8d52-6651c53a1483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Pregnancy and Baby'])[1]/following::li[1]</value>
+      <webElementGuid>e49dd010-208b-42c8-b78d-d21f3530f6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Information'])[1]/following::li[2]</value>
+      <webElementGuid>90b65873-1aa0-45bb-9c92-1376a66fa897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/preceding::li[1]</value>
+      <webElementGuid>921d8ec2-73aa-46a7-a4fe-43acf166859f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/ul/li[3]</value>
+      <webElementGuid>1827a324-b35a-427d-b0cd-0acc19745482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'My Subscriptions' or . = 'My Subscriptions')]</value>
+      <webElementGuid>0f42e441-2cfc-4231-8c14-33370590c82b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,15 +6,15 @@
    <elementGuidId>20e62eee-c863-4999-b419-ea20ecafb1d7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//a[@title = 'Terms and conditions']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//a[@class='text-white data-udi='])[3]</value>
+         <value>//*[@id=&quot;__next&quot;]/div/div/footer/div/section/div/div[1]/div[1]/section/div/div/div/div[3]/div/div/p[1]/a[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@title = 'Terms and conditions']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6bd641bf-b3f5-43d8-8eca-854dbb37b622</webElementGuid>
+      <webElementGuid>025b12ab-88f5-46d8-811e-6dfdded4d9eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/terms-and-conditions/</value>
-      <webElementGuid>513920c9-4c31-483e-a88b-d44487ddf912</webElementGuid>
+      <webElementGuid>94c5cf67-8757-4d68-a82c-0aa1f0ee2ca2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Terms and conditions</value>
-      <webElementGuid>3a446fb8-b065-4c95-a6db-57654d295ee9</webElementGuid>
+      <webElementGuid>f92bb34e-d18b-4f2a-ae0c-b46b38f174ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-white data-udi=</value>
-      <webElementGuid>aa8afc95-24b5-45f3-9fae-1e0caf58d541</webElementGuid>
+      <webElementGuid>1bb63926-312e-4fad-827e-2e9ad0be9c5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>data-anchor</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>7fe37e78-388a-4788-81d5-dfabf049170b</webElementGuid>
+      <webElementGuid>8a66b77c-d58d-454f-a787-aa3de743c20b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Terms of Use</value>
-      <webElementGuid>66a55d63-9dc9-4e03-baf3-3c4b94293be2</webElementGuid>
+      <webElementGuid>7d0d0f1e-48e4-400b-a530-9bb8381d139a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/footer[@class=&quot;main-footer&quot;]/div[@class=&quot;page-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row main-footer__main main-footer__order hide-mobile&quot;]/div[@class=&quot;content-grid__column main-footer__call main-footer__form content-grid__column--size-4&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text&quot;]/p[@class=&quot;text-white disclaimer-text text-center&quot;]/a[@class=&quot;text-white data-udi=&quot;]</value>
-      <webElementGuid>99c43e5e-30da-4bcb-bf0c-1d470ac6699a</webElementGuid>
+      <webElementGuid>25786b40-5fbf-43f8-914f-f8304a4e89e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/footer/div/section/div/div/div/section/div/div/div/div[3]/div/div/p/a</value>
-      <webElementGuid>baec58e2-73b6-47c5-855f-82f5e59d64b8</webElementGuid>
+      <webElementGuid>b3b8d5e7-61c7-4d1a-ae7d-fa7120c0d5d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Terms of Use')])[2]</value>
-      <webElementGuid>b526ddf3-774f-400e-9f0c-1f4f07c785f4</webElementGuid>
+      <webElementGuid>09adcb83-9c91-44e8-aea8-e234b6ba5cb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Join now'])[2]/following::a[1]</value>
-      <webElementGuid>fcf9b4a5-13df-4095-8bb7-268d1f4ce3dc</webElementGuid>
+      <webElementGuid>272b97d8-4def-43e8-a856-bad1ef91fe80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Why?'])[2]/following::a[1]</value>
-      <webElementGuid>44b33224-522b-48ec-91e2-40f9432e1bb8</webElementGuid>
+      <webElementGuid>897f6c11-6f69-4572-ac76-ab38a9cf7adc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[2]/preceding::a[1]</value>
-      <webElementGuid>71e9c28b-f709-4b25-83e1-dd0a82d55ad7</webElementGuid>
+      <webElementGuid>966ce76f-3a8f-4323-b35a-a9536e68fbbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download our app'])[1]/preceding::a[3]</value>
-      <webElementGuid>c06c2ed2-8c6f-468c-a960-b5eebd069edd</webElementGuid>
+      <webElementGuid>a73887af-f4be-4995-89fd-b5deaa77cdac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/terms-and-conditions/')]</value>
-      <webElementGuid>edaee24b-5fcc-4d9c-b1e7-7f56211e0dbe</webElementGuid>
+      <webElementGuid>126ff6e0-db4a-4ede-b192-455faf2c729f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/p/a</value>
-      <webElementGuid>36959eeb-23f4-401f-8120-9ea82b9f9559</webElementGuid>
+      <webElementGuid>9aa689f6-915e-42cb-ba40-b436ce4e7b63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -145,6 +145,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/terms-and-conditions/' and @title = 'Terms and conditions' and (text() = 'Terms of Use' or . = 'Terms of Use')]</value>
-      <webElementGuid>f147dae1-764d-4e33-8e4b-c330d6e677ab</webElementGuid>
+      <webElementGuid>a70e1c6d-a8ec-44e6-b2e4-19a56fc7eb3c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

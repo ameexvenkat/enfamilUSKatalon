@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Change Password</name>
+   <tag></tag>
+   <elementGuidId>0662e0fe-0363-4d28-a08c-9b11da1aedc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/button[@aria-label='Change Password']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1b79482b-b4b3-4080-b1bd-bef14f59e11d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-key</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>f1ca7d20-9754-4f45-a5a6-6cb578a10593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slideshow-picker__tab-nav-item</value>
+      <webElementGuid>b0d6bf74-1c4e-4b8c-b8f4-1f94c8aa6e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Password</value>
+      <webElementGuid>13e173b5-3071-46d1-bcc4-175391c4ef3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width page-border-radius&quot;]/div[@class=&quot;content-grid__column my-profile categories-tab categories-tab--centered-container content-grid__column--size-12&quot;]/div[@class=&quot;grid-wrapper slideshow-picker slideshow-picker--mobileDropdownTab&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/ul[@class=&quot;slideshow-picker__tab-nav&quot;]/li[@class=&quot;slideshow-picker__tab-nav-item&quot;]</value>
+      <webElementGuid>06225797-7ffa-42a5-9fa0-b7079a93f62e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div[2]/div/div/ul/li[4]</value>
+      <webElementGuid>6162c042-22ae-4c75-89e4-3a97b1355602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Subscriptions'])[1]/following::li[1]</value>
+      <webElementGuid>64a87a8a-e4f3-4c3e-94cc-e8ca825a4dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Pregnancy and Baby'])[1]/following::li[2]</value>
+      <webElementGuid>19089ee9-96e0-475a-9a66-853e77bb6e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name*'])[1]/preceding::li[1]</value>
+      <webElementGuid>b5b0526c-2f44-4c34-88cb-3e6859a32a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[4]</value>
+      <webElementGuid>3f96a94c-a6af-4640-8d4f-45660e4c8a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Change Password' or . = 'Change Password')]</value>
+      <webElementGuid>f255ffe2-d5d8-4048-905d-eeb47ea1c57b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

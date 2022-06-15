@@ -125,7 +125,7 @@
       <name>City_Invalid_Alert</name>
    </variable>
    <variable>
-      <defaultValue>'California'</defaultValue>
+      <defaultValue>'Indiana'</defaultValue>
       <description></description>
       <id>df63a6af-15e0-4bba-8db2-fb8592b8bdf3</id>
       <masked>false</masked>

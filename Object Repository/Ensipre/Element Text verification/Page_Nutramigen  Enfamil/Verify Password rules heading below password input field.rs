@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify Password rules heading below password input field</name>
+   <tag></tag>
+   <elementGuidId>9dec3cee-2c4e-4686-be99-fd193b4810fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='password-hints__title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.password-hints</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ea9aebe-83d2-4274-8369-39b9194b4ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>password-hints</value>
+      <webElementGuid>1140dff6-7f39-4d94-a7bf-0e0e74afbbc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password must contain:At least 8 charactersA lowercase letterAn uppercase letterA numberA special characterMust not be your email address</value>
+      <webElementGuid>6992e8f6-e7a6-4bbe-ad7f-2aaa8a44bc7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width offers-drive margin-bottom-xxlarge&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;consumer-form&quot;]/div[@class=&quot;consumer-form__form&quot;]/form[@class=&quot;consumer-form__form&quot;]/section[@class=&quot;content-grid content-grid--consumer-form__form-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-6&quot;]/div[@class=&quot;password-wrapper&quot;]/div[@class=&quot;password-hints&quot;]</value>
+      <webElementGuid>4cee97d1-0778-4935-893c-8a961ba2e74a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[7]/div/div/div[2]</value>
+      <webElementGuid>0d3fd61d-5cea-4f6b-9d48-669ca4bb3174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide'])[1]/following::div[1]</value>
+      <webElementGuid>6e6f3bd3-7a78-400a-98d4-b47688d33246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password is required'])[1]/following::div[1]</value>
+      <webElementGuid>63c65377-4654-4585-93a4-db3a406064b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div[2]</value>
+      <webElementGuid>9679c57e-bf57-4445-80f6-8ac025743fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password must contain:At least 8 charactersA lowercase letterAn uppercase letterA numberA special characterMust not be your email address' or . = 'Password must contain:At least 8 charactersA lowercase letterAn uppercase letterA numberA special characterMust not be your email address')]</value>
+      <webElementGuid>2516dfb5-e193-4c9f-90b1-9c101b479338</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

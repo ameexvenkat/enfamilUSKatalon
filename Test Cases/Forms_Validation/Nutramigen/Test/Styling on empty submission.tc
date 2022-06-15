@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Styling on empty submission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbd98ef9-6f3c-4768-9aa3-6609730fc902</testCaseGuid>
+   <variable>
+      <defaultValue>'color'</defaultValue>
+      <description></description>
+      <id>4f6e6f94-507f-42a4-a740-4d969d013025</id>
+      <masked>false</masked>
+      <name>Font_Color</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-size'</defaultValue>
+      <description></description>
+      <id>916044db-b50b-4906-a460-3158afa04b2b</id>
+      <masked>false</masked>
+      <name>Font_Size</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-family'</defaultValue>
+      <description></description>
+      <id>e822e597-1eb2-4785-8036-f02cb432931a</id>
+      <masked>false</masked>
+      <name>Font_Family</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-weight'</defaultValue>
+      <description></description>
+      <id>09e22509-274f-4b06-84f1-274aee68d687</id>
+      <masked>false</masked>
+      <name>Font_Weight</name>
+   </variable>
+   <variable>
+      <defaultValue>'background-color'</defaultValue>
+      <description></description>
+      <id>7d471922-36b8-42ca-ae02-e173af9ffd90</id>
+      <masked>false</masked>
+      <name>BgColor</name>
+   </variable>
+</TestCaseEntity>

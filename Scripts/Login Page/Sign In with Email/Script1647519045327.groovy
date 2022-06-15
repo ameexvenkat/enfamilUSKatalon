@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.STG_Login_Page_URL)
+WebUI.navigateToUrl(GlobalVariable.Login_Account_URL)
 
 WebUI.maximizeWindow()
 
@@ -54,7 +54,7 @@ WebUI.setText(findTestObject('Login Page/Login_Page_functions_check/input_Passwo
 WebUI.click(findTestObject('Login Page/Login_Page_functions_check/button_Sign in'))
 
 WebUI.verifyElementText(findTestObject('Login Page/Login_Page_functions_check/Sorry, unrecognized username or password'), 
-    'Email address and/or password not correct. Have you forgotten your password?')
+    'Sorry, unrecognized username or password. Have you forgotten your password?')
 
 WebUI.comment('Unregistered email submission is verified')
 
@@ -77,7 +77,7 @@ WebUI.setText(findTestObject('Login Page/Login_Page_functions_check/input_Passwo
 WebUI.click(findTestObject('Login Page/Login_Page_functions_check/button_Sign in'))
 
 WebUI.verifyElementText(findTestObject('Login Page/Login_Page_functions_check/Sorry, unrecognized username or password'), 
-    'Email address and/or password not correct. Have you forgotten your password?')
+    'Sorry, unrecognized username or password. Have you forgotten your password?')
 
 WebUI.comment('Valid email and Invalid password submission is verified')
 

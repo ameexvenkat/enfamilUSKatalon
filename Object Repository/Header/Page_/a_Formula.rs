@@ -6,16 +6,16 @@
    <elementGuidId>016a68a9-dfa3-4be1-beac-9339d46efd3a</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/nav/ul/li/ul/li[2]/section/div/div/div/div[3]/div/div/div/div[2]/p/a</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
-         <value>//*[@href = '/products/enfamil-formula-and-nutritional-drink/' and @title = 'Formula' and (text() = 'Formula' or . = 'Formula')]</value>
+         <value>//*[@aria-label = 'Formula']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>a[title=&quot;Formula&quot;]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/nav/ul/li/ul/li[2]/section/div/div/div/div[3]/div/div/div/div[2]/p/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5e7f1e9c-5d14-4731-afe1-667321818d47</webElementGuid>
+      <webElementGuid>879c63ce-8a11-4185-a213-94463bd6e0c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,39 +34,39 @@
       <name>data-udi</name>
       <type>Main</type>
       <value>umb://document/8f5e6f89b0f94c6a970ddd779ba4454e</value>
-      <webElementGuid>a591dd30-ce2f-4ce5-b301-5b9f2928ee26</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/products/enfamil-formula-and-nutritional-drink/</value>
-      <webElementGuid>cfba2118-5e92-40a4-af8a-f149b4439bc1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>Formula</value>
-      <webElementGuid>ad179511-a364-4894-b73e-907111586853</webElementGuid>
+      <webElementGuid>09d8dc29-ed27-46db-95a2-af8e9d30b9c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
+      <name>href</name>
+      <type>Main</type>
+      <value>/products/enfamil-formula-and-nutritional-drink/</value>
+      <webElementGuid>ad0d04a5-00ed-4c76-ba7e-366d2f36e92d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
       <type>Main</type>
       <value>Formula</value>
-      <webElementGuid>c1c351d6-764f-4003-96fd-a8320d65b41a</webElementGuid>
+      <webElementGuid>6972b4ba-a104-4d68-9bea-418bf2187639</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Formula</value>
+      <webElementGuid>50ed2761-bbec-48e7-a834-e166ee2008e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>Formula</value>
-      <webElementGuid>e39fd752-49c4-4312-b8b7-a6fdf32cc7a8</webElementGuid>
+      <webElementGuid>f7678831-1b06-413c-aa1f-ee7e56ceb41d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__bottom&quot;]/div[@class=&quot;wrapper wrapper--main-header__bottom-items&quot;]/div[@class=&quot;main_header__contents&quot;]/nav[@class=&quot;main-nav&quot;]/ul[@class=&quot;main-nav__first-lvl-nav-elements navigation-list&quot;]/li[@class=&quot;main-nav__link-container main-nav__link-container--has-children&quot;]/ul[@class=&quot;main-nav__second-lvl-nav-elements navigation-list sublist--hidden&quot;]/li[@class=&quot;main-nav__second-lvl-link-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column nav-carousel content-grid__column--size-8&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text&quot;]/div[@class=&quot;links-container margin-top-medium&quot;]/div[2]/p[1]/a[1]</value>
-      <webElementGuid>b7482ea7-b383-4416-8cc8-bee8b2e79a1d</webElementGuid>
+      <webElementGuid>45b038db-e505-4f42-ab4b-e6d7638805f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/nav/ul/li/ul/li[2]/section/div/div/div/div[3]/div/div/div/div[2]/p/a</value>
-      <webElementGuid>6a163570-6c58-4518-8136-a84f08197f81</webElementGuid>
+      <webElementGuid>3d9441bf-c5d4-4d90-ab70-7bfb15896d33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Formula')]</value>
-      <webElementGuid>bd0ab605-19d5-43d6-b70e-8efbecbaaee2</webElementGuid>
+      <webElementGuid>01558957-6f9a-49d9-a0d0-c1a9f07e1a7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='BY PRODUCT CATEGORY'])[1]/following::a[1]</value>
-      <webElementGuid>626972d3-cd3a-4444-819f-a629e9ced69f</webElementGuid>
+      <webElementGuid>281024fe-c53a-472b-8224-c4a654eb6220</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Special Dietary Needs'])[1]/following::a[1]</value>
-      <webElementGuid>589976b5-d2d5-4f89-a890-71f78e54fc55</webElementGuid>
+      <webElementGuid>573644fc-fd54-4b9a-a295-141f88bfec3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vitamins &amp; Supplements'])[1]/preceding::a[1]</value>
-      <webElementGuid>ff32fbf2-366d-4ccd-85d4-dd3790154c32</webElementGuid>
+      <webElementGuid>e3bd5329-8cd4-4945-98b0-3b27c431014a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Feeding Accessories'])[1]/preceding::a[2]</value>
-      <webElementGuid>0a77963e-3e5f-4132-bf71-9c2f548f587a</webElementGuid>
+      <webElementGuid>2b27ea8b-8063-4f3d-873a-eb858b7f1036</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Formula']/parent::*</value>
-      <webElementGuid>22564776-b8bd-4965-b501-f6ee15a31637</webElementGuid>
+      <webElementGuid>6ebf9c2e-36f5-469d-b1a1-4d2e3366dab1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/products/enfamil-formula-and-nutritional-drink/')]</value>
-      <webElementGuid>c8b6e141-2412-41f8-8da1-67b03bdb0119</webElementGuid>
+      <webElementGuid>473d8115-fc18-40d0-bdd7-27652247d918</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,7 +146,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/p/a</value>
-      <webElementGuid>8030231e-2d14-496f-ac0d-d9d866bc690d</webElementGuid>
+      <webElementGuid>ffb230e1-e332-45d0-bfcc-0f57bbcdf521</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,6 +154,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/products/enfamil-formula-and-nutritional-drink/' and @title = 'Formula' and (text() = 'Formula' or . = 'Formula')]</value>
-      <webElementGuid>dcf69c29-8252-42d0-8236-ebf499a44f44</webElementGuid>
+      <webElementGuid>424b8452-5d28-4ace-b463-cdf3d668e598</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

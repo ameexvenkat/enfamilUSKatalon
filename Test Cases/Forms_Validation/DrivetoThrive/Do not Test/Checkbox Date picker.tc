@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkbox Date picker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1904775-ad28-4e53-992f-db31c18f0764</testCaseGuid>
+   <variable>
+      <defaultValue>'Not sure'</defaultValue>
+      <description></description>
+      <id>45302253-8734-45b2-8080-1987ed9f4a31</id>
+      <masked>false</masked>
+      <name>Select_WIC_Value</name>
+   </variable>
+   <variable>
+      <defaultValue>'color'</defaultValue>
+      <description></description>
+      <id>d620dade-443b-4337-9a9a-e694a7d71704</id>
+      <masked>false</masked>
+      <name>Font_Color</name>
+   </variable>
+   <variable>
+      <defaultValue>'Wyoming'</defaultValue>
+      <description></description>
+      <id>e2d6f118-6bb2-40ea-abb9-11564a9982f9</id>
+      <masked>false</masked>
+      <name>State_Select_Value</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234567890'</defaultValue>
+      <description></description>
+      <id>4b45847b-e1bd-4d02-ba91-995bca7e7bb7</id>
+      <masked>false</masked>
+      <name>Val_Phone</name>
+   </variable>
+</TestCaseEntity>

@@ -10,15 +10,15 @@
          <value>//input[@placeholder = concat(&quot;Your Child&quot; , &quot;'&quot; , &quot;s Birth Date&quot;)]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='childregisterChildBirthDateField_767']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#childregisterChildBirthDateField_767</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='childregisterChildBirthDateField_767']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>1d7028d3-8f62-4481-9964-d9acdfb146f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,6 +34,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Your Child's Birth Date</value>
+      <webElementGuid>afa5c5b4-1125-4745-8d6b-ef7e5cd502ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--birth-date</value>
+      <webElementGuid>e15e4089-7759-4532-b599-8b3acb614d8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>childregisterChildBirthDateField_767</value>
+      <webElementGuid>75085e29-f10a-4793-93e2-d703c8c0b24c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,6 +58,7 @@
       <name>name</name>
       <type>Main</type>
       <value>childregisterChildBirthDateField</value>
+      <webElementGuid>8f6c60df-8efb-42dd-9684-aae8b7fd00e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>0601435a-924a-4658-9b07-784670450c0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
+      <webElementGuid>f4510f67-9117-4d03-97d1-ca41c799262c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;childregisterChildBirthDateField_767&quot;)</value>
+      <webElementGuid>f5ebca7f-3d64-4aa8-9ece-26ffefab8487</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='childregisterChildBirthDateField_767']</value>
+      <webElementGuid>ee852c45-02ad-46a1-840e-5cccae89e675</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/form/section/div/div[6]/div/div/section/div/div/div/div/div/input</value>
+      <webElementGuid>5cf62bcb-9efb-4fd7-83e2-07621b1d2c05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/section/div/div/div/div/div/input</value>
+      <webElementGuid>63a8977a-ba9c-4e23-ad28-d02ea857f95e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,5 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = concat(&quot;Your Child&quot; , &quot;'&quot; , &quot;s Birth Date&quot;) and @id = 'childregisterChildBirthDateField_767' and @name = 'childregisterChildBirthDateField' and @type = 'text']</value>
+      <webElementGuid>9fa467d1-c094-437d-8097-fada1dcdd06a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

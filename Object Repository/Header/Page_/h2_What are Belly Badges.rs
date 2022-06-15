@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div[2]/h2</value>
+         <value>(//*[@class='title__heading'])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
+      <webElementGuid>409dd152-b939-4ab7-b92b-d58193d17c16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>title__heading</value>
+      <webElementGuid>4507ce9e-264e-48bc-99b4-368399acc77f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>What are Belly Badges™?</value>
+      <webElementGuid>e20ff8ae-35b4-41cd-b991-5f5546598913</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width page-banner hero-asset&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;title&quot;]/h2[@class=&quot;title__heading&quot;]</value>
+      <webElementGuid>cfb0f466-fbfb-49bd-b220-5f354525605d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div[2]/h2</value>
+      <webElementGuid>93249c7f-e371-46d6-b6c9-db4bfb5e9e1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Belly Badges'])[2]/following::h2[1]</value>
+      <webElementGuid>a175705e-fb68-4fc6-acaa-13e408df0c5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='What are Belly Badges™?'])[1]/following::h2[1]</value>
+      <webElementGuid>d9bac6ca-5124-4384-865a-04a3524b3b0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil'])[1]/preceding::h2[1]</value>
+      <webElementGuid>f1dbcf41-01fb-48c0-bfda-4a2872b36f70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Family Beginnings®'])[1]/preceding::h2[1]</value>
+      <webElementGuid>eacc0038-a39c-4766-b29d-2a632eb918c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
+      <webElementGuid>7999a339-6ced-468c-89be-f92c921d089d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,5 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'What are Belly Badges™?' or . = 'What are Belly Badges™?')]</value>
+      <webElementGuid>c5048b6a-de39-4314-8407-652e5a54834f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

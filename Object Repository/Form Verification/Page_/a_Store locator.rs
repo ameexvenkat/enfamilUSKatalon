@@ -10,18 +10,23 @@
          <value>span > a[title=&quot;Store Locator&quot;]</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//a[(text() = 'Store locator.' or . = 'Store locator.')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div[2]/div/div/div/div/p/span/a[2]</value>
+         <value>//a[text() = 'store locator']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>3338b0ac-3dc1-4fc2-a64d-e3c64999ab4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +34,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>noopener</value>
+      <webElementGuid>f8febf89-37e7-4d1f-90c7-d377507915c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,13 +42,15 @@
       <name>data-udi</name>
       <type>Main</type>
       <value>umb://document/91d37e5cf33d45909b5f64abe89df4da</value>
+      <webElementGuid>c0a92183-0418-433a-b765-546aecfea686</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>/store-locator/</value>
+      <webElementGuid>a8a10cf5-c3c1-4b87-a865-c95c252848a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,13 +58,15 @@
       <name>target</name>
       <type>Main</type>
       <value>_blank</value>
+      <webElementGuid>538bb405-3169-46e8-83a2-b2a4d1826b27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>title</name>
       <type>Main</type>
       <value>Store Locator</value>
+      <webElementGuid>aa79d75f-e8bf-45b1-8daa-891642080cbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,6 +74,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Store locator.</value>
+      <webElementGuid>a5672853-38d8-47d6-bbef-a71645534b09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,6 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width contact-us&quot;]/div[@class=&quot;content-grid__column page-banner--text-center no-padding content-grid__column--size-12&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__text&quot;]/div[@class=&quot;content-grid contact-us-content-wrapper&quot;]/div[@class=&quot;contact-us-content&quot;]/p[1]/span[1]/a[2]</value>
+      <webElementGuid>3773c6a6-e78d-452b-8a82-9672809649ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div[2]/div/div/div/div/p/span/a[2]</value>
+      <webElementGuid>1a9c6236-85b5-4308-8aa9-d1f6aa3c18ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +98,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Store locator.')]</value>
+      <webElementGuid>98b00516-4059-429d-80bd-eabaf4594f4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help Center'])[2]/following::a[1]</value>
+      <webElementGuid>03467bbf-1a23-4a2a-9f88-448739efb6e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='meadjohnson.com.'])[1]/preceding::a[1]</value>
+      <webElementGuid>016233ef-ef92-45c3-8a55-4b3d3ed1a072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::a[2]</value>
+      <webElementGuid>19ddd856-56e5-4d4a-a8ba-5b223887e0e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Store locator.']/parent::*</value>
+      <webElementGuid>fb2c756b-b242-474a-998f-bfb23a6d705e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +138,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/store-locator/')])[3]</value>
+      <webElementGuid>5ff35ead-ff3e-4c55-b7ad-0e0fb22ec243</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +146,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
+      <webElementGuid>573f66b4-d721-474c-82bf-eea111420f4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,5 +154,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/store-locator/' and @title = 'Store Locator' and (text() = 'Store locator.' or . = 'Store locator.')]</value>
+      <webElementGuid>653bc102-7a37-4147-8aa2-6102ca8c60a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

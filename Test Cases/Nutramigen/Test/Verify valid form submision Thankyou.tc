@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify valid form submision Thankyou</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7df54bd3-a5e1-4857-bc28-f7c8b41434d4</testCaseGuid>
+   <variable>
+      <defaultValue>'Mithun_-\'.'</defaultValue>
+      <description></description>
+      <id>f62e8893-85f0-430c-b0dc-b28aa6a1b45c</id>
+      <masked>false</masked>
+      <name>Val_First_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'color'</defaultValue>
+      <description></description>
+      <id>06e70f2f-5a32-4145-a55a-ce9d3f6f5746</id>
+      <masked>false</masked>
+      <name>Font_Color</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-size'</defaultValue>
+      <description></description>
+      <id>99c074ad-174d-47f3-8f0c-6af0e4db5ffe</id>
+      <masked>false</masked>
+      <name>Font_Size</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-family'</defaultValue>
+      <description></description>
+      <id>19611bba-8bad-4f8a-887a-106af3217009</id>
+      <masked>false</masked>
+      <name>Font_Family</name>
+   </variable>
+   <variable>
+      <defaultValue>'font-weight'</defaultValue>
+      <description></description>
+      <id>1acdc8fc-b3ea-4ac1-b450-274d9a2c7f76</id>
+      <masked>false</masked>
+      <name>Font_Weight</name>
+   </variable>
+   <variable>
+      <defaultValue>'First Name contains invalid characters.'</defaultValue>
+      <description></description>
+      <id>1cdce25e-121e-484e-b29b-40404f64d706</id>
+      <masked>false</masked>
+      <name>First_Name_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'First Name field is required.'</defaultValue>
+      <description></description>
+      <id>cd350dbb-ecb9-4105-893c-1f4fe5eaf71b</id>
+      <masked>false</masked>
+      <name>First_Name_Empty_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'First Name'</defaultValue>
+      <description></description>
+      <id>d309531f-316a-4139-a836-cb640a27c5b6</id>
+      <masked>false</masked>
+      <name>Float_First_Name_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'UAT'</defaultValue>
+      <description></description>
+      <id>890d2b53-8e2b-452c-bb93-ba694ef5b13a</id>
+      <masked>false</masked>
+      <name>Val_Last_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'mithun.uat1306_nutra06@gmail.com'</defaultValue>
+      <description></description>
+      <id>de81b188-5668-49c6-87d2-7508f45f4c16</id>
+      <masked>false</masked>
+      <name>Val_Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Last Name'</defaultValue>
+      <description></description>
+      <id>62985813-d468-4101-bdb4-4782ee9f0be0</id>
+      <masked>false</masked>
+      <name>Float_Last_Name_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'Email'</defaultValue>
+      <description></description>
+      <id>57d438f9-efad-4dbc-9ca1-91b5e72a2237</id>
+      <masked>false</masked>
+      <name>Float_Email_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'123 #()_-;\',./ Street address'</defaultValue>
+      <description></description>
+      <id>805c52df-5c27-4be9-b794-776c791637f2</id>
+      <masked>false</masked>
+      <name>Val_Street_Add</name>
+   </variable>
+   <variable>
+      <defaultValue>'Street address'</defaultValue>
+      <description></description>
+      <id>58a61d97-9526-4757-992f-58a815e1c607</id>
+      <masked>false</masked>
+      <name>Float_Street_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'Unit 123 #()_-;\',./ address'</defaultValue>
+      <description></description>
+      <id>54d68d3b-11d2-4587-91b1-7ea68c009a80</id>
+      <masked>false</masked>
+      <name>Val_Unit_Add</name>
+   </variable>
+   <variable>
+      <defaultValue>'Unit/Suite/Apt (optional)'</defaultValue>
+      <description></description>
+      <id>b821a7b0-62ec-4613-b29c-14a19bc5456d</id>
+      <masked>false</masked>
+      <name>Float_Unit_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'123 #()_-;\',./ City address'</defaultValue>
+      <description></description>
+      <id>e681ed7f-094f-4d87-b321-bf5dec5a9cce</id>
+      <masked>false</masked>
+      <name>Val_City_Add</name>
+   </variable>
+   <variable>
+      <defaultValue>'City'</defaultValue>
+      <description></description>
+      <id>8341c1ea-1e1e-409a-b11b-e4169f5fb47a</id>
+      <masked>false</masked>
+      <name>Float_City_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'State'</defaultValue>
+      <description></description>
+      <id>7f9d596a-bf70-4c24-8b82-12289ea351d4</id>
+      <masked>false</masked>
+      <name>Float_State_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>aa809dab-1572-4e88-86c2-898262117fe9</id>
+      <masked>false</masked>
+      <name>Val_Zip_Code</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zip code'</defaultValue>
+      <description></description>
+      <id>8f1f3f52-b868-4529-8ff1-8bb261f64833</id>
+      <masked>false</masked>
+      <name>Float_Zip_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ameexusa@1'</defaultValue>
+      <description></description>
+      <id>1af6869d-dfa4-4063-9700-b6bb30159074</id>
+      <masked>false</masked>
+      <name>Val_Pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password*'</defaultValue>
+      <description></description>
+      <id>44bcd7bf-1371-4944-8edd-eb60d32a22db</id>
+      <masked>false</masked>
+      <name>Float_Pass_Label</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234567890'</defaultValue>
+      <description></description>
+      <id>30c1b316-e696-4782-9cd4-4057ce67bf7c</id>
+      <masked>false</masked>
+      <name>Val_Phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mother'</defaultValue>
+      <description></description>
+      <id>cf5de0ca-c24e-4af5-8766-5e05d07e0980</id>
+      <masked>false</masked>
+      <name>Select_Relation_Value</name>
+   </variable>
+   <variable>
+      <defaultValue>'Breast milk and formula'</defaultValue>
+      <description></description>
+      <id>a37a4661-0126-45cb-885b-b26c3763e1ac</id>
+      <masked>false</masked>
+      <name>Select_Feeding_Value</name>
+   </variable>
+   <variable>
+      <defaultValue>'Not sure'</defaultValue>
+      <description></description>
+      <id>2d48c397-7615-46be-81d2-a84fb80dfa1d</id>
+      <masked>false</masked>
+      <name>Select_WIC_Value</name>
+   </variable>
+   <variable>
+      <defaultValue>'Last Name contains invalid characters.'</defaultValue>
+      <description></description>
+      <id>7e414c82-413e-40f4-a2b5-9688e0a1c661</id>
+      <masked>false</masked>
+      <name>Last_Name_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Last Name field is required.'</defaultValue>
+      <description></description>
+      <id>3ab36a20-5078-4dca-b5f6-2142fcc49eac</id>
+      <masked>false</masked>
+      <name>Last_Name_Empty_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Email field is required.'</defaultValue>
+      <description></description>
+      <id>7dcf27d1-0ac8-47f7-be18-909f5e4b1671</id>
+      <masked>false</masked>
+      <name>Email_Empty_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Street address field is required.'</defaultValue>
+      <description></description>
+      <id>e2732a62-ef80-447d-9e3c-d91b7a3b85cd</id>
+      <masked>false</masked>
+      <name>Street_Address_Empty_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'City field is required.'</defaultValue>
+      <description></description>
+      <id>b79cdaec-d6a6-4163-a8c3-e1e4bc4d3967</id>
+      <masked>false</masked>
+      <name>City_Empty_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'State field is required.'</defaultValue>
+      <description></description>
+      <id>c7417545-1e86-4690-b719-8d5b763dac70</id>
+      <masked>false</masked>
+      <name>State_Not_Selected_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zip code field is required.'</defaultValue>
+      <description></description>
+      <id>8da32d6e-00b4-4f06-a589-4036b6474a86</id>
+      <masked>false</masked>
+      <name>Zip_Code_Empty_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password is required'</defaultValue>
+      <description></description>
+      <id>f0cca8f1-5047-464a-9bd8-995fe08dfbca</id>
+      <masked>false</masked>
+      <name>Password_Empty_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Baby\'s Due Date or Birth Date field is required.'</defaultValue>
+      <description></description>
+      <id>0828655c-78c9-478b-8019-297254670c2f</id>
+      <masked>false</masked>
+      <name>DOB_Empty_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Relationship to child field is required.'</defaultValue>
+      <description></description>
+      <id>190f2ca9-e46d-42d1-baf6-f840de553f44</id>
+      <masked>false</masked>
+      <name>Relationship_Not_Selected_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'WIC Status field is required.'</defaultValue>
+      <description></description>
+      <id>1cec956b-8b93-4a99-bcb7-9d590ea78645</id>
+      <masked>false</masked>
+      <name>WIC_Not_Selected_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Email field is invalid.'</defaultValue>
+      <description></description>
+      <id>aeb0cf9f-c4e9-4b4f-90d6-1ed83002b5db</id>
+      <masked>false</masked>
+      <name>Email_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Street address field has invalid characters.'</defaultValue>
+      <description></description>
+      <id>e40b5dd5-bdef-4ab6-9a2e-110c34fab82b</id>
+      <masked>false</masked>
+      <name>Street_Address_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Unit/Suite/Apt field has invalid characters.'</defaultValue>
+      <description></description>
+      <id>065b62d6-6425-4caf-8fb4-b70ee72d1dea</id>
+      <masked>false</masked>
+      <name>Unit_Suite_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'City field has invalid characters.'</defaultValue>
+      <description></description>
+      <id>f5d1f0c5-561c-4fa7-887a-427d0a16e070</id>
+      <masked>false</masked>
+      <name>City_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'New York'</defaultValue>
+      <description></description>
+      <id>3f18ac2c-3204-46b6-9a75-5593eeb2141c</id>
+      <masked>false</masked>
+      <name>State_Select_Value</name>
+   </variable>
+   <variable>
+      <defaultValue>'Invalid Zip code Format.'</defaultValue>
+      <description></description>
+      <id>e9190db2-5f2a-4f80-b2d5-6e242de8515a</id>
+      <masked>false</masked>
+      <name>Zip_Code_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Your password isn\'t strong enough.'</defaultValue>
+      <description></description>
+      <id>82cba3df-3b5e-4e9f-aa08-7772688897b1</id>
+      <masked>false</masked>
+      <name>Password_Not_Matching_Rules</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7623394-4a5e-48ce-a5d0-aff62c597e21</id>
+      <masked>false</masked>
+      <name>Mobile_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45b9f870-d828-4611-9595-08481f58fc2f</id>
+      <masked>false</masked>
+      <name>DOB_Invalid_Alert</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jun 04 2022'</defaultValue>
+      <description></description>
+      <id>43ee52fc-d94e-48c5-94f9-5fe7473a7df7</id>
+      <masked>false</masked>
+      <name>Dob_Select</name>
+   </variable>
+   <variable>
+      <defaultValue>'value'</defaultValue>
+      <description></description>
+      <id>36cee538-1e45-411c-9665-ad3c3ee2a235</id>
+      <masked>false</masked>
+      <name>Dob_Selected</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>06c27d41-dac8-4542-9a09-37316c844fd7</id>
+      <masked>false</masked>
+      <name>Checkbox_to_be_Checked</name>
+   </variable>
+   <variable>
+      <defaultValue>'NUTRAMIGEN SAVINGS AND SUPPORT PROGRAM'</defaultValue>
+      <description></description>
+      <id>99b916f0-236d-45e5-a497-5f8914826348</id>
+      <masked>false</masked>
+      <name>Thank_Banner_Eyebrow</name>
+   </variable>
+   <variable>
+      <defaultValue>'Welcome to Nutramigen Savings and Support'</defaultValue>
+      <description></description>
+      <id>2cc2574a-7039-47f7-a2ad-465375d9411b</id>
+      <masked>false</masked>
+      <name>Thank_Banner_Message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Featured Articles'</defaultValue>
+      <description></description>
+      <id>f92fa121-4529-4d56-924b-f8aa43a8f9ca</id>
+      <masked>false</masked>
+      <name>Thank_Featured_Head</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nutramigen Hypoallergenic Baby Formula'</defaultValue>
+      <description></description>
+      <id>9b2dd4d5-f3e2-41dd-b557-9dc062db31fb</id>
+      <masked>false</masked>
+      <name>Thank_Product_Banner_Heading</name>
+   </variable>
+   <variable>
+      <defaultValue>'Shop now'</defaultValue>
+      <description></description>
+      <id>963d2cac-baa5-465e-9468-dd6c651ed808</id>
+      <masked>false</masked>
+      <name>Thank_Product_Banner_CTA</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/nutramigen-savings-and-support-program/thank-you/'</defaultValue>
+      <description></description>
+      <id>02369ae9-f14b-4be1-a715-3b86943e6854</id>
+      <masked>false</masked>
+      <name>Thank_You_Page_URL_Input</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/products/nutramigen-powder-infant-formula/powder-can-12-6-oz-can/'</defaultValue>
+      <description></description>
+      <id>6f40e64d-f980-4548-976d-570ea1473b5f</id>
+      <masked>false</masked>
+      <name>Thank_Prod_Banner_CTA_URL_Input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Get more with the Enfamil Family Beginnings ® App.'</defaultValue>
+      <description></description>
+      <id>d8d0c1e1-7b95-4a4d-b6f5-79a4d23dbadc</id>
+      <masked>false</masked>
+      <name>Thank_App_Carousel_Head</name>
+   </variable>
+   <variable>
+      <defaultValue>'The perfect app for new and expecting moms. Save on Enfamil products and more'</defaultValue>
+      <description></description>
+      <id>7d06a512-f0c6-4360-be7e-5a0e961a212f</id>
+      <masked>false</masked>
+      <name>Thank_App_Carousel_Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Enfamil Shop'</defaultValue>
+      <description></description>
+      <id>55d1290d-36e5-40a2-9c1d-bd170af09e76</id>
+      <masked>false</masked>
+      <name>Thank_Shop_Section_Heading</name>
+   </variable>
+   <variable>
+      <defaultValue>'Enter code WELCOME at checkout for 10% off your order.'</defaultValue>
+      <description></description>
+      <id>d6c836a6-33b1-4a4d-8733-ad2250aea88d</id>
+      <masked>false</masked>
+      <name>Thank_Shop_Section_Description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Shop now'</defaultValue>
+      <description></description>
+      <id>26f0f220-ec77-4c3d-851e-e4355513d0c5</id>
+      <masked>false</masked>
+      <name>Thank_Shop_Section_CTA</name>
+   </variable>
+   <variable>
+      <defaultValue>'You get peace of mind when you shop with us'</defaultValue>
+      <description></description>
+      <id>6ceff239-a64b-4ca1-8e19-ff6ac71a445d</id>
+      <masked>false</masked>
+      <name>Thank_Guarantee_Heading</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/products/'</defaultValue>
+      <description></description>
+      <id>d7fd52f8-0456-4ca2-bdd6-b478b81c64a8</id>
+      <masked>false</masked>
+      <name>Thank_Shop_Section_CTA_URL_Input</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/account/profile/'</defaultValue>
+      <description></description>
+      <id>bbf68fdd-a386-4ebf-ad16-42636cd20169</id>
+      <masked>false</masked>
+      <name>My_Profile_URL_Input</name>
+   </variable>
+   <variable>
+      <defaultValue>'Looks like you’ve already enrolled previously. Please login and update your preferences.'</defaultValue>
+      <description></description>
+      <id>52a8e892-b893-428d-889a-dd7f42ca18f4</id>
+      <masked>false</masked>
+      <name>Multi_Err_Msg</name>
+   </variable>
+</TestCaseEntity>

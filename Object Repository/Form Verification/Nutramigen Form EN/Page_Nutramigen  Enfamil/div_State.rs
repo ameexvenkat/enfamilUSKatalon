@@ -15,10 +15,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='f9acd18e-7be3-472a-9f63-3affc22b70db']/div/div/div</value>
+         <value>//div[(text() = 'State' or . = 'State*')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>816a97f0-3209-4b5c-95ce-9a131773ab3c</webElementGuid>
+      <webElementGuid>a4759908-8e02-4b1e-a669-9db20676e893</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>single-select__placeholder css-1wa3eu0-placeholder</value>
-      <webElementGuid>d0dffb40-191b-4bfb-ae3f-0db16078c11c</webElementGuid>
+      <webElementGuid>11ed4d22-a62f-4e19-bacb-ab7d81d52925</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>State</value>
-      <webElementGuid>53a29ae4-4aa1-4418-856f-f8444092ea87</webElementGuid>
+      <webElementGuid>d1fd57f7-f8c5-4646-a0da-3b4ddea71035</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;f9acd18e-7be3-472a-9f63-3affc22b70db&quot;)/div[@class=&quot;single-select__control single-select__control--is-focused css-1pahdxg-control&quot;]/div[@class=&quot;single-select__value-container css-1hwfws3&quot;]/div[@class=&quot;single-select__placeholder css-1wa3eu0-placeholder&quot;]</value>
-      <webElementGuid>cd4883ad-3269-49f5-ba98-e3c7c0deaa8c</webElementGuid>
+      <webElementGuid>b000011f-3512-488a-be4a-81e0b1a5b2b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='f9acd18e-7be3-472a-9f63-3affc22b70db']/div/div/div</value>
-      <webElementGuid>d259cc7a-c422-49cf-bb89-a8223fda624d</webElementGuid>
+      <webElementGuid>db9b03fb-e49a-46ae-ad6b-4d2c5f7477bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[4]</value>
-      <webElementGuid>df822822-7808-48da-bad9-c3ed3e08191b</webElementGuid>
+      <webElementGuid>492807d5-b956-4925-b8b4-2a20386ac21d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='City field is required.'])[1]/following::div[6]</value>
-      <webElementGuid>b297cc2f-eead-4d39-af5d-27cd149bf3ce</webElementGuid>
+      <webElementGuid>e70a7e85-74c4-47f5-921d-6577ee7735e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip code'])[1]/preceding::div[6]</value>
-      <webElementGuid>d9956cf8-ee71-4d8f-8b26-1db490a85d86</webElementGuid>
+      <webElementGuid>ccc5141b-4df2-4798-b72b-de40b5d9cca8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country Code'])[1]/preceding::div[8]</value>
-      <webElementGuid>d9515709-c3d9-4936-81b5-18901bf5d820</webElementGuid>
+      <webElementGuid>5c4f19c7-f929-4c16-8dfa-5b50afdbace2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>84e97ffb-6be3-4a93-9163-ed4196b97433</webElementGuid>
+      <webElementGuid>ab56c728-fc86-49cc-88ef-3df4c2675859</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'State' or . = 'State')]</value>
-      <webElementGuid>7e397eb0-a6d5-4cef-905a-6f982f0e5343</webElementGuid>
+      <webElementGuid>850e7352-d54d-4775-b6b3-287b27c4bdb0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

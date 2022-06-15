@@ -6,12 +6,12 @@
    <elementGuidId>96d3e35f-e50c-4ab1-8458-b9af3194a7ad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.search-box__btn</value>
+         <key>XPATH</key>
+         <value>//div[@role='combobox']/following-sibling::button[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <key>CSS</key>
+         <value>button.search-box__btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>2c4a66c6-9b71-496c-9696-c29e485e5b56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
+      <webElementGuid>356b7cf4-701e-4c90-82cc-7cf3aff54a43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Search submit</value>
+      <webElementGuid>f888d7ac-4652-4e24-9ef1-5498a6f19061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>search-box__btn</value>
+      <webElementGuid>f5976de5-93db-408e-bf94-9dd7584667df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search submit</value>
+      <webElementGuid>a0ec1149-731e-4c58-ab7b-05d2731f5df7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__bottom&quot;]/div[@class=&quot;wrapper wrapper--main-header__bottom-items&quot;]/div[@class=&quot;main_header__contents&quot;]/div[@class=&quot;search-box search-box--open&quot;]/div[@class=&quot;search-box__overlay&quot;]/div[@class=&quot;seach-box__overlay-contents&quot;]/div[@class=&quot;search-box__form-suggestions&quot;]/button[@class=&quot;search-box__btn&quot;]</value>
+      <webElementGuid>395bf9df-77b2-41c7-88b2-1758f99ba2f7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
+      <webElementGuid>9f6f813d-7023-4942-a93f-cd18d993a96a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>7ef2ceea-cb2e-460a-b622-757069a2e88a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='sensitive'])[1]/following::button[1]</value>
+      <webElementGuid>d961cd9f-37b6-42fa-8e5d-b03fef13c418</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='enfamil'])[6]/following::button[1]</value>
+      <webElementGuid>1d4255b3-8228-4726-8a28-0739231f52d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle search box'])[2]/preceding::button[1]</value>
+      <webElementGuid>edc28b14-d09b-4c4e-8410-3476b93393c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/button</value>
+      <webElementGuid>92daa1c2-8ad4-4025-84a1-6c879e31c589</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,5 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Search submit' or . = 'Search submit')]</value>
+      <webElementGuid>c42d4372-bc28-48d2-9d71-a77e2bde7791</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

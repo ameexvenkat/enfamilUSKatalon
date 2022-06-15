@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.STG_Login_Page_URL)
+WebUI.navigateToUrl(GlobalVariable.Login_Account_URL)
 
 WebUI.maximizeWindow()
 
-WebUI.verifyElementText(findTestObject('Login Page/Google Sign In/Registered/Page_Sign in  Enfamil US/h1_Sign In'), 'Sign  In')
+WebUI.verifyElementText(findTestObject('Login Page/Google Sign In/Registered/Page_Sign in  Enfamil US/h1_Sign In'), 'Sign In')
 
 if (true) {
     WebUI.verifyElementPresent(findTestObject('Cookie floater/Cookies pop up'), 0)
@@ -60,7 +60,7 @@ WebUI.click(findTestObject('Buttons/span_Log out'))
 
 WebUI.delay(3)
 
-WebUI.verifyElementText(findTestObject('Login Page/Google Sign In/Registered/Page_Sign in  Enfamil US/h1_Sign In'), 'Sign  In')
+WebUI.verifyElementText(findTestObject('Login Page/Google Sign In/Registered/Page_Sign in  Enfamil US/h1_Sign In'), 'Sign In')
 
 WebUI.closeBrowser()
 

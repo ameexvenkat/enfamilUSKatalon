@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Date Picker</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>450ea5b6-8024-4706-8cb7-73b735417e86</testCaseGuid>
+   <variable>
+      <defaultValue>'aria-label'</defaultValue>
+      <description></description>
+      <id>277c16fc-fb3b-4a41-8462-f4f2860664d8</id>
+      <masked>false</masked>
+      <name>InVal_Dob_Range</name>
+   </variable>
+   <variable>
+      <defaultValue>'aria-label'</defaultValue>
+      <description></description>
+      <id>55cc2ece-8b3c-41ff-b3ee-b103ff17f856</id>
+      <masked>false</masked>
+      <name>Val_Dob_Range</name>
+   </variable>
+   <variable>
+      <defaultValue>'aria-label'</defaultValue>
+      <description></description>
+      <id>4f490f94-c8f8-4044-bb93-c5991f66ce70</id>
+      <masked>false</masked>
+      <name>Active_Dob_Highlighted</name>
+   </variable>
+   <variable>
+      <defaultValue>'Apr 20 2022'</defaultValue>
+      <description></description>
+      <id>c1686c11-d1dd-475b-9b21-001ce90740a9</id>
+      <masked>false</masked>
+      <name>Dob_Select</name>
+   </variable>
+   <variable>
+      <defaultValue>'value'</defaultValue>
+      <description></description>
+      <id>d8f88d24-04d4-47b0-ad1f-d11685222b68</id>
+      <masked>false</masked>
+      <name>Dob_Selected</name>
+   </variable>
+   <variable>
+      <defaultValue>'Not sure'</defaultValue>
+      <description></description>
+      <id>acb0ac94-9d8e-4a99-857d-dc0842c1a5f8</id>
+      <masked>false</masked>
+      <name>Select_WIC_Value</name>
+   </variable>
+   <variable>
+      <defaultValue>'color'</defaultValue>
+      <description></description>
+      <id>64c16216-8c1f-4586-867c-4205eed14762</id>
+      <masked>false</masked>
+      <name>Font_Color</name>
+   </variable>
+</TestCaseEntity>

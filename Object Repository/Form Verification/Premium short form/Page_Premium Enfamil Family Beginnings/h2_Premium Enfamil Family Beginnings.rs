@@ -6,15 +6,15 @@
    <elementGuidId>8b0585eb-c3a0-4f71-abd4-8d2006ea06d8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//h1[(text() = 'Premium Enfamil Family Beginnings®' or . = 'Premium Enfamil Family Beginnings®')]</value>
+         <key>XPATH</key>
+         <value>//div[@class='carousel-item__content-header-wrapper']//*[text() = 'Premium Enfamil Family Beginnings®']</value>
       </entry>
       <entry>
          <key>CSS</key>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//h2[(text() = 'Premium Enfamil Family Beginnings®' or . = 'Premium Enfamil Family Beginnings®')]</value>
+         <key>BASIC</key>
+         <value>//h1[(text() = 'Premium Enfamil Family Beginnings®' or . = 'Premium Enfamil Family Beginnings®')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>ce395806-e4f1-4ff6-8e82-6b3ec8d2c5ab</webElementGuid>
+      <webElementGuid>c8cd06c9-5307-460f-a662-6289e042eb48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>carousel-item__content-header  </value>
-      <webElementGuid>3c007f7a-a64d-443c-8418-9d1862ec0c4f</webElementGuid>
+      <webElementGuid>57bf6407-9124-4dad-addf-a402477021e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Premium Enfamil Family Beginnings®</value>
-      <webElementGuid>b27450ef-4a36-4654-8275-7ebff56bd6c1</webElementGuid>
+      <webElementGuid>ebb33c2a-a5e9-4872-87ab-6526f82177c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width premium page-banner optimize-experiment&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-item carousel-item--text-only carousel-item--col&quot;]/div[@class=&quot;carousel-item__content-wrapper carousel-item__content-wrapper--above&quot;]/div[@class=&quot;carousel-item__content&quot;]/div[@class=&quot;carousel-item__content-header-wrapper&quot;]/h2[@class=&quot;carousel-item__content-header&quot;]</value>
-      <webElementGuid>47d9e9bc-3600-4dd6-836a-405c25f3ebb5</webElementGuid>
+      <webElementGuid>b5736489-b6d5-4c5f-be3a-57d6828ed077</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/div/div/div/div/h2</value>
-      <webElementGuid>a1a232ef-8bcc-4a4c-a2c7-8602801884e2</webElementGuid>
+      <webElementGuid>8d3ede5f-15cc-44f9-8583-f940edad7a89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil Family Beginnings'])[1]/following::h2[1]</value>
-      <webElementGuid>ab3067a6-b76c-47f6-ad51-104318d36e46</webElementGuid>
+      <webElementGuid>8fcc339a-fb60-4a52-82e1-5a8ce1bc6e09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Premium Enfamil Family Beginnings'])[1]/following::h2[1]</value>
-      <webElementGuid>b29c4d73-0a05-4ba5-83ab-59e739657909</webElementGuid>
+      <webElementGuid>7c164a04-1ef5-40c6-bf07-557a7f29d685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Premium now'])[1]/preceding::h2[1]</value>
-      <webElementGuid>9ba2e145-90be-4168-86f2-0f59821dd15e</webElementGuid>
+      <webElementGuid>22b090ef-1bac-4f72-945a-f3be00bf3624</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Premium for $39.99 and get guaranteed $700 in value including these exclusive benefits:'])[1]/preceding::h2[1]</value>
-      <webElementGuid>913b8876-1e1e-414d-9dcb-f084b807ae93</webElementGuid>
+      <webElementGuid>f89134a5-b188-4888-8366-648bfc7034f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h2</value>
-      <webElementGuid>3a216b95-6a9f-4cc8-809b-4252f5211289</webElementGuid>
+      <webElementGuid>7ca22d0c-d346-4ddf-a542-0ef8a3d93fcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Premium Enfamil Family Beginnings®' or . = 'Premium Enfamil Family Beginnings®')]</value>
-      <webElementGuid>ba012acf-bd37-4355-ab35-56956d613ca8</webElementGuid>
+      <webElementGuid>e44787b6-8a77-4cb4-8490-6c18df28d45d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

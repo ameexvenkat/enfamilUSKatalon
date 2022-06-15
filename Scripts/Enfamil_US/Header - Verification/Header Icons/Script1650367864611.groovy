@@ -164,7 +164,9 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Header/Page_/button
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Header/Page_/button_Toggle search box'))
 
-WebUI.click(findTestObject('Header/Page_/button_Toggle search box'))
+WebUI.enhancedClick(findTestObject('Header/Page_/button_Toggle search box'))
+
+WebUI.delay(5)
 
 WebUI.setText(findTestObject('Object Repository/Header/Page_/input_Toggle search box_react-autosuggest___4dfc55'), 'enfamil')
 
@@ -172,26 +174,13 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_/span_3
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_/span_enfamil'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_/button_Toggle search box'), 0)
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_/button_Search submit'), 0)
 
-WebUI.click(findTestObject('Object Repository/Header/Page_/button_Toggle search box'))
+WebUI.click(findTestObject('Object Repository/Header/Page_/button_Search submit'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Header/Page_/button_Toggle search box_cart-tooltip-trigg_c05b76'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Your Shopping Cart  DEV Enfamil US/p_Your cart is currently empty'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Header/Page_Your Shopping Cart  DEV Enfamil US/p_Your cart is currently empty'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Your Shopping Cart  DEV Enfamil US/a_Continue shopping'), 
-    0)
-
-WebUI.click(findTestObject('Object Repository/Header/Page_Your Shopping Cart  DEV Enfamil US/img_Menu_lazyloaded'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_Toggle search box_cart-tooltip-trigg_c05b76 (1)'), 
-    0)
+WebUI.delay(7)
 
 WebUI.closeBrowser()
 

@@ -74,12 +74,10 @@ WebUI.scrollToElement(findTestObject('Nutramigen/Element Text verification/Page_
     0)
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for address fields'), 
-    '''2. Enter your address.
-You may receive some gifts closer to your baby’s due date.''')
+    '2. Enter your address.\nYou may receive some gifts closer to your baby’s due date.')
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 for address field'), 
-    '''2. Enter your address.
-You may receive some gifts closer to your baby’s due date.''')
+    '2. Enter your address.\nYou may receive some gifts closer to your baby’s due date.')
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify Street address placeholder text for input field'), 
     '')
@@ -90,8 +88,14 @@ WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Pag
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify City placeholder text for input field'), 
     '')
 
-WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify State placeholder text for dropdown field'), 
-    'State')
+State_Placeholder = WebUI.getAttribute(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify State placeholder text for dropdown field'), 
+    'Placeholder')
+
+if (State_Placeholder == 'State') {
+    println('Placeholder text for State is Correct')
+} else {
+    println('Placeholder text for State is NOT CORRECT')
+}
 
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify Zipcode placeholder text for input field'), 
     '')
@@ -168,8 +172,14 @@ WebUI.scrollToElement(findTestObject('Nutramigen/Element Text verification/Page_
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label for Relationship to Child field'), 
     Label_Relationship)
 
-WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify Relationship to Child placeholder text for dropdown field'), 
-    'Select one')
+Relationship_Placeholder = WebUI.getAttribute(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify Relationship to Child placeholder text for dropdown field'), 
+    'Placeholder')
+
+if (Relationship_Placeholder == 'Select one') {
+    println('Relationship to Child placeholder text is correct')
+} else {
+    println('Relationship to Child placeholder text is NOT CORRECT')
+}
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify Relationship to Child placeholder text for dropdown field'))
 
@@ -204,8 +214,14 @@ WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Pag
 WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify label 1 for How are you currently feeding your little one'), 
     Label_Feed_1)
 
-WebUI.verifyElementText(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'), 
-    'Select one')
+Feeding_Placeholder = WebUI.getAttribute(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'), 
+    'Placeholder')
+
+if (Feeding_Placeholder == 'Select one') {
+    println('Placeholder text of Feeding Method is correct')
+} else {
+    println('Placeholder text for Feeding Method is NOT CORRECT')
+}
 
 WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify feeding method placeholder text for dropdown field'))
 

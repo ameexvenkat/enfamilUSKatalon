@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
+WebUI.navigateToUrl(GlobalVariable.HomePage)
 
 WebUI.maximizeWindow()
 

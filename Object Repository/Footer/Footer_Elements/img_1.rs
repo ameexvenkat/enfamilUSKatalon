@@ -6,12 +6,12 @@
    <elementGuidId>2922c991-95e1-49b5-9f7e-b8eddf5beca4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.space-right.link > img</value>
+         <key>XPATH</key>
+         <value>//*[@class='space-right link']/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/footer/div/section/div/div/div[2]/div/div/div/div[2]/a/img</value>
+         <key>CSS</key>
+         <value>a.space-right.link > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
+      <webElementGuid>3b3e8b04-7238-4164-b47e-de9147ececa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://d2jiwtuosjkcsj.cloudfront.net/media/cache/0/0/a/4/2/c/00a42ce4ac118af94c43f6c21db22d2160787324.png</value>
+      <webElementGuid>7619f805-5a2b-4077-9484-0c3311c636de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>height</name>
       <type>Main</type>
       <value>47</value>
+      <webElementGuid>0ca826af-1504-4f13-8a9a-320f6112a43b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>width</name>
       <type>Main</type>
       <value>140</value>
+      <webElementGuid>bd96a014-d40e-46ac-b802-b3fb4d607b8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/footer[@class=&quot;main-footer&quot;]/div[@class=&quot;page-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row main-footer__main main-footer__order hide-mobile&quot;]/div[@class=&quot;content-grid__column main-footer__download  content-grid__column--size-4&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte-wrapper__components&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__component rte__component--componentMobileAppIcon&quot;]/a[@class=&quot;space-right link&quot;]/img[1]</value>
+      <webElementGuid>f9b82276-f294-4173-bb8e-1eb30f5ba62a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/footer/div/section/div/div/div[2]/div/div/div/div[2]/a/img</value>
+      <webElementGuid>d5e994c2-48e2-42ff-8159-09ae39a7978d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/0/0/a/4/2/c/00a42ce4ac118af94c43f6c21db22d2160787324.png')]</value>
+      <webElementGuid>39fda226-0dfa-4107-9c9d-39e0d61462b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a/img</value>
+      <webElementGuid>bacb2b06-e3e7-4716-aa1c-f0d6b250cc6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/0/0/a/4/2/c/00a42ce4ac118af94c43f6c21db22d2160787324.png']</value>
+      <webElementGuid>91c244e2-a49f-4eba-ab39-78bdfc856586</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,19 +6,19 @@
    <elementGuidId>9a939cfc-12dd-4131-9de8-9bec0847ba37</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//button[@aria-label = 'Open cart']</value>
+         <key>XPATH</key>
+         <value>//div[@class = 'cart-tooltip-trigger']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.cart-tooltip-trigger__cart</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[11]</value>
+         <key>BASIC</key>
+         <value>//button[@aria-label = 'Open cart']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>7be694f7-87ab-4193-809e-195b150fb116</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>da3b53e4-25ea-4889-a38e-43fc69182b1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,6 +42,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Open cart</value>
+      <webElementGuid>4e59c082-7bef-42e1-abb1-678780c2ba53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cart-tooltip-trigger__cart</value>
+      <webElementGuid>f583f5e9-e424-4f06-9971-62ae1931f787</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,6 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__bottom&quot;]/div[@class=&quot;wrapper wrapper--main-header__bottom-items&quot;]/div[@class=&quot;main_header__contents&quot;]/div[@class=&quot;cart-tooltip-trigger&quot;]/button[@class=&quot;cart-tooltip-trigger__cart&quot;]</value>
+      <webElementGuid>12945bd1-f1ab-4937-879a-885b67a172f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,6 +66,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>61baf945-279b-455e-a4e6-85cc226e461c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/div[3]/button</value>
+      <webElementGuid>7e4ecb20-225c-48da-8e41-6bac6ca0371e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
+      <webElementGuid>80a9d8a2-2b56-452c-9624-537ed7cc9bce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,5 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
+      <webElementGuid>5b51ba40-604d-44ad-a856-1e78bfd96678</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

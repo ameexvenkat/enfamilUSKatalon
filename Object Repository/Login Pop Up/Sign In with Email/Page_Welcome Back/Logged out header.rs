@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Logged out header</name>
+   <tag></tag>
+   <elementGuidId>e126bec5-b3db-4eca-bd4b-34ad4deffeed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.carousel-item__content-sub-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@class='carousel-item__image']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f64fa89-9df0-49ae-bab9-d99786182466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carousel-item__content-sub-header</value>
+      <webElementGuid>9da90c3b-b82c-4fcc-a911-ba837b5d0b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Providing trusted nutrition to fuel wonder every step of the way.</value>
+      <webElementGuid>7c4a1dff-aa6e-4f3f-9a83-88c607cf6a3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;homepage-product-promo&quot;)/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[1]/div[@class=&quot;carousel&quot;]/div[@class=&quot;carousel-item carousel-item--default carousel-item--col personalization-product data-gtm-view&quot;]/div[@class=&quot;carousel-item__content-wrapper carousel-item__content-wrapper--above&quot;]/div[@class=&quot;carousel-item__content&quot;]/div[@class=&quot;carousel-item__content-header-wrapper&quot;]/div[@class=&quot;carousel-item__content-sub-header&quot;]</value>
+      <webElementGuid>12bd3ee6-f0c6-42cb-9890-c8f694d18009</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='homepage-product-promo']/div/div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>08f8987f-430a-4161-8191-688d6dcd36ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WHY ENFAMIL'])[1]/following::div[1]</value>
+      <webElementGuid>5e502424-ef9b-4fb6-89fe-43c65821e5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[14]</value>
+      <webElementGuid>416949dc-d056-481f-b78f-f6506abd3e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::div[1]</value>
+      <webElementGuid>09dfb254-7960-4de2-bd21-6d868cb94843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Providing trusted nutrition to fuel wonder every step of the way.']/parent::*</value>
+      <webElementGuid>afa5db3a-ad00-4494-8e3b-a58e5adc41bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]</value>
+      <webElementGuid>1e0008a8-cf1d-4825-9af3-999fb2cba3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Providing trusted nutrition to fuel wonder every step of the way.' or . = 'Providing trusted nutrition to fuel wonder every step of the way.')]</value>
+      <webElementGuid>5d5c17e3-a991-4521-9fa2-deaa8aaba79b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

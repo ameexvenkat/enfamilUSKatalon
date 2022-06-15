@@ -10,15 +10,15 @@
          <value>#1c70a488-d157-4693-a48d-31f5da493ef6_538</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='1c70a488-d157-4693-a48d-31f5da493ef6_538']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//input[@placeholder = 'Due date or birth date']</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Due date or birth date*']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>55bd6c11-a81b-46ce-b6e9-5588debc142e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,6 +34,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Due date or birth date</value>
+      <webElementGuid>418f25b9-f980-4d40-97b0-ff28f70a3c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--birth-date</value>
+      <webElementGuid>3a443ec1-ed91-42f9-88d5-8213e0bb27a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>id</name>
       <type>Main</type>
       <value>1c70a488-d157-4693-a48d-31f5da493ef6_538</value>
+      <webElementGuid>ddb71641-a481-44fe-a754-62b33b64ff5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,6 +58,7 @@
       <name>name</name>
       <type>Main</type>
       <value>1c70a488-d157-4693-a48d-31f5da493ef6</value>
+      <webElementGuid>f95b1c43-cbd2-4d46-99e6-30e54de50141</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>dc9df623-d625-40fe-8d96-a2b576e802be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
+      <webElementGuid>56424be1-09e7-48fd-b9e9-2416ad2f78f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;1c70a488-d157-4693-a48d-31f5da493ef6_538&quot;)</value>
+      <webElementGuid>b0937a5f-810f-48d7-9322-e362413cb88e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='1c70a488-d157-4693-a48d-31f5da493ef6_538']</value>
+      <webElementGuid>da7fa67f-a3d3-4a2f-95a9-69f2c755df0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[11]/div/div/section/div/div/div/div/div/input</value>
+      <webElementGuid>bdb59a29-c16c-4d98-98a6-76e17ed28abf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,6 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/div/section/div/div/div/div/div/input</value>
+      <webElementGuid>b627ae18-dd9e-425d-82fb-4b1725538fda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,5 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Due date or birth date' and @id = '1c70a488-d157-4693-a48d-31f5da493ef6_538' and @name = '1c70a488-d157-4693-a48d-31f5da493ef6' and @type = 'text']</value>
+      <webElementGuid>681ac337-0f56-45e8-8992-c2805654d2b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

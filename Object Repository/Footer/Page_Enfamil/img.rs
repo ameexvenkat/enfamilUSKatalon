@@ -6,12 +6,12 @@
    <elementGuidId>b127da01-9b7b-40e2-9fbf-5b3383d7e800</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img[alt=&quot;Enfamil&quot;]</value>
+         <key>XPATH</key>
+         <value>//a[@class='space-right link']//img[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='MainContent']/div[2]/div/div/h1/img</value>
+         <key>CSS</key>
+         <value>img[alt=&quot;Enfamil&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
+      <webElementGuid>525e2a0c-b2d3-4496-9718-c823e0fb55b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Enfamil</value>
+      <webElementGuid>5b602503-037f-4fb0-b1fd-e8d5bfeeac73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>itemprop</name>
       <type>Main</type>
       <value>logo</value>
+      <webElementGuid>dedc7312-1c64-4abc-be2b-4d9b92f7656f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,6 +46,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://shopify-wholesale-app.s3.amazonaws.com/uploads/shop/logo/3612/optimized_shop_logo_3612_1596459799.png</value>
+      <webElementGuid>d0e2a1f6-5a93-4c18-8d46-9f28069f3788</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;MainContent&quot;)/div[@class=&quot;login__wrapper login__wrapper--vertical-center&quot;]/div[@class=&quot;login&quot;]/div[@class=&quot;login__brand&quot;]/h1[@class=&quot;login__logo&quot;]/img[1]</value>
+      <webElementGuid>5dc595bf-2ea5-4be5-b3d9-067cbd32034e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='MainContent']/div[2]/div/div/h1/img</value>
+      <webElementGuid>b45bf006-6592-4e9f-8cb3-bd75745ff6be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Enfamil']</value>
+      <webElementGuid>95ada6f8-dd40-425a-9d7d-a912ea2fb8e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
+      <webElementGuid>56f45d7b-666a-4245-a559-5235f7458f96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Enfamil' and @src = 'https://shopify-wholesale-app.s3.amazonaws.com/uploads/shop/logo/3612/optimized_shop_logo_3612_1596459799.png']</value>
+      <webElementGuid>66780fc1-ab86-4c3b-a0df-5339e17ecc15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

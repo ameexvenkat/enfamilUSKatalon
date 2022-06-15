@@ -6,19 +6,19 @@
    <elementGuidId>416e0e2d-86b6-4a29-988a-8ed16f5fc2ca</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>#address1registerAddressPostalField_185</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//input[@placeholder = 'Zip code']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='address1registerAddressPostalField_185']</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#address1registerAddressPostalField_185</value>
+         <value>//input[@placeholder = 'Zip code']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>6bdb724a-bd63-46dc-b14a-bba9e847062e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--address-postal</value>
+      <webElementGuid>4e251583-937e-4452-9ff1-26294ba426fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>address1registerAddressPostalField_185</value>
+      <webElementGuid>1fb42dd3-c857-49fb-a52b-d07645db9fe0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>address1registerAddressPostalField</value>
+      <webElementGuid>f8ccb5bf-629e-4a54-9882-07ec0fa06357</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Zip code</value>
+      <webElementGuid>598ba01b-ddf0-4aa7-9ecf-c60a8623a01a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>3c497aa7-d877-4ed8-8b9f-8163dd75299d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;address1registerAddressPostalField_185&quot;)</value>
+      <webElementGuid>3405d46e-8e68-4704-9d30-641c4b37e4ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='address1registerAddressPostalField_185']</value>
+      <webElementGuid>e686fe97-8613-460b-ac55-29c75baff26f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/form/section/div/div[4]/div/div/section/div/div[2]/div[3]/div/input</value>
+      <webElementGuid>a218a9d3-7044-465d-bea1-3502797a0089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
+      <webElementGuid>14cbd43c-9361-445e-af38-6ed8a065cc28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'address1registerAddressPostalField_185' and @name = 'address1registerAddressPostalField' and @placeholder = 'Zip code' and @type = 'text']</value>
+      <webElementGuid>7ab4f073-c980-410d-8521-08a3229d087e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

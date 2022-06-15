@@ -20,28 +20,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
 
-WebUI.waitForElementPresent(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify one trust cookie preferences'), 
-    3)
-
-WebUI.verifyElementPresent(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify one trust cookie preferences'), 
-    0)
-
-WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify One trust cookie close'))
-
-WebUI.mouseOver(findTestObject('Nutramigen/Field Validation for invalid data/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/Verify hover on Offers and Savings menu'))
-
-WebUI.click(findTestObject('Object Repository/Nutramigen/Field Validation for invalid data/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Nutramigen Savings  Support program'))
-
-WebUI.click(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify State placeholder text for dropdown field'), 
-    FailureHandling.OPTIONAL)
-
-WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify selecting an option in State field', 
-        [('State') : State_Select_Value]))
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
-
 WebUI.waitForElementPresent(findTestObject('Object Repository/Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify one trust cookie preferences'), 
     3)
 
@@ -54,32 +32,59 @@ WebUI.mouseOver(findTestObject('Object Repository/Profile/Page_Enfamil Newborn, 
 
 WebUI.click(findTestObject('Object Repository/Profile/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Nutramigen Savings  Support program'))
 
-WebUI.click(findTestObject('Object Repository/Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify State placeholder text for dropdown field'), 
-    FailureHandling.OPTIONAL)
+WebUI.scrollToElement(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Date Picker'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify selecting an option in State field'))
+WebUI.click(findTestObject('Nutramigen/Field Validation for invalid data/Page_Nutramigen  Enfamil/Verify Date Picker'))
 
-WebUI.openBrowser('')
+WebUI.delay(10)
 
-WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
+for (j = 1; j <= 6; j++) {
+    for (i = 1; i <= 7; i++) {
+        String[] Last_Active_Date = WebUI.getText(findTestObject('Nutramigen/Calendar/Verify Date details in the month', 
+                [('Week') : j, ('Date') : i]))
 
-WebUI.click(findTestObject('Object Repository/Profile/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_GOT IT_onetrust-close-btn-handler on_95ce22'))
+        if (i < 7) {
+            int K = i + 1
 
-WebUI.click(findTestObject('Object Repository/Profile/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_Sign In'))
+            if (WebUI.verifyElementPresent(findTestObject('Nutramigen/Calendar/Verify Date details in the month', 
+                    [('Week') : j, ('Date') : K]), 0)) {
+                println('Next date is present')
+            } else {
+                println('Last Date in a Week is reached')
 
-WebUI.setText(findTestObject('Object Repository/Profile/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/input_Email_login-username'), 
-    'mithun.uat2007_enroll01@gmail.com')
+                Last_Active_Date = WebUI.getText(findTestObject('Nutramigen/Calendar/Verify Date details in the month', 
+                        [('Week') : j, ('Date') : i]))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Profile/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/input_Password_login-password'), 
-    'sylscs9IFn581xiy1uDosg==')
+                break
+            }
+        }
+    }
+    
+    int L = j + 1
 
-WebUI.click(findTestObject('Object Repository/Profile/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/button_Sign in (1)'))
+    if (WebUI.verifyElementPresent(findTestObject('Nutramigen/Calendar/Verify Date details in the month', [('Week') : L
+                , ('Date') : 1]), 0)) {
+        println('Next Week is present')
+    } else {
+        if (i == 8) {
+            i = (i - 1)
+        }
+        
+        Last_Active_Date = WebUI.getText(findTestObject('Nutramigen/Calendar/Verify Date details in the month', 
+                [('Week') : j, ('Date') : i]))
 
-WebUI.click(findTestObject('Object Repository/Profile/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_My Profile'))
+        Allowed_Date_Range_Till = WebUI.getAttribute(findTestObject('Nutramigen/Calendar/Verify Date details in the month', 
+                [('Week') : j, ('Date') : i]), 'aria-label')
 
-WebUI.click(findTestObject('Object Repository/Profile/Page_My Profile  Enfamil US/div_My Subscriptions'))
+        Element_Not_Present = 'Stop further Looping'
 
-WebUI.click(findTestObject('Object Repository/Profile/Page_My Profile  Enfamil US/label_Enspire Family Beginnings - From preg_c5acb5'))
+        break
+    }
+}
 
-WebUI.click(findTestObject('Object Repository/Profile/Page_My Profile  Enfamil US/label_Enfamil Family Beginnings- From pregn_44be5c'))
+Allowed_Date_Range_Till_Split = Allowed_Date_Range_Till.split(' ')
+
+println((((('Allowed Date Range upto ' + (Allowed_Date_Range_Till_Split[1])) + ' ') + (Allowed_Date_Range_Till_Split[2])) + 
+    ' ') + (Allowed_Date_Range_Till_Split[3]))
 

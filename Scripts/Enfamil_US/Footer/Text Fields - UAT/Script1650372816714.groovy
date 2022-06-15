@@ -80,10 +80,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Footer/Footer_Elements
 
 WebUI.verifyElementText(findTestObject('Object Repository/Footer/Footer_Elements/a_For Healthcare professionals (1)'), 'For Healthcare professionals')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Footer/Footer_Elements/a_Enfamil Wholesale (1)'), 'Enfamil Wholesale')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Footer/Footer_Elements/a_California transparency in supply chains _19d4b3 (1)'), 
-    'California transparency in supply chains act and modern slavery act')
+WebUI.verifyElementText(findTestObject('Object Repository/Footer/Footer_Elements/a_Enfamil Wholesale (1)'), 'Modern Slavery Act Statement')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Footer/Footer_Elements/a_Do Not Sell My Information (1)'), 'Do Not Sell My Information')
 

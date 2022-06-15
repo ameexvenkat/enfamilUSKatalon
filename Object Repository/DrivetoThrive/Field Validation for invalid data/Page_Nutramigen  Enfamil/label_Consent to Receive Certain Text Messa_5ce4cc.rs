@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Consent to Receive Certain Text Messa_5ce4cc</name>
+   <tag></tag>
+   <elementGuidId>9fe8345b-e4c8-463e-bdad-b4ff15e2fe9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[9]/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.form-control__label.form-control__label--agreement</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b86f2638-8e24-4bed-86a7-3fc1dfab1bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control__label form-control__label--agreement</value>
+      <webElementGuid>ff249170-6bde-45cb-97ef-99d9622b59e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>22207_7226fb19-3fba-4877-9ea7-e6e0f6171b1e</value>
+      <webElementGuid>3dd07b1e-f319-4eec-aa3d-869575a188c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consent to Receive Certain Text Messages: By signing up for Enfamil text alerts you will receive occasional messages that include information regarding infant and toddler formula. Message and data rates may apply. Text STOP to cancel, HELP for help. By opting-in, you agree to get texts from Enfamil at your mobile number, which may be sent through an automatic telephone dialing system. Your consent to receive such texts is not required for you to obtain any Enfamil products.</value>
+      <webElementGuid>01cfbe23-3cb2-4176-bb7c-60b5d670179b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width offers-drive margin-bottom-xxlarge&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/div[@class=&quot;consumer-form&quot;]/div[@class=&quot;consumer-form__form&quot;]/form[@class=&quot;consumer-form__form&quot;]/section[@class=&quot;content-grid content-grid--consumer-form__form-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;checkbox-wrap&quot;]/div[@class=&quot;form-control form-control--agreement&quot;]/label[@class=&quot;form-control__label form-control__label--agreement&quot;]</value>
+      <webElementGuid>9b80e90f-9577-4b32-942c-2ac0de40032e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[9]/div/div[2]/div/label</value>
+      <webElementGuid>a8040d20-e5a6-4192-87c5-129f65a4e4d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile phone (optional)'])[1]/following::label[1]</value>
+      <webElementGuid>72c13c75-f897-48b8-b339-f7644f96ad15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='via SMS'])[1]/following::label[2]</value>
+      <webElementGuid>71ec5787-299d-4088-b152-83cda088854a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Baby', &quot;'&quot;, 's Due Date or Birth Date')])[1]/preceding::label[1]</value>
+      <webElementGuid>6732e3aa-46e5-486e-8552-36cdefe92685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why?'])[1]/preceding::label[2]</value>
+      <webElementGuid>2249afae-f14b-46c1-b9a8-35afd1d0b8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/div/label</value>
+      <webElementGuid>7e1535cb-914e-4da1-b1d2-161c5cb811c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Consent to Receive Certain Text Messages: By signing up for Enfamil text alerts you will receive occasional messages that include information regarding infant and toddler formula. Message and data rates may apply. Text STOP to cancel, HELP for help. By opting-in, you agree to get texts from Enfamil at your mobile number, which may be sent through an automatic telephone dialing system. Your consent to receive such texts is not required for you to obtain any Enfamil products.' or . = 'Consent to Receive Certain Text Messages: By signing up for Enfamil text alerts you will receive occasional messages that include information regarding infant and toddler formula. Message and data rates may apply. Text STOP to cancel, HELP for help. By opting-in, you agree to get texts from Enfamil at your mobile number, which may be sent through an automatic telephone dialing system. Your consent to receive such texts is not required for you to obtain any Enfamil products.')]</value>
+      <webElementGuid>2b869f12-e4cc-4543-9058-d813985607b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

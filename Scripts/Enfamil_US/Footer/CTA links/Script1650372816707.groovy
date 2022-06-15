@@ -1,21 +1,7 @@
-import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
-import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
-import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
-import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
-import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling as FailureHandling
-import com.kms.katalon.core.testcase.TestCase as TestCase
-import com.kms.katalon.core.testdata.TestData as TestData
-import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
-import com.kms.katalon.core.testobject.TestObject as TestObject
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
@@ -27,8 +13,7 @@ WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Footer/Footer_Elements/button_GOT IT_onetrust-close-btn-handler on_95ce22 (2) (1)'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Footer/Footer_Elements/button_Join now (1) (1)'), 
-    0)
+WebUI.scrollToElement(findTestObject('Object Repository/Footer/Footer_Elements/button_Join now (1) (1)'), 0)
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Footer/Footer_Elements/button_Join now (1) (1)'))
 
@@ -70,8 +55,7 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Footer/Footer_Ele
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Footer/Footer_Elements/a_Sweepstakes Official Rules (2) (1)'))
 
-WebUI.scrollToElement(findTestObject('Footer/Footer_Elements/div_Download our app'), 
-    0)
+WebUI.scrollToElement(findTestObject('Footer/Footer_Elements/div_Download our app'), 0)
 
 WebUI.click(findTestObject('Object Repository/Footer/Footer_Elements/img (1) (1)'))
 
@@ -98,11 +82,29 @@ WebUI.switchToWindowTitle('Enfamil Newborn, Infant & Toddler Nutrition │ Enfam
 
 WebUI.click(findTestObject('Object Repository/Footer/Footer_Elements/i_Follow us_social-links__icon social-links_198a1c (1) (1)'))
 
-WebUI.switchToWindowTitle('Login • Instagram')
+switch (true) {
+    case true:
+        WebUI.switchToWindowTitle('Enfamil™ 🍼 (@enfamil) • Instagram photos and videos', FailureHandling.OPTIONAL)
+
+        break
+    default:
+        WebUI.switchToWindowTitle('Log in • Instagram', FailureHandling.OPTIONAL)
+
+        break
+}
 
 title = WebUI.getWindowTitle()
 
-WebUI.verifyMatch(title, 'Login • Instagram', false)
+switch (true) {
+    case true:
+        WebUI.verifyMatch(title, 'Enfamil™ 🍼 (@enfamil) • Instagram photos and videos', false, FailureHandling.OPTIONAL)
+
+        break
+    default:
+        WebUI.verifyMatch(title, 'Log in • Instagram', false, FailureHandling.OPTIONAL)
+
+        break
+}
 
 WebUI.switchToWindowTitle('Enfamil Newborn, Infant & Toddler Nutrition │ Enfamil')
 
@@ -174,18 +176,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Footer/Page_Mead Johns
 WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Mead Johnson Healthcare Professional R_486903/p_Intended for U.S. Healthcare Professional_b04798'), 
     0)
 
-WebUI.switchToWindowUrl('https://www.enfamil.com/help-center/')
-
-WebUI.click(findTestObject('Object Repository/Footer/Page_/a_Enfamil Wholesale'))
-
-WebUI.switchToWindowTitle('Enfamil')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Enfamil/img'), 0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Footer/Page_Enfamil/a_Apply for wholesale'), 'Apply for wholesale')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Enfamil/a_Apply for wholesale'), 0)
-
 WebUI.switchToWindowUrl(GlobalVariable.HelpCenter)
 
 WebUI.click(findTestObject('Object Repository/Footer/Page_/a_California transparency in supply chains _19d4b3'))
@@ -198,7 +188,7 @@ WebUI.click(findTestObject('Object Repository/Footer/Page_/a_Do Not Sell My Info
 WebUI.switchToWindowTitle('Privacy Web Form')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Footer/Page_Privacy Web Form/u_We do not sell consumer information to th_51c14f'), 
-    'We do not sell consumer information to third parties. ')
+    'We do not sell any of your personal information for money to any third parties. ')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Footer/Page_Privacy Web Form/u_We do not sell consumer information to th_51c14f'), 
     0)

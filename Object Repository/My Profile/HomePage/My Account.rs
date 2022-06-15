@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>My Account</name>
+   <tag></tag>
+   <elementGuidId>f83d3ecc-4bf1-42b0-b8ca-d817f34d4915</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@aria-label='My Account']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.account-nav-main__link-container.account-nav-main__link-container--lvl1.account-nav-main__link-container--has-children</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9825b035-750c-467a-a8ad-2c3f7045caaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>account-nav-el_My-Account</value>
+      <webElementGuid>22553dc5-9b55-4182-b766-1515a8ab6c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-level</name>
+      <type>Main</type>
+      <value>layer1</value>
+      <webElementGuid>a4db3ded-dd8b-4c48-91d0-d24d3daa15f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>account-nav-main__link-container account-nav-main__link-container--lvl1 account-nav-main__link-container--has-children</value>
+      <webElementGuid>304d77b4-50a2-4ca5-bf2a-48f7c625ecc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My AccountWelcome back, Enfamil!My Profile My Rewards Enfamil® RebatesLog Out </value>
+      <webElementGuid>3f92fa62-25d3-433a-b5c9-c31cb073ac9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__top&quot;]/div[@class=&quot;wrapper wrapper--main-header__top-items&quot;]/div[@class=&quot;account-nav-main&quot;]/ul[@class=&quot;account-nav-main__nav-elements account-nav-main__nav-elements--lvl1 navigation-list&quot;]/li[@class=&quot;account-nav-main__link-container account-nav-main__link-container--lvl1 account-nav-main__link-container--has-children&quot;]</value>
+      <webElementGuid>09dac3c6-1abb-4172-acef-8f2ff78f0ff1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/header/div[2]/div/div[2]/ul/li[3]</value>
+      <webElementGuid>2d3312b2-9b8a-4eab-a015-cedea136dbdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Rewards'])[1]/following::li[1]</value>
+      <webElementGuid>7871af59-818e-47a9-9d5c-3fdb24913f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ask a Nurse'])[1]/following::li[2]</value>
+      <webElementGuid>2b1c74fa-a1a1-4277-b10d-dd8c4ddc8a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>8c0d03ea-45a1-4784-ba1f-82e9b212d84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'My AccountWelcome back, Enfamil!My Profile My Rewards Enfamil® RebatesLog Out ' or . = 'My AccountWelcome back, Enfamil!My Profile My Rewards Enfamil® RebatesLog Out ')]</value>
+      <webElementGuid>c645aef6-ff1a-4794-bd50-fc18378268f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

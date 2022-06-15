@@ -185,6 +185,9 @@ WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Prec
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Precon Form/Page_/p_Enjoy discounts on Enfamil products. Chec_d0981e'), 
     0)
 
+WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Precon Form/Page_/p_Enjoy discounts on Enfamil products. Chec_d0981e'), 
+'Enjoy discounts on Enfamil products. Checks are similar to formula coupons in that you\'ll save money and can use them at most major retailers3.')
+
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Precon Form/Page_/div_5. Tips tailored to youWhether youre pr_0f495b'), 
     0)
 

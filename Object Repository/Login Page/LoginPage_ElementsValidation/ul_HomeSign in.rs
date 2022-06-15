@@ -6,15 +6,19 @@
    <elementGuidId>ba4313e7-fdd0-4665-9164-ddb812bd7036</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/div/ul</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>ul.breadcrumbs__items</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/div/ul</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'HomeSign in' or . = 'HomeSign in')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>ul</value>
+      <webElementGuid>21a1cd10-905d-40bb-bd8a-6cf0baef8f77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>breadcrumbs__items</value>
+      <webElementGuid>c5587d9a-1f78-4320-acf8-5cf28dbc50df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,6 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>HomeSign in</value>
+      <webElementGuid>cd57775c-079e-4793-8670-9aa1f513590b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row  content-grid--full-width no-padding&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;content-grid__breadcrumbs&quot;]/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;breadcrumbs__items&quot;]</value>
+      <webElementGuid>56583352-d328-4748-9696-7cd3333d89e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -50,6 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/div/ul</value>
+      <webElementGuid>c9be7c57-b5be-43fd-8168-ac4d7fedec0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::ul[1]</value>
+      <webElementGuid>6dfad686-60e8-4b72-a88f-b0e72680a416</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/div/ul</value>
+      <webElementGuid>19a3d3e2-6153-4358-a538-6c925e30860d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,5 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//ul[(text() = 'HomeSign in' or . = 'HomeSign in')]</value>
+      <webElementGuid>658bf1c9-62e6-4a99-8c7b-cf5bb411c796</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

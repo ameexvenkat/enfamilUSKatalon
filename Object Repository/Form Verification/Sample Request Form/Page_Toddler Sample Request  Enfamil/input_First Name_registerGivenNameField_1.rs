@@ -10,15 +10,15 @@
          <value>//input[@placeholder = 'First name']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='registerGivenNameField_984']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#registerGivenNameField_984</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'First name*']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>bde79150-f080-4bdf-aa8e-2cc458e19f78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--given-name</value>
+      <webElementGuid>62e587a5-6c03-4fc1-a11b-70749af0e0d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>registerGivenNameField_984</value>
+      <webElementGuid>0ec4779d-c093-495b-bd84-d681bee6c50f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>registerGivenNameField</value>
+      <webElementGuid>4fad33f5-6fa6-47e2-8289-78c570b5228a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>First name</value>
+      <webElementGuid>41665f35-1a7e-42d5-9cab-ba68bfa48ea8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>42a440c8-a7db-49b0-964e-dd9235ba43ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;registerGivenNameField_984&quot;)</value>
+      <webElementGuid>386d0586-3656-45a7-be3f-2ed3a60f2906</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='registerGivenNameField_984']</value>
+      <webElementGuid>690f02a4-19eb-4733-9490-77792426194d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/form/section/div/div[2]/div/div/input</value>
+      <webElementGuid>d33e8364-3471-4b8e-ae40-0be8c7da551e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
+      <webElementGuid>d147263b-9bd7-40f1-b5af-6c35aa8e1cc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'registerGivenNameField_984' and @name = 'registerGivenNameField' and @placeholder = 'First name' and @type = 'text']</value>
+      <webElementGuid>ab9abe66-b901-4b40-b44e-4bd580257957</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

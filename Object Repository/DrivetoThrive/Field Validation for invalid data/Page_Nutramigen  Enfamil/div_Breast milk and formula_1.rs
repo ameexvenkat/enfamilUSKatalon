@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Breast milk and formula_1</name>
+   <tag></tag>
+   <elementGuidId>4b357e7e-2044-486c-8bd5-f4d3ada6308b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='22207_9143d7ee-4276-4083-84e8-17d7fd629df3']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.single-select__control.single-select__control--is-focused.single-select__control--menu-is-open.css-1pahdxg-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4bfb9286-a68e-4812-8895-1a306a1196d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>single-select__control single-select__control--is-focused single-select__control--menu-is-open css-1pahdxg-control</value>
+      <webElementGuid>6bffe89b-f4ea-4611-a197-08331fdcda83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Breast milk and formula</value>
+      <webElementGuid>d0e27b1d-c3fd-4a4b-9980-7966b66a62a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;22207_9143d7ee-4276-4083-84e8-17d7fd629df3&quot;)/div[@class=&quot;single-select__control single-select__control--is-focused single-select__control--menu-is-open css-1pahdxg-control&quot;]</value>
+      <webElementGuid>096f3101-4c1a-45f7-9867-18f10f516956</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='22207_9143d7ee-4276-4083-84e8-17d7fd629df3']/div</value>
+      <webElementGuid>ea7d4b56-ab01-4cf3-8ea6-b460f7c87b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How are you currently feeding your little one? (optional)'])[1]/following::div[2]</value>
+      <webElementGuid>ff75bb77-f1ae-410c-907b-63a57ebf0bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(optional)'])[1]/following::div[3]</value>
+      <webElementGuid>bb591ab6-2554-4e3b-ae3b-ac3bd4b9e9d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breast milk and formula'])[2]/preceding::div[5]</value>
+      <webElementGuid>56d8b77c-da17-416a-a493-a644daf7f3f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[5]/div/div</value>
+      <webElementGuid>c639e5c5-ec70-45c7-8703-eeeb7cdb93db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Breast milk and formula' or . = 'Breast milk and formula')]</value>
+      <webElementGuid>c77856d2-50ae-4a1e-b790-09d5814bb1a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

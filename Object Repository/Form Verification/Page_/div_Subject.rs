@@ -10,15 +10,15 @@
          <value>div.single-select__control.single-select__control--is-focused.css-1pahdxg-control</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='558c12f7-23a4-4401-b7a9-4bca5df4ba63']/div</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//div[(text() = 'Subject' or . = 'Subject')]</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[text() = '*Subject']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>98aacd0f-5e31-4da5-87f1-675406c70001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>single-select__control single-select__control--is-focused css-1pahdxg-control</value>
+      <webElementGuid>794da7b3-5cff-474f-8f28-63c5b14099c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,6 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Subject</value>
+      <webElementGuid>03eed879-4934-4346-ae69-7a4ca930c0c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;558c12f7-23a4-4401-b7a9-4bca5df4ba63&quot;)/div[@class=&quot;single-select__control single-select__control--is-focused css-1pahdxg-control&quot;]</value>
+      <webElementGuid>d6097491-d797-4b31-a62c-9649446a38cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='558c12f7-23a4-4401-b7a9-4bca5df4ba63']/div</value>
+      <webElementGuid>99b8c7de-9acf-49b0-bd8f-6a59f6b6b95c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*Subject'])[1]/following::div[2]</value>
+      <webElementGuid>a6746dde-12e1-4b1f-b9d3-04e677249c2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name is required'])[1]/following::div[5]</value>
+      <webElementGuid>064c3fda-81b5-4ed3-94a2-e0d27c7d71fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='If this is a medical emergency, please contact your pediatrician.'])[1]/preceding::div[5]</value>
+      <webElementGuid>a701b460-e240-4df2-b5d4-a33007d05498</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div[3]/div/div/div/div</value>
+      <webElementGuid>4261a6cc-3d9f-4989-9c0b-81e220f6b74f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,5 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Subject' or . = 'Subject')]</value>
+      <webElementGuid>34d3d1c3-b5f1-47fd-9007-df7ee735a2e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

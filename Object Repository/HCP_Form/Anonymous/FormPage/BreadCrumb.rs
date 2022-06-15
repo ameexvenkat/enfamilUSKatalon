@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BreadCrumb</name>
+   <tag></tag>
+   <elementGuidId>db4f4804-ce39-4285-be77-26d026106415</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@class='breadcrumbs__item']//span[text()='Redeem Offer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.breadcrumbs__items</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>8b8abfbf-2541-4d32-9735-27e44545e813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumbs__items</value>
+      <webElementGuid>42295c8d-23b8-4229-b905-bf1f8fef8303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeRedeem Offer</value>
+      <webElementGuid>2f18274c-0df5-480c-9d7a-a3d1c970cfc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;content-grid__breadcrumbs&quot;]/div[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;breadcrumbs__items&quot;]</value>
+      <webElementGuid>51ca4823-bcde-48e1-8651-c7e5ac171c8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/div/div/ul</value>
+      <webElementGuid>65b6ab12-7753-4093-9b99-aab390ecce9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hcp offer'])[1]/following::ul[1]</value>
+      <webElementGuid>f03a5111-59e7-471d-ac1d-e806600848ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open search box'])[1]/following::ul[1]</value>
+      <webElementGuid>71bb1c65-1595-4286-a66f-4dab546c8e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/ul</value>
+      <webElementGuid>22cc571e-7b4b-46ae-b484-494152737397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'HomeRedeem Offer' or . = 'HomeRedeem Offer')]</value>
+      <webElementGuid>ca7ec852-c906-458c-b9c3-d2f4b65df00e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

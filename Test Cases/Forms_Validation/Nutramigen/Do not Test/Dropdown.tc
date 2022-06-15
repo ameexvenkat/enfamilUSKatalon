@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d220745c-7c08-4b14-8706-acdde5bcf5f1</testCaseGuid>
+   <variable>
+      <defaultValue>'Wyoming'</defaultValue>
+      <description></description>
+      <id>0df91a74-f66a-4057-8203-e79943915a5a</id>
+      <masked>false</masked>
+      <name>State_Select_Value</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d79e8136-7b13-404e-9091-3f81803b8b2b</id>
+      <masked>false</masked>
+      <name>Updated_Password_Rules_1</name>
+   </variable>
+</TestCaseEntity>

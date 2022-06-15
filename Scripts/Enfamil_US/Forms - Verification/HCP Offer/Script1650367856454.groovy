@@ -72,9 +72,9 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/H
 
 WebUI.verifyElementClickable(findTestObject('Form Verification/HCP Offer Form/Page_/input_City_eace8285-a56b-4a2e-bbcc-122a92ab2580'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/HCP Offer Form/Page_/div_State'), 0)
+WebUI.verifyElementPresent(findTestObject('Form Verification/HCP Offer Form/state/Page_/select_State'), 0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/HCP Offer Form/Page_/div_State'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/HCP Offer Form/state/Page_/select_State'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/HCP Offer Form/Page_/input_Zip Code_482f5eb3-b873-4b90-ad22-00b8_0f9439'), 
     0)

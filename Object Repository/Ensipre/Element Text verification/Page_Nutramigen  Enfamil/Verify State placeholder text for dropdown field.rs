@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify State placeholder text for dropdown field</name>
+   <tag></tag>
+   <elementGuidId>91f82dfe-61e2-4dd5-8f6f-efbbaaed5624</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='form-control__input form-control__input--single-select css-2b097c-container'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#f9acd18e-7be3-472a-9f63-3affc22b70db</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fbe8ec9-c8a1-4848-b56b-f687afcbc506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control__input form-control__input--single-select css-2b097c-container</value>
+      <webElementGuid>f0c017da-a4ae-40c4-9c6e-86f2e3bef650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>f9acd18e-7be3-472a-9f63-3affc22b70db</value>
+      <webElementGuid>458cb79d-7580-49a0-9a74-3c90065185a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State</value>
+      <webElementGuid>2239aebd-174a-4446-995b-8f0e5e0e9a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f9acd18e-7be3-472a-9f63-3affc22b70db&quot;)</value>
+      <webElementGuid>9236b4c7-73be-4455-a592-602418ca630b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='f9acd18e-7be3-472a-9f63-3affc22b70db']</value>
+      <webElementGuid>9c1d318d-3acb-4ae8-bb0e-99832993821c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[5]/div/div/section/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>8f1159d8-9648-45a3-a413-2ec0f734d429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[1]</value>
+      <webElementGuid>3c2f9f52-8ae6-4287-99ac-b191496ae6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City field is required.'])[1]/following::div[3]</value>
+      <webElementGuid>8f69ad0f-613d-436e-9dcf-6f8e4a16d28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State field is required.'])[1]/preceding::div[9]</value>
+      <webElementGuid>1072cce6-7ade-4493-94a5-34213bdfb642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>c927ed19-09e8-408f-a9ac-4248cb5b7291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'f9acd18e-7be3-472a-9f63-3affc22b70db' and (text() = 'State' or . = 'State')]</value>
+      <webElementGuid>4e20655e-e87c-4198-86c4-0c4c4615a553</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

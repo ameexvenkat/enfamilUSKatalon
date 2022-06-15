@@ -6,12 +6,15 @@
    <elementGuidId>f995208b-9eac-418e-a395-cf08dacd6f62</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@class='link']/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/footer/div/section/div/div/div[2]/div/div/div/div[3]/a/img</value>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/b/a/6/d/c/a/ba6dcabf1140ffa1f4ac9521b5fcbb04b6dbae47.png']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
+      <webElementGuid>15a39d2c-de3a-4de5-9089-53554295ee45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +33,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://d2jiwtuosjkcsj.cloudfront.net/media/cache/b/a/6/d/c/a/ba6dcabf1140ffa1f4ac9521b5fcbb04b6dbae47.png</value>
+      <webElementGuid>086eb76a-37de-4a63-be62-9a0c44b49c6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +41,7 @@
       <name>height</name>
       <type>Main</type>
       <value>43</value>
+      <webElementGuid>881f3803-2ea1-4207-a9e5-7a54a8ce12b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +49,7 @@
       <name>width</name>
       <type>Main</type>
       <value>140</value>
+      <webElementGuid>f62703ae-aea8-4200-a613-6a456cf06696</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,6 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/footer[@class=&quot;main-footer&quot;]/div[@class=&quot;page-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row main-footer__main main-footer__order hide-mobile&quot;]/div[@class=&quot;content-grid__column main-footer__download  content-grid__column--size-4&quot;]/div[@class=&quot;rte-wrapper&quot;]/div[@class=&quot;rte-wrapper__components&quot;]/div[@class=&quot;rte&quot;]/div[@class=&quot;rte__component rte__component--componentMobileAppIcon&quot;]/a[@class=&quot;link&quot;]/img[1]</value>
+      <webElementGuid>4650ee39-52ac-40fc-a7fc-148db69f999e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,6 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/footer/div/section/div/div/div[2]/div/div/div/div[3]/a/img</value>
+      <webElementGuid>b7840a6f-5624-45fc-b309-51154b490fed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,6 +73,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/b/a/6/d/c/a/ba6dcabf1140ffa1f4ac9521b5fcbb04b6dbae47.png')]</value>
+      <webElementGuid>684962ec-6a1d-444b-af29-ceb47a2d71ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a/img</value>
+      <webElementGuid>9e5fc46b-ea0f-4307-83e3-fe60c0d61804</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,5 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://d2jiwtuosjkcsj.cloudfront.net/media/cache/b/a/6/d/c/a/ba6dcabf1140ffa1f4ac9521b5fcbb04b6dbae47.png']</value>
+      <webElementGuid>0d7ae8d3-050f-4d48-abd6-bacb2f17ac23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -10,15 +10,15 @@
          <value>#06a36acf-6633-4f94-886b-c290462de787_498</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='06a36acf-6633-4f94-886b-c290462de787_498']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//input[@placeholder = 'City']</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'City*']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>540f0ab7-5f2b-4118-8430-39f3a05ce6a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--address-city</value>
+      <webElementGuid>fe7845ab-fb96-45aa-87d8-aba8c52e67a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>06a36acf-6633-4f94-886b-c290462de787_498</value>
+      <webElementGuid>23dfcee7-7eda-45ae-9456-0c6699cc0a8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>06a36acf-6633-4f94-886b-c290462de787</value>
+      <webElementGuid>d1cfbd92-1e0c-4604-91b8-05a288380e12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>City</value>
+      <webElementGuid>e581bc0d-ddf2-4a58-877d-b6cacb2fbbdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>005bbf37-9074-40d9-b5b4-a3946bf28c99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;06a36acf-6633-4f94-886b-c290462de787_498&quot;)</value>
+      <webElementGuid>f8bb1a7b-bf68-40a1-a3b3-45d4ec63cb80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='06a36acf-6633-4f94-886b-c290462de787_498']</value>
+      <webElementGuid>9dc27744-46ab-466c-a9fe-9c524679db47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/div/form/section/div/div[5]/div/div/section/div/div[2]/div/div/input</value>
+      <webElementGuid>5edc8309-958c-49a3-b000-35d0754f9c38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/section/div/div[2]/div/div/input</value>
+      <webElementGuid>c1d0481d-f143-4bf6-b47b-3e89351dc9e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = '06a36acf-6633-4f94-886b-c290462de787_498' and @name = '06a36acf-6633-4f94-886b-c290462de787' and @placeholder = 'City' and @type = 'text']</value>
+      <webElementGuid>571e62e9-1185-422f-9b8e-71a328765d89</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

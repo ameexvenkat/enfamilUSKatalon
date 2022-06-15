@@ -10,15 +10,15 @@
          <value>//input[@placeholder = 'Last name ']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='registerFamilyNameField_294']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#registerFamilyNameField_294</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Last name*']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>cff8b443-3c64-453f-a337-c2cf543f56d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--family-name</value>
+      <webElementGuid>5d77e7f7-81cf-4193-a00f-6e1cce9170f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>registerFamilyNameField_294</value>
+      <webElementGuid>a2b8b2e1-c61a-4929-b6c7-f4138e3a69a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>registerFamilyNameField</value>
+      <webElementGuid>6baafe58-265f-4faf-9bb5-ce90ea1f92d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Last name </value>
+      <webElementGuid>31411d0d-d964-4c39-87d3-7eec0128c517</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>3d6be031-299f-4c39-aa5f-f5a1fda84e28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;registerFamilyNameField_294&quot;)</value>
+      <webElementGuid>c61e637b-a22b-44a6-81ce-d0b2d9baafad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='registerFamilyNameField_294']</value>
+      <webElementGuid>c7d020a1-08dc-4386-a988-85e936b5f3e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/form/section/div/div[2]/div[2]/div/input</value>
+      <webElementGuid>2e9cc622-af82-4513-aff5-7477ab925d08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
+      <webElementGuid>32d32c63-da3f-4d1a-b393-4c025c28dc67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'registerFamilyNameField_294' and @name = 'registerFamilyNameField' and @placeholder = 'Last name ' and @type = 'text']</value>
+      <webElementGuid>5c183633-77ca-4b92-a561-868b57cda57a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

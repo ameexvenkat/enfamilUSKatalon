@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.HomePageSTG_URL)
+WebUI.navigateToUrl(GlobalVariable.HomePage_URL)
 
 WebUI.maximizeWindow()
 
-WebUI.verifyElementPresent(findTestObject('Login Pop Up/Pop Up Elements Validation/Shop Products'), 0)
+//WebUI.verifyElementPresent(findTestObject('Login Pop Up/Pop Up Elements Validation/Shop Products'), 0)
 
 if (true) {
     WebUI.verifyElementPresent(findTestObject('Cookie floater/Cookies pop up'), 0)

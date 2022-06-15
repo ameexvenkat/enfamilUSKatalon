@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.STG_Login_Page_URL)
+WebUI.navigateToUrl(GlobalVariable.Login_Account_URL)
 
 WebUI.maximizeWindow()
 
@@ -50,17 +50,20 @@ if (true) {
 
     WebUI.comment('H1 banner text visible')
 } else {
-    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/div_ENFAMIL Banner Sign In'), 0)
+    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/div_ENFAMIL Banner Sign In'), 
+        0)
 
     WebUI.comment('H1 banner text is missing')
 }
 
 if (true) {
-    WebUI.verifyElementPresent(findTestObject('Login Page/LoginPage_ElementsValidation/button_Continue with Facebook'), 0)
+    WebUI.verifyElementPresent(findTestObject('Login Page/LoginPage_ElementsValidation/button_Continue with Facebook'), 
+        0)
 
     WebUI.comment('Facebook Login is available')
 } else {
-    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/button_Continue with Facebook'), 0)
+    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/button_Continue with Facebook'), 
+        0)
 
     WebUI.comment('Facebook Login is missing')
 }
@@ -70,7 +73,8 @@ if (true) {
 
     WebUI.comment('Google Login is available')
 } else {
-    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/button_Sign in with Google'), 0)
+    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/button_Sign in with Google'), 
+        0)
 
     WebUI.comment('Google Login is missing')
 }
@@ -80,7 +84,8 @@ if (true) {
 
     WebUI.comment('Apple login is available')
 } else {
-    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/button_Continue with Apple'), 0)
+    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/button_Continue with Apple'), 
+        0)
 
     WebUI.comment('Apple login is missing')
 }
@@ -90,17 +95,20 @@ if (true) {
 
     WebUI.comment('Username field is available')
 } else {
-    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/input_Email_login-username'), 0)
+    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/input_Email_login-username'), 
+        0)
 
     WebUI.comment('Username field is missing')
 }
 
 if (true) {
-    WebUI.verifyElementPresent(findTestObject('Login Page/LoginPage_ElementsValidation/input_Password_login-password'), 0)
+    WebUI.verifyElementPresent(findTestObject('Login Page/LoginPage_ElementsValidation/input_Password_login-password'), 
+        0)
 
     WebUI.comment('Password field is available')
 } else {
-    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/input_Password_login-password'), 0)
+    WebUI.verifyElementNotPresent(findTestObject('Login Page/LoginPage_ElementsValidation/input_Password_login-password'), 
+        0)
 
     WebUI.comment('Password field is missing')
 }

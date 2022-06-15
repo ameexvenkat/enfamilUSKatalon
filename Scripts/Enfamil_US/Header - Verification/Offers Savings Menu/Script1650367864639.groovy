@@ -36,7 +36,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil
 WebUI.mouseOver(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/h5_Savings  Support Programs'), 
-    'Savings & Support Programs')
+    'SAVINGS & SUPPORT PROGRAMS')
 
 WebUI.verifyElementText(findTestObject('Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_FEATURED 4'), 'FEATURED')
 
@@ -53,11 +53,10 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil
 
 WebUI.mouseOver(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Premium Enfamil Family Beginnings'), 
-    'Premium Enfamil Family Beginnings')
-
+//WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Premium Enfamil Family Beginnings'), 
+//    'Premium Enfamil Family Beginnings')
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Enspire Family Beginnings'), 
-    'Enspire Family Beginnings®')
+    'Enfamil Family Beginnings®')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/div_Enfamil Rewards'), 
     'Enfamil Rewards®')
@@ -82,9 +81,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Ne
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_NEW Gift Cards'), 
     'NEW! Gift Cards')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay'), 
-    'Save 15% when you use Afterpay')
-
+//WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay'), 
+//    'Save 15% when you use Afterpay')
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Enfamil Rebates'), 
     'Enfamil Rebates')
 
@@ -114,9 +112,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/li_Enfagrow Free Sample'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/img'), 
-    0)
-
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/img'), 
+//   0)
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Partner Offers'), 
     0)
 
@@ -128,12 +125,10 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil
 
 WebUI.mouseOver(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Offers  Savings'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay'), 
-    'Save 15% when you use Afterpay')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay'), 
-    0)
-
+//WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay'), 
+//  'Save 15% when you use Afterpay')
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Save 15 when you use Afterpay'), 
+//   0)
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/a_Enfamil Rebates'), 
     0)
 
@@ -157,7 +152,7 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Header/Page_Premiu
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Premium Enfamil Family Beginnings'), 
-    'Premium Enfamil Family Beginnings®')
+    'Enfamil Family Beginnings®')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Premium Enfamil Family Beginnings'), 
     0)
@@ -165,7 +160,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Premium
 WebUI.verifyElementClickable(findTestObject('Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Premium Enfamil Family Beginnings'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Premium Enfamil Family Beginnings/h2_Premium Enfamil Family Beginnings'), 
-    'Premium Enfamil Family Beginnings®')
+    'ENFAMIL FAMILY BEGINNINGS')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Premium Enfamil Family Beginnings/h2_Premium Enfamil Family Beginnings'), 
     0)
@@ -173,32 +168,6 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Premium
 WebUI.delay(5)
 
 WebUI.mouseOver(findTestObject('Object Repository/Header/Page_Premium Enfamil Family Beginnings/span_Offers  Savings'))
-
-WebUI.click(findTestObject('Object Repository/Header/Page_Premium Enfamil Family Beginnings/div_Enspire Family Beginnings'))
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil'), 
-    0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil'), 
-    'Enspire Family Beginnings™ by Enfamil®')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil'), 
-    'Enspire Family Beginnings™ by Enfamil®')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil'), 
-    0)
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Enspire Family Beginnings by Enfamil'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/h1_Enspire Family Beginnings by Enfamil'), 
-    'Enspire Family Beginnings™ by Enfamil®')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/h1_Enspire Family Beginnings by Enfamil'), 
-    0)
-
-WebUI.delay(5)
-
-WebUI.mouseOver(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/span_Offers  Savings'))
 
 WebUI.click(findTestObject('Object Repository/Header/Page_Enspire Family Beginnings Registration_996fe8/div_Enfamil Rewards'))
 
@@ -268,7 +237,7 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Header/Page_Toddle
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Toddler Sample Request  Enfamil/span_Free Sample of Enfagrow Toddler Formula'), 
-    'Free Sample of Enfagrow® Toddler Formula')
+    'Free Sample of Enfagrow® Formula for Toddlers | Enfamil')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Toddler Sample Request  Enfamil/span_Free Sample of Enfagrow Toddler Formula'), 
     0)
@@ -329,33 +298,9 @@ WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_/span_Gift
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_/span_Gift Cards'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_/h2_Gift Cards'), 'Gift Cards')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_/h2_Gift Cards'), 0)
-
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_/h3_Select Your Gift Card'), 'Select Your Gift Card')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_/div_start gifting now'), 'START GIFTING NOW')
-
-WebUI.delay(5)
-
-WebUI.mouseOver(findTestObject('Object Repository/Header/Page_/span_Offers  Savings'))
-
-WebUI.click(findTestObject('Object Repository/Header/Page_/a_Save 15 when you use Afterpay'))
-
-WebUI.delay(5)
-
-WebUI.waitForElementVisible(findTestObject('Object Repository/Header/Page_/span_Afterpay'), 0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_/span_Afterpay'), 'Afterpay')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_/span_Afterpay'), 0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_/h2_Stock up and Save 15 when you use Afterpay'), 
-    'Stock up and Save 15% when you use Afterpay')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_/h2_Stock up and Save 15 when you use Afterpay'), 
-    0)
 
 WebUI.delay(5)
 

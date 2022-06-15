@@ -37,27 +37,9 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/P
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Page_/h3_Thank you for your interest in the Enfam_7b10da'), 
     'Thank you for your interest in the Enfamil Family of Formulas™.')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Page_/span_If you have a question about our produ_57c769'), 
-    0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Page_/span_If you have a question about our produ_57c769'), 
-    'If you have a question about our products, company or services, please check out our Help Center or Store locator.')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Page_/p_If you still havent found what you are lo_8b6a86'), 
-    0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Page_/p_If you still havent found what you are lo_8b6a86'), 
-    'If you still haven\'t found what you are looking for or have a comment about our products or company services, please fill out this form. For an immediate response, please call 1-800-BABY123.')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Page_/p_If you have any questions about Mead John_48fc50'), 
-    0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Page_/p_If you have any questions about Mead John_48fc50'), 
-    'If you have any questions about Mead Johnson products sold outside the U.S., please go to meadjohnson.com.')
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Page_/p_Required fields'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Page_/p_Required fields'), '*Required fields')
+WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Page_/p_Required fields'), 'When looking for your baby’s formula online, be sure to check the default search filters. If delivery or curbside pick-up options are selected, your formula may appear out of stock. However, by removing these filters, you may find the item is available for in-store purchase. Always call ahead to verify availability.')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Page_/label_Email'), 0)
 

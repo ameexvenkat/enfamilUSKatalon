@@ -6,19 +6,19 @@
    <elementGuidId>ba4b4d21-5845-444b-903f-5c6ae24195d0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>#address1registerAddressAddress1Field_569</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//input[@placeholder = 'Street address']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='address1registerAddressAddress1Field_569']</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#address1registerAddressAddress1Field_569</value>
+         <value>//input[@placeholder = 'Street address']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+      <webElementGuid>56ac53d4-7d3e-4df0-8cfb-58179de2e40f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control__input form-control__input--address</value>
+      <webElementGuid>082f14e7-6270-42fc-99e9-77cf2b514f5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +42,7 @@
       <name>id</name>
       <type>Main</type>
       <value>address1registerAddressAddress1Field_569</value>
+      <webElementGuid>7d44494c-ae95-4976-bfea-a03351bb046b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>name</name>
       <type>Main</type>
       <value>address1registerAddressAddress1Field</value>
+      <webElementGuid>4e0a15c6-12e1-4438-bb2e-103e7e1a0386</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Street address</value>
+      <webElementGuid>d34e9580-20d8-4c03-bb59-7a71521a85e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
+      <webElementGuid>bd122a92-521f-465e-81c3-bac2213b20d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;address1registerAddressAddress1Field_569&quot;)</value>
+      <webElementGuid>20e4cd67-56b6-4d9e-b176-9dbeb2ab1148</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='address1registerAddressAddress1Field_569']</value>
+      <webElementGuid>2bb5af92-053a-4db3-ad9d-366e0b8f395a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div[2]/div/div/form/section/div/div[4]/div/div/section/div/div/div/div/input</value>
+      <webElementGuid>55de7c4a-4922-42fe-86cd-cbd7536f5e15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/section/div/div/div/div/input</value>
+      <webElementGuid>1f8b6896-95f2-4e93-9d82-eaef417ae55a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'address1registerAddressAddress1Field_569' and @name = 'address1registerAddressAddress1Field' and @placeholder = 'Street address' and @type = 'text']</value>
+      <webElementGuid>225b5e0b-72d7-4869-8f22-8c1e5c329ca2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

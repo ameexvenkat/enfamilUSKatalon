@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://enfamil-us.cdn.test.us-east-1.starterkit.rbcloud.io/')
 
 WebUI.waitForElementPresent(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify one trust cookie preferences'), 
@@ -256,7 +258,7 @@ WebUI.verifyMatch(CtyHolder_FontSize, '14px', false)
 StateHolder_FontColor = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify State placeholder text for dropdown field - Styling'), 
     Font_Color)
 
-WebUI.verifyMatch(StateHolder_FontColor, 'rgba(90, 91, 94, 1)', false)
+WebUI.verifyMatch(StateHolder_FontColor, 'rgba(33, 33, 33, 1)', false)
 
 StateHolder_FontSize = WebUI.getCSSValue(findTestObject('Nutramigen/Element Text verification/Page_Nutramigen  Enfamil/Verify State placeholder text for dropdown field'), 
     Font_Size)

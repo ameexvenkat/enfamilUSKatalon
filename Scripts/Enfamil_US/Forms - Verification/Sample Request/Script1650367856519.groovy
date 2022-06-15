@@ -123,9 +123,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Samp
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Sample Request Form/Page_Toddler Sample Request  Enfamil/input_concat(Your Child, , s Birth Date)_ch_19b355'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Sample Request Form/Page_Toddler Sample Request  Enfamil/input_concat(Your Child, , s Birth Date)_ch_19b355_1'), 
-    '')
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Sample Request Form/Page_Toddler Sample Request  Enfamil/button_Why'), 
     0)
 

@@ -25,7 +25,8 @@ WebUI.maximizeWindow()
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/button_GOT IT_onetrust-close-btn-handler on_95ce22'))
+WebUI.click(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/button_GOT IT_onetrust-close-btn-handler on_95ce22'), 
+    FailureHandling.OPTIONAL)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/span_Join the Drive to Thrive Support Program'), 
     0)
@@ -118,10 +119,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/D
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/input_City_1cea0cb2-2f5d-4e2d-9c1d-66cd6c282c6c_1'), 
     '')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/div_State'), 
-    0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/div_State'), 'State')
+WebUI.verifyElementPresent(findTestObject('DrivetoThrive/State Option/Page_/select_State'), 0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/label_State'), 
     '')
@@ -251,14 +249,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/D
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/p_Relationship to child'), 
     'Relationship to child')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/div_Select one'), 
-    0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/div_Select one'), 
-    'Select one')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/div_Select one'), 
-    'Select one')
+WebUI.verifyElementPresent(findTestObject('State/Page_/select_Select oneMotherFatherGrandparentOthers'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/span_How are you currently feeding your little one'), 
     0)
@@ -272,9 +263,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/D
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/span_(optional)'), 
     '(optional)')
 
-WebUI.verifyElementPresent(findTestObject('Form Verification/Drive to Thrive Form EN/Page_/div_Select one - Copy'), 0)
-
-WebUI.verifyElementText(findTestObject('Form Verification/Drive to Thrive Form EN/Page_/div_Select one - Copy'), 'Select one')
+WebUI.verifyElementPresent(findTestObject('State/Page_/select_Select oneIm not sureBreast milk and formulaBreast milk onlyFormula only'), 
+    0)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/div_Do you expect to receive infant formula_e140e3'), 
     0)
@@ -288,21 +278,17 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/D
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/p_Your answer helps us personalize your experience'), 
     'Your answer helps us personalize your experience.')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/label_Yes'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('State/Page_/label_Yes'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/label_Yes'), 'Yes')
+WebUI.verifyElementText(findTestObject('State/Page_/label_Yes'), 'Yes')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/label_No'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('State/Page_/label_No'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/label_No'), 'No')
+WebUI.verifyElementText(findTestObject('State/Page_/label_No'), 'No')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/label_Not sure'), 
-    0)
+WebUI.verifyElementPresent(findTestObject('State/Page_/label_Not sure'), 0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/label_Not sure'), 
-    'Not sure')
+WebUI.verifyElementText(findTestObject('State/Page_/label_Not sure'), 'Not sure')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Drive to Thrive Form EN/Page_/p_Terms and Conditions'), 
     0)

@@ -23,11 +23,11 @@ WebUI.navigateToUrl(GlobalVariable.HomePage)
 
 WebUI.maximizeWindow()
 
-WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Shop Products'), 
-    'Shop Products')
+//WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Shop Products'), 
+  //  'Shop Products')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Shop Products'), 
-    0)
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Shop Products'), 
+  //  0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Header/Page_Enfamil Newborn, Infant  Toddler Nutri_2e0999/span_Tips  Resources'), 
     'Tips & Resources')

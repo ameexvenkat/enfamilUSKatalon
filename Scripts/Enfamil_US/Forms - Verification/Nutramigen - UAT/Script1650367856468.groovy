@@ -66,20 +66,20 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/N
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/p_1. Tell us your name and email'), 
     '1. Tell us your name and email.')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_First Name_fb93a681-abac-454b-96d8-6b_b88fa4'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_First Name'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_First Name_fb93a681-abac-454b-96d8-6b_b88fa4'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_First Name'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_Last Name_f79d7000-6316-40fb-a3e6-b1f_b5683d'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_Last Name'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_Last Name_f79d7000-6316-40fb-a3e6-b1f_b5683d'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_Last Name'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_Email_9fcda2d9-4eb1-44ad-9f84-baea49c9ae6a'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_Email'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_Email_9fcda2d9-4eb1-44ad-9f84-baea49c9ae6a'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_Email'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/p_2. Enter your address'), 
     0)
@@ -93,30 +93,30 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/N
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_2. Enter your address.You may receive s_cffe19'), 
     '2. Enter your address.\nYou may receive some gifts closer to your baby’s due date.')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_Street address_65b812a7-bc02-4bcd-ac9_5261a8'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_Street address'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_Street address_65b812a7-bc02-4bcd-ac9_5261a8'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_Street address'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_UnitSuiteApt (optional)_c2ceb8f5-0157_bab9a4'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_UnitSuiteApt (optional)'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_UnitSuiteApt (optional)_c2ceb8f5-0157_bab9a4'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_UnitSuiteApt (optional)'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_City_06a36acf-6633-4f94-886b-c290462de787'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_City'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_City_06a36acf-6633-4f94-886b-c290462de787'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_City'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_State'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/select_State'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_State'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/select_State'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_Zip code_722c29a2-2f5f-4d57-9ea0-2040_c80e4e'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_Zip code'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/input_Zip code_722c29a2-2f5f-4d57-9ea0-2040_c80e4e'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/input_Zip code'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/p_3. Set password'), 
     0)
@@ -204,13 +204,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/N
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/p_Relationship to child'), 
     'Relationship to child')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_Select one'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/select_Select oneMotherFatherGrandparentOthers'), 
     0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_Select one'), 
-    'Select one')
-
-WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_Select one'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/p_How are you currently feeding your little_6134cd'), 
     0)
@@ -221,13 +216,8 @@ WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutr
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/span_(optional)'), 
     '(optional)')
 
-WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_Select one - Copy'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/select_Select oneBreast milk and formulaBreast milk onlyFormula only'), 
     0)
-
-WebUI.verifyElementText(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_Select one - Copy'), 
-    'Select one')
-
-WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/div_Select one - Copy'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/p_Do you expect to receive infant formula f_11fd50'), 
     0)
@@ -241,29 +231,29 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/N
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/p_Your answer helps us personalize your experience'), 
     'Your answer helps us personalize your experience.')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_Yes'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_Yes'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_Yes'), 
+WebUI.verifyElementText(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_Yes'), 
     'Yes')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_Yes'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_Yes'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_No'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_No'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_No'), 
+WebUI.verifyElementText(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_No'), 
     'No')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_No'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_No'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_Not sure'), 
+WebUI.verifyElementPresent(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_Not sure'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_Not sure'), 
+WebUI.verifyElementText(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_Not sure'), 
     'Not sure')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/label_Not sure'))
+WebUI.verifyElementClickable(findTestObject('Form Verification/Nutramigen Form EN/Labels/Page_Nutramigen  Enfamil/label_Not sure'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Nutramigen Form EN/Page_Nutramigen  Enfamil/button_Submit'), 
     0)

@@ -102,11 +102,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/E
 
 WebUI.verifyElementClickable(findTestObject('Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/input_City_18fdd373-a4ad-4c45-b8a2-d0a8b43ea8ae'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/div_State'), 
+WebUI.verifyElementPresent(findTestObject('Ensipre/Dropdowns/Page_Enspire Family Beginnings Registration  Enfamil US/select_State'), 
     0)
-
-WebUI.verifyElementText(findTestObject('Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/div_State'), 
-    'State')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/input_Zip code_b3d77e6e-ceea-4dff-908a-1f2d_4ec643'), 
     0)
@@ -219,11 +216,8 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/E
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/p_Relationship to child'), 
     'Relationship to child')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/div_Select one'), 
+WebUI.verifyElementPresent(findTestObject('Ensipre/Dropdowns/Page_Enspire Family Beginnings Registration  Enfamil US/select_Select oneMotherFatherGrandparentOther'), 
     0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/div_Select one'), 
-    'Select one')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/span_How are you currently feeding your little one'), 
     0)
@@ -249,22 +243,22 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/E
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/p_Your answer helps us personalize your Ens_02095d'), 
     'Your answer helps us personalize your Enspire Family Beginnings experience.')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/label_Yes'), 
+WebUI.verifyElementPresent(findTestObject('Ensipre/Dropdowns/Page_Enspire Family Beginnings Registration  Enfamil US/label_Yes'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/label_Yes'), 
+WebUI.verifyElementText(findTestObject('Ensipre/Dropdowns/Page_Enspire Family Beginnings Registration  Enfamil US/label_Yes'), 
     'Yes')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/label_No'), 
+WebUI.verifyElementPresent(findTestObject('Ensipre/Dropdowns/Page_Enspire Family Beginnings Registration  Enfamil US/label_No'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/label_No'), 
+WebUI.verifyElementText(findTestObject('Ensipre/Dropdowns/Page_Enspire Family Beginnings Registration  Enfamil US/label_No'), 
     'No')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/label_Not sure'), 
+WebUI.verifyElementPresent(findTestObject('Ensipre/Dropdowns/Page_Enspire Family Beginnings Registration  Enfamil US/label_Not sure'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/label_Not sure'), 
+WebUI.verifyElementText(findTestObject('Ensipre/Dropdowns/Page_Enspire Family Beginnings Registration  Enfamil US/label_Not sure'), 
     'Not sure')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enspire Form/Page_Enspire Family Beginnings Registration_996fe8/p_Terms and Conditions'), 

@@ -6,12 +6,12 @@
    <elementGuidId>cbc40f42-eeab-4e55-a845-874c83aaead6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.social-login__btn.social-login__btn--facebook</value>
+         <key>XPATH</key>
+         <value>//button[@class='social-login__btn social-login__btn--facebook']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[13]</value>
+         <key>CSS</key>
+         <value>button.social-login__btn.social-login__btn--facebook</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>05edd2b8-748e-44eb-9691-9b1a84624869</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>3019fa20-9ebb-4785-9174-1d69f4fb41a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Continue with Facebook</value>
+      <webElementGuid>c3ccf66a-7d18-4013-9c44-779c59beacae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,6 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>social-login__btn social-login__btn--facebook</value>
+      <webElementGuid>d0b9ab7e-8868-41d9-bb78-d74232f7667a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,6 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue with Facebook</value>
+      <webElementGuid>04c68ec2-8f2b-4f03-9fcf-54c218927364</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/main[1]/article[@class=&quot;default-page&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row content-grid--full-width&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row page-banner padding-bottom-large page-banner--enrollment-form content-grid--full-width&quot;]/div[@class=&quot;content-grid__column no-padding content-grid__column--size-12&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row enrollment-form&quot;]/div[@class=&quot;content-grid__column content-grid__column--size-12&quot;]/div[@class=&quot;login-register-reset__content login-register-reset__content-register login-register-reset__content--progressive-profile&quot;]/div[@class=&quot;social-login&quot;]/ul[@class=&quot;social-login__list&quot;]/li[@class=&quot;social-login__item social-login__item--facebook&quot;]/button[@class=&quot;social-login__btn social-login__btn--facebook&quot;]</value>
+      <webElementGuid>931644a5-b74a-407b-9c61-a9c2743b302e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>94f89f40-97b2-4fc6-85f8-70b582020a14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/main/article/section[2]/div/div/div/section/div/div/div/section/div/div[3]/div/div/div[2]/ul/li/button</value>
+      <webElementGuid>6c43f794-efb6-47c7-8047-00e475409e14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Or register with your social account'])[1]/following::button[1]</value>
+      <webElementGuid>7d8b471e-4f5b-4869-917c-83f632e9bd8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sweepstakes Official Rules.'])[1]/following::button[1]</value>
+      <webElementGuid>f6c3d22f-cd89-4fd9-b1a8-e06a2cc35e6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,6 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in with Google'])[1]/preceding::button[1]</value>
+      <webElementGuid>c4ed32e0-11cf-4e87-9aa8-c06281bff073</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li/button</value>
+      <webElementGuid>ff424008-cb57-4ec5-a3a2-92ea0ca3b2f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,5 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Continue with Facebook' or . = 'Continue with Facebook')]</value>
+      <webElementGuid>a3887cb8-b385-4ba3-8f8f-5ef7cafe1944</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

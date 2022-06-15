@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nutramigen Savings  Support program</name>
+   <tag></tag>
+   <elementGuidId>a42498c3-04bc-4b2d-a6f6-99203eb4b0a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/nav/ul/li[4]/ul/li[2]/section/div/div/div/ul/li[4]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19ad36b9-8d6a-4585-a5d3-f198e2b7c9f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu__name</value>
+      <webElementGuid>56d7ea62-58ca-4125-9a9c-63fa998b079c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nutramigen Savings &amp; Support program</value>
+      <webElementGuid>94b45809-c475-45cc-a31a-012ffab0f33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app CoreHomePage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__bottom&quot;]/div[@class=&quot;wrapper wrapper--main-header__bottom-items&quot;]/div[@class=&quot;main_header__contents&quot;]/nav[@class=&quot;main-nav&quot;]/ul[@class=&quot;main-nav__first-lvl-nav-elements navigation-list&quot;]/li[@class=&quot;main-nav__link-container main-nav__link-container--has-children&quot;]/ul[@class=&quot;main-nav__second-lvl-nav-elements navigation-list sublist--hidden&quot;]/li[@class=&quot;main-nav__second-lvl-link-container&quot;]/section[@class=&quot;content-grid&quot;]/div[@class=&quot;content-grid__section&quot;]/div[@class=&quot;content-grid__row&quot;]/div[@class=&quot;content-grid__column nav-carousel content-grid__column--offers-savings content-grid__column--size-8&quot;]/ul[@class=&quot;menu-list&quot;]/li[@class=&quot;menu__item nutramigen&quot;]/a[@class=&quot;menu__link link&quot;]/div[@class=&quot;menu__name&quot;]</value>
+      <webElementGuid>24fac2cd-20c4-404a-b6a5-ed61eb5322d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/header/div[3]/div/div[2]/nav/ul/li[4]/ul/li[2]/section/div/div/div/ul/li[4]/a/div</value>
+      <webElementGuid>a694a156-848c-4d61-b848-94d7a2ddde39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfamil Rewards®'])[1]/following::div[2]</value>
+      <webElementGuid>8cc416b1-493c-4bc9-8c44-e4001141493e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enspire Family Beginnings®'])[1]/following::div[4]</value>
+      <webElementGuid>cf138b9e-269f-46c9-b038-ec82938a0377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfacare® Drive to Thrive Support Program'])[1]/preceding::div[2]</value>
+      <webElementGuid>40ac2fe7-792c-4f16-a67e-c04020f189a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enfagrow Free Sample'])[1]/preceding::div[5]</value>
+      <webElementGuid>b17c8c44-9299-4db2-989d-aebc3fc37377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nutramigen Savings &amp; Support program']/parent::*</value>
+      <webElementGuid>f708c636-ca87-4066-b1bd-2be4ef3d2547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/section/div/div/div/ul/li[4]/a/div</value>
+      <webElementGuid>5122c0fe-7b30-464b-8d06-badf38ce29ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nutramigen Savings &amp; Support program' or . = 'Nutramigen Savings &amp; Support program')]</value>
+      <webElementGuid>7df141ff-d098-48d6-8379-af0008718ac8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

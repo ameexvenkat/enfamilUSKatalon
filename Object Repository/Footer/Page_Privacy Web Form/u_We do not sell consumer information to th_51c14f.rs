@@ -6,12 +6,16 @@
    <elementGuidId>3d49f324-e4b9-4fa2-b234-9c8266e547a0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>u</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'We do not sell consumer information to third parties. ' or . = 'We do not sell consumer information to third parties. ')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h1[@id='dsar-webform-welcome-text']/span/p/strong/u</value>
+         <value>//*[(text() = 'We do not sell any of your personal information for money to any third parties. ' or . = 'We do not sell consumer information to third parties. ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>u</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>u</value>
+      <webElementGuid>a632abde-7a23-4002-9853-06fd562d9c32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,6 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>We do not sell consumer information to third parties. </value>
+      <webElementGuid>95246002-a5a0-498f-a9d0-f9f19c87a6ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dsar-webform-welcome-text&quot;)/span[1]/p[1]/strong[1]/u[1]</value>
+      <webElementGuid>7dade5b2-0b83-4554-98b1-9e62bdab4e0d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -43,6 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//h1[@id='dsar-webform-welcome-text']/span/p/strong/u</value>
+      <webElementGuid>b493c618-4de5-431d-90dd-5f949e665dd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -50,6 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Required)'])[1]/preceding::u[1]</value>
+      <webElementGuid>988af9ab-55ca-4aef-abfb-2dddb181a0de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -57,6 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//u</value>
+      <webElementGuid>d44d4516-4d88-4bc4-ae2d-74e01bb0868b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,5 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//u[(text() = 'We do not sell consumer information to third parties. ' or . = 'We do not sell consumer information to third parties. ')]</value>
+      <webElementGuid>a5a5989a-b19c-4a2f-8ca1-cfd345593839</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

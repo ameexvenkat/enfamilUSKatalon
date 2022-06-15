@@ -70,7 +70,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/E
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Enrollment Form/Page_Free Baby Formula Samples  Coupons  Enfamil/span_Or register with your social account'), 
-    'OR REGISTER WITH YOUR SOCIAL ACCOUNT')
+    'OR REGISTER WITH')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enrollment Form/Page_Free Baby Formula Samples  Coupons  Enfamil/button_Continue with Facebook'), 
     0)
@@ -292,7 +292,7 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/E
     0)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Form Verification/Enrollment Form/Page_Free Baby Formula Samples  Coupons  Enfamil/span_Or register with your social account'), 
-    'OR REGISTER WITH YOUR SOCIAL ACCOUNT')
+    'OR REGISTER WITH')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Form Verification/Enrollment Form/Page_Free Baby Formula Samples  Coupons  Enfamil/button_Continue with Facebook'), 
     0)
@@ -694,6 +694,4 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification
 WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/Enrollment Form/Page_Free Baby Formula Samples  Coupons  Enfamil/span_baby formula'))
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Form Verification/Enrollment Form/Page_Free Baby Formula Samples  Coupons  Enfamil/span_Enfamil Family Beginnings_1'))
-
-WebUI.closeBrowser()
 

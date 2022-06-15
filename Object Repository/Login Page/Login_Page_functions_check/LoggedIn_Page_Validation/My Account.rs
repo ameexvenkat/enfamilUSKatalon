@@ -6,12 +6,16 @@
    <elementGuidId>3b3e668c-4076-4774-9a85-9499c006faf2</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-label=&quot;My Account&quot;]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>li.account-nav-main__link-container.account-nav-main__link-container--lvl1.account-nav-main__link-container--has-children.nav__link-container--active</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[@class='account-nav-main__link account-nav-main__link--lvl1 link link--active']</value>
+         <key>BASIC</key>
+         <value>//*[@data-id = 'account-nav-el_My-Account']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,13 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
+      <webElementGuid>b531d3a5-8a01-4aa8-9f0d-f9ca4ccf3de1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-id</name>
       <type>Main</type>
       <value>account-nav-el_My-Account</value>
+      <webElementGuid>18516c6b-3d05-41aa-b86b-476582ec1a51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -36,6 +42,7 @@
       <name>data-level</name>
       <type>Main</type>
       <value>layer1</value>
+      <webElementGuid>ab8720d6-b9d0-437d-8f43-6b7079b35142</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,13 +50,15 @@
       <name>class</name>
       <type>Main</type>
       <value>account-nav-main__link-container account-nav-main__link-container--lvl1 account-nav-main__link-container--has-children  nav__link-container--active</value>
+      <webElementGuid>50a053aa-f4da-45f4-b70c-dc8212cd402b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>My AccountWelcome back, WS _-'.s!My ProfileMy RewardsPast Orders Subscriptions Quick Reorder Shipping AddressLog out </value>
+      <webElementGuid>0961c53d-17e5-4722-a7f0-b4c2664bfc7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,6 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;sk-app RBStarterKitContentGridPage hide-page-title&quot;]/div[@class=&quot;page-container page-container--main&quot;]/header[@class=&quot;main-header main-header--fixed-mobileOnly&quot;]/div[@class=&quot;main-header__top&quot;]/div[@class=&quot;wrapper wrapper--main-header__top-items&quot;]/div[@class=&quot;account-nav-main&quot;]/ul[@class=&quot;account-nav-main__nav-elements account-nav-main__nav-elements--lvl1 navigation-list&quot;]/li[@class=&quot;account-nav-main__link-container account-nav-main__link-container--lvl1 account-nav-main__link-container--has-children  nav__link-container--active&quot;]</value>
+      <webElementGuid>b710979c-44c7-47e4-8627-dd87043fd0cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,6 +74,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/header/div[2]/div/div[2]/ul/li[3]</value>
+      <webElementGuid>39d6b379-c408-42d5-84b7-2e2e23bfdaa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,6 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Rewards'])[1]/following::li[1]</value>
+      <webElementGuid>8325931a-d0d5-4551-87e6-c627025c01c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ask a Nurse'])[1]/following::li[2]</value>
+      <webElementGuid>8ea1b7db-3673-4b65-b173-022e451d6057</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]</value>
+      <webElementGuid>8642d551-e870-407b-89bf-87de300db1c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,5 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = concat(&quot;My AccountWelcome back, WS _-&quot; , &quot;'&quot; , &quot;.s!My ProfileMy RewardsPast Orders Subscriptions Quick Reorder Shipping AddressLog out &quot;) or . = concat(&quot;My AccountWelcome back, WS _-&quot; , &quot;'&quot; , &quot;.s!My ProfileMy RewardsPast Orders Subscriptions Quick Reorder Shipping AddressLog out &quot;))]</value>
+      <webElementGuid>f76f44a6-548d-4427-9b54-0dac8a1a2f41</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

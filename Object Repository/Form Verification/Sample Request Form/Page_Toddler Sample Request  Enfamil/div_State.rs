@@ -6,19 +6,19 @@
    <elementGuidId>c8da2817-cb17-46f6-b8bc-9e887eae8567</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>div.select__value-container.css-1hwfws3</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//div[(text() = 'State' or . = 'State')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='address1registerAddressStateCodeField']/div/div</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>div.select__value-container.css-1hwfws3</value>
+         <value>//*[@placeholder='State']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>2acf9665-d9d7-4665-b48b-36be22593a0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,6 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>ae1c2b73-1a1c-4a4c-a256-46088a269d0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,6 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>State</value>
+      <webElementGuid>b280a6bb-0f5c-4bbe-8be1-8f04f3721dfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;address1registerAddressStateCodeField&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>b1dee194-91c0-4b68-9c35-9d1932f4b630</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,6 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='address1registerAddressStateCodeField']/div/div</value>
+      <webElementGuid>00deff95-0c3e-4d42-a206-6e14877cccdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[3]</value>
+      <webElementGuid>b9e192d7-6a89-42f3-aeac-cce7e554a1ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -68,6 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='City field is required.'])[1]/following::div[5]</value>
+      <webElementGuid>742678a3-4845-489f-ae8d-7c02a592be25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,6 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alabama'])[1]/preceding::div[7]</value>
+      <webElementGuid>fdbac8f9-7b52-4431-af7c-eb8ce6393369</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,6 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>4e84cb81-435c-4183-9851-4812edeb4003</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,5 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'State' or . = 'State')]</value>
+      <webElementGuid>f29726e1-8477-4a0d-b8d7-e685a4eaefe9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

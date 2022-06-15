@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mother_1</name>
+   <tag></tag>
+   <elementGuidId>5428bd23-fe3f-460d-94ca-d4bc9792108b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='22207_ec4933e0-1ea5-4110-a00b-3b7aee327760']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.single-select__value-container.single-select__value-container--has-value.css-1hwfws3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a28d88e-3494-41c9-9dba-6dd1dc6cb7c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>single-select__value-container single-select__value-container--has-value css-1hwfws3</value>
+      <webElementGuid>39c0ca3c-e83a-4e9e-9ee9-82f57032c639</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mother</value>
+      <webElementGuid>60c7bfc8-73e7-41fa-b0fd-ded6dd10a396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;22207_ec4933e0-1ea5-4110-a00b-3b7aee327760&quot;)/div[@class=&quot;single-select__control single-select__control--is-focused single-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;single-select__value-container single-select__value-container--has-value css-1hwfws3&quot;]</value>
+      <webElementGuid>e644537e-c4e3-4003-a037-556a212c63d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='22207_ec4933e0-1ea5-4110-a00b-3b7aee327760']/div/div</value>
+      <webElementGuid>04d27886-6a58-4032-9370-cdfe141c6d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship to child'])[2]/following::div[3]</value>
+      <webElementGuid>cd2ee976-5289-45f5-9b72-071a8bd99490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why?'])[1]/following::div[8]</value>
+      <webElementGuid>48811704-d93b-40e5-8cd2-a900393587e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mother'])[2]/preceding::div[4]</value>
+      <webElementGuid>79cc71d0-03df-43e4-83b3-1ee7a09c427d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/section/div/div/div/div[3]/div/div/div</value>
+      <webElementGuid>d2550e1d-69be-4065-b4c6-b18a3da827aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mother' or . = 'Mother')]</value>
+      <webElementGuid>2f87dd9c-9268-499f-a882-270c1581f569</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
